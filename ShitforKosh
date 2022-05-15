@@ -1,0 +1,6436 @@
+* Add a simple docker-compose setup into tools (#66932)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #66885 [ci skip]
+
+* Fixes traitor reputation being calculated and displayed incorrectly at round end (#66885)
+
+* Automatic changelog generation for PR #66956 [ci skip]
+
+* removes double-tom from Delta brig (#66956)
+
+* Automatic changelog generation for PR #66957 [ci skip]
+
+* Adds Vault access to Icebox vault (#66957)
+
+* Automatic changelog generation for PR #66958 [ci skip]
+
+* Gives boritos more flavour (#66958)
+
+* Automatic changelog generation for PR #66942 [ci skip]
+
+* Extinguishers From Shiptest: A port of a port of a port... Of a port! (#66942)
+
+* Automatic changelog generation for PR #66952 [ci skip]
+
+* Fixes odd icons on the manual valve (#66952)
+
+* Automatic changelog generation for PR #66955 [ci skip]
+
+* Removes one annoying firelock in icebox xenobio (#66955)
+
+* Automatic changelog generation for PR #66941 [ci skip]
+
+* Fixes 968 Active Turfs on MultiZ-Debug (and more) (#66941)
+
+* Allows BS gas sender to be unwrenched, minor gas sender code improvement (#66903)
+
+* `belt.dm` lists are in alphabetical order now. (#66943)
+
+* Automatic changelog generation for PR #66895 [ci skip]
+
+* massively improves the readability of stripping related attack logs (#66895)
+
+* Automatic changelog generation for PR #66891 [ci skip]
+
+* [NO GBP] Fixes hierophant trophy damage (#66891)
+
+* Clean some small details on most vending machine product lists. (#66934)
+
+* Automatic changelog generation for PR #66937 [ci skip]
+
+* Fix biogenerator using 10 times more power than it should (#66937)
+
+* `bags.dm` lists are in alphabetical order now. (#66951)
+
+* Automatic changelog generation for PR #66875 [ci skip]
+
+* Protect against floating-point inaccuracy in log() (#66875)
+
+* Fixes multiple orbiting blades being used at once (#66817)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #66924 [ci skip]
+
+* Removes CPU, Sensors and Identify ModPC parts. (#66924)
+
+* Automatic changelog generation for PR #66930 [ci skip]
+
+* Makes whistles be small sized. (#66930)
+
+* Automatic changelog generation for PR #66900 [ci skip]
+
+* Advanced tools are medium sized, toolboxes can carry medium sized items. (#66900)
+
+* Automatic changelog generation for PR #66876 [ci skip]
+
+* Fixes Cook CQC + job change config fixes (#66876)
+
+* Automatic changelog generation for PR #66911 [ci skip]
+
+* Fixes pants altars being spammable (#66911)
+
+* Automatic changelog generation for PR #66908 [ci skip]
+
+* Fixes the captain's PDA (#66908)
+
+* Automatic changelog generation for PR #66910 [ci skip]
+
+* fixes admin ticket linking bad href (#66910)
+
+* Makes update paths remove keys left after merging. (#66916)
+
+* Automatic changelog generation for PR #66918 [ci skip]
+
+* fixes kilo air alarms(#66918)
+
+* Automatic changelog generation for PR #66922 [ci skip]
+
+* makes minifridges able to hold more stuff (#66922)
+
+* Automatic changelog generation for PR #66904 [ci skip]
+
+* Reduces the chance of spawning a pants altar (#66904)
+
+* Automatic changelog generation for PR #66913 [ci skip]
+
+* Fixes some minor formatting issues with vote text (#66913)
+
+* Automatic changelog generation for PR #66877 [ci skip]
+
+* Access Helpers Pt. 5/6 - Tram Station (Station Proper) (#66877)
+
+* Automatic changelog generation for PR #66912 [ci skip]
+
+* Removes log_cloning (#66912)
+
+* Automatic changelog generation for PR #66819 [ci skip]
+
+* Fixes staff of storms not aggroing mobs (#66819)
+
+* Automatic changelog generation for PR #66902 [ci skip]
+
+* Fixes Airlock Name in EVA on KiloStation (#66902)
+
+* Automatic changelog generation for PR #66839 [ci skip]
+
+* Take 2: Adjust the firelocks in service sector of Icebox (#66839)
+
+* Automatic changelog generation for PR #66901 [ci skip]
+
+* Surgery tools can be recycled for silver. (#66901)
+
+* Automatic changelog generation for PR #66871 [ci skip]
+
+* Access Helpers Pt. 4/6 - Delta Station (#66871)
+
+* Automatic changelog generation for PR #66538 [ci skip]
+
+* New drink sprites aka Drink Desouling (#66538)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #66886 [ci skip]
+
+* [NO GBP] Fixes maint access on cargo doors on MetaStation (#66886)
+
+* Automatic changelog generation for PR #66905 [ci skip]
+
+* Fixes DeltaStation Holodeck placement (#66905)
+
+* Automatic changelog generation for PR #66853 [ci skip]
+
+* Allows ethereals to ghost out of crystallization (#66853)
+
+* Automatic changelog generation for PR #66898 [ci skip]
+
+* Goodbye stack/medical (#66898)
+
+* Automatic changelog generation for PR #66899 [ci skip]
+
+* Makes cult's objectives load before their antag ui (#66899)
+
+* Automatic changelog generation for PR #66836 [ci skip]
+
+* Adds Ceilings To IceMoon Ruins (#66836)
+
+* Automatic changelog generation for PR #66896 [ci skip]
+
+* Lathe taxes now checks departmental flags (#66896)
+
+* Automatic changelog generation for PR #66888 [ci skip]
+
+* Remove organs from delimber anomaly  (#66888)
+
+* Repaths `/obj/item/clothing/mask/animal/rat` to make more sense (#66860)
+
+* Automatic changelog generation for PR #66890 [ci skip]
+
+* Fix wizard modsuit not having antimagic protection (#66890)
+
+* deletes our psd folder (#66892)
+
+* Automatic changelog generation for PR #66859 [ci skip]
+
+* Vape GAGS (#66859)
+
+* Automatic changelog generation for PR #66883 [ci skip]
+
+* make pride ruin front door friendly (#66883)
+
+* Test all maps in parallel integration tests (#66864)
+
+* Automatic changelog generation for PR #66292 [ci skip]
+
+* Randomize lockers, reagent tanks, and atmospherics equipment in Meta maint (#66292)
+
+* Automatic changelog generation for PR #66861 [ci skip]
+
+* fixes dizziness causing hard crashes (#66861)
+
+* Removes "gbasood.byond-dm-language-support" from Extensions.json (#66862)
+
+* Automatic changelog generation for PR #66872 [ci skip]
+
+* Makes constable helmet a subtype of head (#66872)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #66868 [ci skip]
+
+* [NO GBP] IceBox access fix for service hall (#66868)
+
+* Automatic changelog generation for PR #66866 [ci skip]
+
+* Fixes Duplicate APC on IceBoxStation's Prison Wing (#66866)
+
+* Automatic changelog generation for PR #66505 [ci skip]
+
+* [MDB IGNORE] Removes tablet cartridges + reworks a ton more (#66505)
+
+* Automatic changelog generation for PR #66607 [ci skip]
+
+* Refactors how legs are displayed so they no longer appear above one-another when looking EAST or WEST (#66607)
+
+* Automatic changelog generation for PR #66848 [ci skip]
+
+* fixes withdraw stages, sort of (#66848)
+
+* Automatic changelog generation for PR #66842 [ci skip]
+
+* Fix erroneous 'the' in some clown car messages (#66842)
+
+* Automatic changelog generation for PR #66849 [ci skip]
+
+* Fixes "high blood pressure" status effect, and corrects the spelling of "opioid" (fixing another bug) (#66849)
+
+* Automatic changelog generation for PR #66852 [ci skip]
+
+* Converts jittering to status effect, striking yet another mob level status value (#66852)
+
+* Automatic changelog generation for PR #66850 [ci skip]
+
+* [NO GBP] Fixes library maint access on IceBox (#66850)
+
+* Fix teleport rune portals harddeleting (#66841)
+
+* Automatic changelog generation for PR #66828 [ci skip]
+
+* Removes AOE hit detection from fireball (#66828)
+
+* Automatic changelog compile [ci skip]
+
+* Minor twohanded component refactor (#66791)
+
+* Automatic changelog generation for PR #66847 [ci skip]
+
+* Metastation Library Maintenance Airlocks Access Fix (#66847)
+
+* Automatic changelog generation for PR #66805 [ci skip]
+
+* Access Helpers Pt. 3/6(?) - Kilo Station (#66805)
+
+* Automatic changelog generation for PR #66678 [ci skip]
+
+* [NO GBP] Fix mapped cardhands not initializing (#66678)
+
+* Automatic changelog generation for PR #66835 [ci skip]
+
+* fix delimber anomaly making not being made in refinery (#66835)
+
+* Automatic changelog generation for PR #66832 [ci skip]
+
+* The supermatter cascade now takes one minute to end the round instead of 5 minutes to end the round, to put it on par with Blob and such. (#66832)
+
+* Switches vscode dmi editor to new one. (#66834)
+
+* Automatic changelog generation for PR #66800 [ci skip]
+
+* improve speed of cascade walls, better description for them + CL for cascade antag (#66800)
+
+* Add lint to validate tgstation.dme is in the proper order (#66831)
+
+* Automatic changelog generation for PR #66824 [ci skip]
+
+* Powerfist code improvement (#66824)
+
+* Automatic changelog generation for PR #66830 [ci skip]
+
+* Fixes Marker Beacons Not Having an Icon (#66830)
+
+* Automatic changelog generation for PR #66825 [ci skip]
+
+* atmos layers update (#66825)
+
+* Automatic changelog generation for PR #66827 [ci skip]
+
+* Fix a missing bold tag in the omega soap poem (#66827)
+
+* Automatic changelog generation for PR #66589 [ci skip]
+
+* Adds lore terminals for mappers (#66589)
+
+* Automatic changelog generation for PR #66823 [ci skip]
+
+* Fixes misplaced sofa in the Icemoon village ruin. (#66823)
+
+* Automatic changelog generation for PR #66815 [ci skip]
+
+* Fixes heretic marks working on corpses (#66815)
+
+* Fix destroy_machinery runtime (#66810)
+
+* Automatic changelog generation for PR #66816 [ci skip]
+
+* Fixes duplicate hairstyles replacing the original ones (#66816)
+
+* Automatic changelog generation for PR #66625 [ci skip]
+
+* Rebalances, adds, and removes certain bounties (#66625)
+
+* Automatic changelog generation for PR #66754 [ci skip]
+
+* [MDB Ignore] Mapping directional helpers for signs + sign naming conventions (#66754)
+
+* Automatic changelog generation for PR #66818 [ci skip]
+
+* Fixes charged greens displaying species types instead of names (#66818)
+
+* Automatic changelog generation for PR #66807 [ci skip]
+
+* Fixes some overlapping wall objects on the IceBox Minisat (#66807)
+
+* Automatic changelog generation for PR #66371 [ci skip]
+
+* Fix books to only give mood bonus when read the first time (#66371)
+
+* Revert "Add stamped requisition forms now give bonus credits (#66230)" (#66851)
+
+* Confusion status effect is now duration based instead of magic number based (#66801)
+
+* Removes (now unused) sandbox related config and variable (#66803)
+
+* Automatic changelog generation for PR #66107 [ci skip]
+
+* Ripley mechs (and other mechs that are missing an air tank) can no longer toggle the air source. (#66107)
+
+* Automatic changelog generation for PR #66804 [ci skip]
+
+* Supermatter Cascades are not Universe-Destroying Events (#66804)
+
+* Automatic changelog generation for PR #66806 [ci skip]
+
+* Fixes food progression on oldstation ruin (#66806)
+
+* Automatic changelog generation for PR #66229 [ci skip]
+
+* Fixes mulligan not randomizing ethereal color, removes default_color for every race except ethereals (#66229)
+
+* More codeowners housekeeping (#66843)
+
+* Automatic changelog generation for PR #66707 [ci skip]
+
+* Resculpts IceBox's Exterior (Plasma River Edition) (#66707)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #66636 [ci skip]
+
+* Sorts ai_laws.dm, adds Dungeon Master, The Painter and Their Canvas, and Nutimov lawsets (#66636)
+
+* Add guidelines to ensure the maintainers and issue jannies understand the place and purpose of templates. (#66673)
+
+* Automatic changelog generation for PR #66753 [ci skip]
+
+* Access Helpers Pt. 2/6(?) - IceBox Station (#66753)
+
+* Automatic changelog generation for PR #66797 [ci skip]
+
+* Fixes deltastation toxins tank compressor direction (#66797)
+
+* Codeowners Housekeeping (#66813)
+
+* Automatic changelog generation for PR #66779 [ci skip]
+
+* New Camera Sprites from Eris! (#66779)
+
+* Automatic changelog generation for PR #66711 [ci skip]
+
+* Removes "strandling" status effect from a bunch of random places / refactors it (#66711)
+
+* Automatic changelog generation for PR #66793 [ci skip]
+
+* Titan's Final Lament - Colossus and hierophant crusher trophy rework (#66793)
+
+* Automatic changelog generation for PR #66782 [ci skip]
+
+* Freon combustion burn rate is now based on oxygen moles if there isn't enough oxygen for full burn. Fixes freon hotspots. (#66782)
+
+* Automatic changelog generation for PR #66787 [ci skip]
+
+* [NO GBP] Added missing anomaly core to icebox ordnance and fixed the chambers in tram and kilo (#66787)
+
+* Separates regenerative core and wounded alerts (#66794)
+
+* Refactors cyborg drink refilling into a component (#66795)
+
+* Automatic changelog generation for PR #66727 [ci skip]
+
+* Mindshock/mindshield modifications (#66727)
+
+* Automatic changelog generation for PR #66749 [ci skip]
+
+* Standardizes The "Tram" Area Icons (#66749)
+
+* Automatic changelog generation for PR #66789 [ci skip]
+
+* Adds a check for border objects to projectile impacts (#66789)
+
+* changes name of trait "STUNRESISTANCE" to trait "BATON_RESISTANCE", changes some descriptions  (#66788)
+
+* moves me to the maint section in codeowners (#66811)
+
+* Automatic changelog generation for PR #66709 [ci skip]
+
+* Ventcrawling improvements, performance and visual (#66709)
+
+* Automatic changelog compile [ci skip]
+
+* Anomaly expansion - part 2 - Delimber anomaly (#66420)
+
+* Automatic changelog generation for PR #66736 [ci skip]
+
+* Mapping Marker Markets - They're All In Now (#66736)
+
+* Automatic changelog generation for PR #66479 [ci skip]
+
+* Exporting computer parts fixes (and code improvement) (#66479)
+
+* Updates ice cream & food cart sprites (#66774)
+
+* Automatic changelog generation for PR #66544 [ci skip]
+
+* Titanium and plastitanium shards and weapons + missing textures. (#66544)
+
+* Automatic changelog generation for PR #66776 [ci skip]
+
+* [NO GBP] Fixes roundstart errors in access applications on MetaStation (#66776)
+
+* Automatic changelog generation for PR #66457 [ci skip]
+
+* Fixes briefcase launchpads having no power when being in an area that does (#66457)
+
+* Automatic changelog generation for PR #66295 [ci skip]
+
+* Kudzu Rebalances v2 (#66295)
+
+* Automatic changelog generation for PR #66772 [ci skip]
+
+* Refactors SSvote, makes votes into datums, also makes vote ui Typescript (#66772)
+
+* Automatic changelog generation for PR #66773 [ci skip]
+
+* Set steel_sheet_cost for tablets (PDAs) to 2 (#66773)
+
+* Automatic changelog generation for PR #66414 [ci skip]
+
+* Add silver requirement for surgery tools (#66414)
+
+* Automatic changelog generation for PR #66230 [ci skip]
+
+* Add stamped requisition forms now give bonus credits (#66230)
+
+* Automatic changelog generation for PR #66771 [ci skip]
+
+* Steal objective can now be cashed out early for less reward as soon as you place the bug on. Removes smuggling objective and adds a new 'Destroy Machinery' objective (#66771)
+
+* Automatic changelog generation for PR #66757 [ci skip]
+
+* Changes stripped_input to behave like tgui_text (#66757)
+
+* Automatic changelog generation for PR #66639 [ci skip]
+
+* Supermatter zaps now are colored based on the power (#66639)
+
+* Automatic changelog generation for PR #66327 [ci skip]
+
+* Improve nearsighted code (#66327)
+
+* Automatic changelog generation for PR #66770 [ci skip]
+
+* shuffles (#66770)
+
+* Automatic changelog generation for PR #66380 [ci skip]
+
+* Adds even more foods! (#66380)
+
+* Refactors how bots scan for stuff (#66681)
+
+* Automatic changelog generation for PR #66666 [ci skip]
+
+* Adds an ancient altar to maintenance. (#66666)
+
+* Automatic changelog generation for PR #66659 [ci skip]
+
+* Supermatter cascade round-end (#66659)
+
+* Bandana GAGS follow-up (#66605)
+
+* Automatic changelog generation for PR #66562 [ci skip]
+
+* Freon reaction rebalance and improvements (#66562)
+
+* Splits up `_mecha.dm`, sorting procs into more specific files (#66662)
+
+* Automatic changelog generation for PR #66752 [ci skip]
+
+* SM delamination flux nerf (#66752)
+
+* Fixes bad areastring in tramstation (#66764)
+
+* Blacklists holodeck computer from unit_test/create_and_destroy (#66765)
+
+* Automatic changelog generation for PR #66742 [ci skip]
+
+* removes permeability, rolling it into bio armor (#66742)
+
+* Automatic changelog generation for PR #65813 [ci skip]
+
+* Mechs now use equipment flags to check if they can attach (#65813)
+
+* Forgot about CI failure due to runtime (whoops) (#66762)
+
+* Automatic changelog generation for PR #66566 [ci skip]
+
+* Disables the tax on off-station lathes (#66566)
+
+* Automatic changelog generation for PR #66647 [ci skip]
+
+* Emagging the anomaly compressor will eject the bomb the next time someone tries to use it. (#66647)
+
+* Automatic changelog generation for PR #66599 [ci skip]
+
+* Refactors the Charge wizard spell (#66599)
+
+* cablesnip (#66733)
+
+* Automatic changelog generation for PR #66650 [ci skip]
+
+* Clever Mutation (#66650)
+
+* Automatic changelog generation for PR #66759 [ci skip]
+
+* fixes some grammar and clarifies the explanation for the turbine (#66759)
+
+* Automatic changelog generation for PR #66756 [ci skip]
+
+* Removes built-in access reqs from certain airlocks (#66756)
+
+* Automatic changelog generation for PR #66692 [ci skip]
+
+* SM damage and balance (#66692)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #66567 [ci skip]
+
+* Parallax but better: Smooth movement cleanup (#66567)
+
+* Automatic changelog generation for PR #66737 [ci skip]
+
+* Fixes computers being unusable and runtiming to hell (#66737)
+
+* Automatic changelog generation for PR #66424 [ci skip]
+
+* Genetic Scanner shows active mutations, allows genetics to recycle unused mutators (#66424)
+
+* Automatic changelog generation for PR #66608 [ci skip]
+
+* Makes heretic ghoul rituals are a bit more descriptive  (#66608)
+
+* Automatic changelog generation for PR #66623 [ci skip]
+
+* Tesla coil upgrade nerf (#66623)
+
+* Automatic changelog generation for PR #66748 [ci skip]
+
+* Fixes Duplicate Icon Naming in Areas_Station.dmi (#66748)
+
+* Automatic changelog generation for PR #65281 [ci skip]
+
+* Makes smoke and foam attempt to fill the available space. (#65281)
+
+* Automatic changelog generation for PR #66746 [ci skip]
+
+* New mob fire! (#66746)
+
+* Automatic changelog generation for PR #66537 [ci skip]
+
+* expands gas analyzer functionality (#66537)
+
+* Automatic changelog generation for PR #66741 [ci skip]
+
+* Tramstation arrival air connect (#66741)
+
+* Automatic changelog generation for PR #66747 [ci skip]
+
+* double airlock removal (#66747)
+
+* Automatic changelog generation for PR #66744 [ci skip]
+
+* Update MetaStation.dmm (#66744)
+
+* Automatic changelog generation for PR #66356 [ci skip]
+
+* [Kilostation] Command gets Rockier (#66356)
+
+* Automatic changelog generation for PR #66164 [ci skip]
+
+* Splits eye color into two vars | Heterochromia Quirk (#66164)
+
+* Automatic changelog generation for PR #66734 [ci skip]
+
+* Shuffles around Delta's virology airlock (#66734)
+
+* Automatic changelog generation for PR #66732 [ci skip]
+
+* changes firealarm position on kilo medbay (#66732)
+
+* Automatic changelog generation for PR #66719 [ci skip]
+
+* Removes a second intercom in captain's office on Delta (#66719)
+
+* Automatic changelog generation for PR #66621 [ci skip]
+
+* Deadchat control alerts ghosts when they can input another command (#66621)
+
+* Automatic changelog generation for PR #66595 [ci skip]
+
+* Improper forced qdel cleanup,  some expanded del all verbs (#66595)
+
+* Automatic changelog generation for PR #66250 [ci skip]
+
+* Firelock optimization and behavior changes (#66250)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #66572 [ci skip]
+
+* Adds some sanity to the blade heretic's mark effect (#66572)
+
+* Eigenstasium overdose effect lines now use a strings file (#66579)
+
+* Automatic changelog generation for PR #66751 [ci skip]
+
+* Gives atmos techs general engineering access by default (#66751)
+
+* Automatic changelog generation for PR #66750 [ci skip]
+
+* Fixed an access problem with meta engineering (#66750)
+
+* Automatic changelog generation for PR #66660 [ci skip]
+
+* adds a random job button (#66660)
+
+* Automatic changelog generation for PR #66701 [ci skip]
+
+* Adds the HoP to Cargo's department (#66701)
+
+* Automatic changelog generation for PR #66725 [ci skip]
+
+* Moves a telescreen in Deltastation's rec room (#66725)
+
+* Fixes overlapping fire alarms in IceBox. (#66723)
+
+* [MDB IGNORE] You can have your cake and eat it too. Remake of #66406 (Splitting up areas.dmi + code related stuff) (#66726)
+
+* Automatic changelog generation for PR #66722 [ci skip]
+
+* Syringes and injectors icons (#66722)
+
+* Automatic changelog generation for PR #66481 [ci skip]
+
+* tank compressor qol (#66481)
+
+* Clown Bomb Clowns and Station Clown share a faction, stopping attacks (#66318)
+
+* Automatic changelog generation for PR #66739 [ci skip]
+
+* Changes it into a list (#66739)
+
+* Improves mutation code a bit (#66654)
+
+* Automatic changelog generation for PR #66677 [ci skip]
+
+* Applying templates now changes a job's payment department. (#66677)
+
+* Automatic changelog generation for PR #66553 [ci skip]
+
+* [NO GBP] Loosens gas pressure transfer calculation limit a bit. (#66553)
+
+* Automatic changelog generation for PR #66688 [ci skip]
+
+* Fixes plants not taking proximity into account (#66688)
+
+* Automatic changelog generation for PR #66576 [ci skip]
+
+* Fixes demonic watchers not dropping their crusher trophy (#66576)
+
+* Adds a link to the Guide To Mapping in Maps and Away Missions (#66592)
+
+* Automatic changelog generation for PR #66618 [ci skip]
+
+* Fixes luminescent bodyparts (#66618)
+
+* Allows modsuits to be set to wear on other slots. (#66667)
+
+* Automatic changelog generation for PR #66610 [ci skip]
+
+* Stops floating mobs from being affected by slowndown bulky_drag and human_carry (#66610)
+
+* Automatic changelog generation for PR #66653 [ci skip]
+
+* okay (#66653)
+
+* Automatic changelog generation for PR #66665 [ci skip]
+
+* fixes shy component's whitelist accidentally being a blacklist (#66665)
+
+* Fixes legionnaire spine crusher trophy (#66689)
+
+* Automatic changelog generation for PR #66454 [ci skip]
+
+* Remaps meta's ordnance take two (#66454)
+
+* adds new z-level trait to disable parallax (#66637)
+
+* Automatic changelog generation for PR #66700 [ci skip]
+
+* Fixes departmental revolts (#66700)
+
+* Automatic changelog generation for PR #66693 [ci skip]
+
+* Makes mobs created by friendly life actually friendly (#66693)
+
+* Automatic changelog generation for PR #66686 [ci skip]
+
+* fix duplicate defintion of coagulant (#66686)
+
+* tgui: Fix usage of computeBoxClassName (#66691)
+
+* External organs can now contribute bodytypes to their owner (#66704)
+
+* Automatic changelog generation for PR #66702 [ci skip]
+
+* New Cryosleeper and Space Suit sprites from Shiptest! (#66702)
+
+* Automatic changelog generation for PR #66445 [ci skip]
+
+* More generic mech construction messages & balloon alerts (#66445)
+
+* Automatic changelog generation for PR #66670 [ci skip]
+
+* Floor Variety Pack (#66670)
+
+* Automatic changelog generation for PR #66703 [ci skip]
+
+* the ink is probably worth more than the station (#66703)
+
+* Automatic changelog compile [ci skip]
+
+* disallows playing roulette with department budgets (#66597)
+
+* Automatic changelog generation for PR #66698 [ci skip]
+
+* fixes tramstation engineering external airlock (#66698)
+
+* Automatic changelog generation for PR #66694 [ci skip]
+
+* Fixes Icebox making the Chaplain unable to replace their Altar (#66694)
+
+* Adds CI for inverted conveyor belt (#66672)
+
+* Automatic changelog generation for PR #66646 [ci skip]
+
+* Fixed female fitted uniforms not being fitted for female bodies (#66646)
+
+* Automatic changelog generation for PR #66386 [ci skip]
+
+* Pacman small rework - less power, more consumption - no more super (#66386)
+
+* Automatic changelog generation for PR #66573 [ci skip]
+
+* Refactors firestacks into status effects (#66573)
+
+* Hud Image Culling By Z Level: Theft edition (#65189)
+
+* Automatic changelog generation for PR #66340 [ci skip]
+
+* Converts drunkness and dizziness to status effects. Refactors status effect examine text (and, subsequently, stabilized black extracts).  (#66340)
+
+* Fix granular admin ranks not being loaded from DB (#66706)
+
+* Enables out of order moveloop removal (#66532)
+
+* Keep mutating filenames when the cdn is disabled. (#66550)
+
+* Automatic changelog generation for PR #66685 [ci skip]
+
+* Removes cables/pipes from a section of tram medbay maint  (#66685)
+
+* Automatic changelog generation for PR #66684 [ci skip]
+
+* Adds a camera to delta's virology lobby, edits viro entrance access  (#66684)
+
+* Automatic changelog generation for PR #66615 [ci skip]
+
+* Menage A Trois - Putting IceBoxStation In One DMM File (#66615)
+
+* Automatic changelog compile [ci skip]
+
+* Remove unhelpful debug message (#66696)
+
+* Automatic changelog generation for PR #66675 [ci skip]
+
+* Buffs drying reagent's floor drying (#66675)
+
+* Update Comments and Adjusts Incorrect Variables for Map Defines and Map Config (#66540)
+
+* [s] webedit security patch to locate() wrapper (#66264)
+
+* Automatic changelog generation for PR #66368 [ci skip]
+
+* Granular admin perms (#66368)
+
+* Automatic changelog generation for PR #66305 [ci skip]
+
+* Radiation pulse changes. The chance of getting irradiated decreases the further you are from the source, and from objects that block radiation. (#66305)
+
+* Makes integration test results be in color and have annotations (#66649)
+
+* Automatic changelog generation for PR #66112 [ci skip]
+
+* Removes some unnecessary species mentions from kapuparts (#66112)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #66114 [ci skip]
+
+* makes plasma stabilizer only care for helmet (#66114)
+
+* Automatic changelog generation for PR #66661 [ci skip]
+
+* removes metastation (disposal pipe) (#66661)
+
+* Automatic changelog generation for PR #66517 [ci skip]
+
+* fix oversight with prop gasmasks having some of the features of normal ones (#66517)
+
+* Adds deletion functionality to update paths script. (#66506)
+
+* Automatic changelog generation for PR #66185 [ci skip]
+
+* Middle Mouse Button now toggles equipment safety on mechs. (#66185)
+
+* Moves fauna made armor into the same file as the basic explorer armor. (#66638)
+
+* Places Greater Importance on Justifying Your Changes in the Why Its Good for the Game Section (#66426)
+
+* adds a config folder for off-repo modular ruins (#66408)
+
+* Automatic changelog generation for PR #66502 [ci skip]
+
+* This just like george orwell's book uh... 1984 (#66502)
+
+* Automatic changelog generation for PR #66671 [ci skip]
+
+* adds prisoner landmarks to Icebox (#66671)
+
+* Automatic changelog generation for PR #66630 [ci skip]
+
+* Removes windows in Kilo genetics monkey pen, allows access to the wallmounts. (#66630)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #66588 [ci skip]
+
+* Adds MetaStation Access Helpers (#66588)
+
+* Automatic changelog generation for PR #64200 [ci skip]
+
+* Card Shark DLC - GIMMIE MY MONEY OR I BREAK YOUR KNEECAPS (#64200)
+
+* Resprites secborg to be blue (#66074)
+
+* Automatic changelog generation for PR #66603 [ci skip]
+
+* Fixes Kilo's mining shuttle, allows it to charge while docked, also moves a pipe to properly connect with a vent. (#66603)
+
+* Automatic changelog generation for PR #66501 [ci skip]
+
+* adds the "how to charge your PDA" contraband poster (#66501)
+
+* Automatic changelog generation for PR #66519 [ci skip]
+
+* Separates robot_items.dm and cleans up the code (#66519)
+
+* Automatic changelog generation for PR #66421 [ci skip]
+
+* Mining voucher redeem selection now uses a radial menu (#66421)
+
+* Automatic changelog generation for PR #65971 [ci skip]
+
+* Render plate master is now above all planes (#65971)
+
+* Automatic changelog generation for PR #66551 [ci skip]
+
+* fixes pAI newscaster's UI (#66551)
+
+* Automatic changelog generation for PR #66593 [ci skip]
+
+* Fixes Drones being charged for using the Lathe on/off station (#66593)
+
+* Automatic changelog generation for PR #66620 [ci skip]
+
+* Fixes cryo cell overlay (#66620)
+
+* Automatic changelog generation for PR #66530 [ci skip]
+
+* Fixes being able to ride dead space carp (#66530)
+
+* Automatic changelog generation for PR #66518 [ci skip]
+
+* Fixes clothing and hair poking out of H.E.C.K. suit (#66518)
+
+* Automatic changelog generation for PR #66604 [ci skip]
+
+* Refactors wizard casting clothes into a clothing bitflag (#66604)
+
+* Automatic changelog generation for PR #66617 [ci skip]
+
+* Moves around some vents in Kilostation's garden (#66617)
+
+* Automatic changelog generation for PR #66609 [ci skip]
+
+* Fixes cayenne nuke interaction (#66609)
+
+* Automatic changelog generation for PR #66612 [ci skip]
+
+* Drones can't give themselves access to machines/wires (#66612)
+
+* Automatic changelog generation for PR #66298 [ci skip]
+
+* HFR delaminations now explains whats wrong (#66298)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #65984 [ci skip]
+
+* Confiscates the bounty hunter flamethrower, gives them a fire cycler shotgun + fire pistol (#65984)
+
+* Refactors the SM delaminations into the supermatter_delaminations.dm (#66322)
+
+* Automatic changelog compile [ci skip]
+
+* Fixes offset features (#66477)
+
+* Automatic changelog generation for PR #66483 [ci skip]
+
+* Fix explodable component attack targeting check to be in line with the comment (#66483)
+
+* Automatic changelog generation for PR #66539 [ci skip]
+
+* Fix ghosts not being able to read (#66539)
+
+* Segregate blindness code out of reading check (#66383)
+
+* Automatic changelog generation for PR #66507 [ci skip]
+
+* Fixes consistency issue with sec hailer's emag act (#66507)
+
+* Automatic changelog generation for PR #66563 [ci skip]
+
+* Heretic shadow realm now utilizes get_safe_random_station_turf() instead of find_safe_turf (#66563)
+
+* Automatic changelog generation for PR #66533 [ci skip]
+
+* Sausage is no longer served with raw egg (#66533)
+
+* Automatic changelog generation for PR #66472 [ci skip]
+
+* Botany Bean Expansion (#66472)
+
+* Automatic changelog generation for PR #66527 [ci skip]
+
+* Fixes hair and facial hair not blocking emissives as they should (#66527)
+
+* Anomaly expansion - part 1 - Hallucination anomaly (#66392)
+
+* Remaps icebox's ordnance (#66010)
+
+* Automatic changelog generation for PR #66581 [ci skip]
+
+* Helium makes your speech small (#66581)
+
+* Automatic changelog generation for PR #66301 [ci skip]
+
+* Makes glass floors override platings. Fixes glass floor openspace bug. (#66301)
+
+* Automatic changelog generation for PR #66569 [ci skip]
+
+* readds the chameleon gun (#66569)
+
+* Automatic changelog generation for PR #66591 [ci skip]
+
+* Fixes airlock cyclers + renames airlocks (#66591)
+
+* Automatic changelog generation for PR #66585 [ci skip]
+
+* Fix a disposal bin on kilostation not being connected (#66585)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #66600 [ci skip]
+
+* Fixes DeltaStation's Cargo Bay Accesses (IDIOT EDITION) (#66600)
+
+* Automatic changelog generation for PR #66574 [ci skip]
+
+* fixes some modsuit bugs (#66574)
+
+* Automatic changelog generation for PR #66575 [ci skip]
+
+* Removes inconsistent catwalk/cable/pipe tiles in TramStation. (#66575)
+
+* Automatic changelog generation for PR #66570 [ci skip]
+
+* Cargo Resprite by Dragonfruits! (#66570)
+
+* Automatic changelog generation for PR #66582 [ci skip]
+
+* Removes collapsing from position column (#66582)
+
+* Makes the Documentation tag give 1 GBP (#66496)
+
+* Automatic changelog generation for PR #66568 [ci skip]
+
+* moves a poster literally one tile down (#66568)
+
+* Automatic changelog generation for PR #66565 [ci skip]
+
+* Removes like a couple of stray wires and pipes from tram mod medbay maint (#66565)
+
+* Automatic changelog generation for PR #66556 [ci skip]
+
+* Fixes Openspace and Space Usage Errors on TramStation (#66556)
+
+* Automatic changelog generation for PR #66521 [ci skip]
+
+* Rearrange Delta library gaming room to host D&D parties (#66521)
+
+* Automatic changelog compile [ci skip]
+
+* Most materials can be used to build most things (#66181)
+
+* Automatic changelog generation for PR #66561 [ci skip]
+
+* Moves an intercom in Metastation captain's office to prevent overlapping. (#66561)
+
+* Automatic changelog generation for PR #66560 [ci skip]
+
+* Removes a duplicate APC and adds proper cycling to DeltaStation RnD Circuit-Toxin area (#66560)
+
+* Automatic changelog generation for PR #66545 [ci skip]
+
+* [NO GBP] Fixes the moth costumer for the restaurant venue not showing up and bar venue customers. (#66545)
+
+* Automatic changelog generation for PR #66531 [ci skip]
+
+* Removes some excessive fire alarms from Tram Medbay and other wall mount stuff (#66531)
+
+* Automatic changelog generation for PR #66557 [ci skip]
+
+* le crates added (#66557)
+
+* Automatic changelog generation for PR #66552 [ci skip]
+
+* Fixes the mining augment icon_states not being named properly (#66552)
+
+* Automatic changelog generation for PR #66524 [ci skip]
+
+* Makes tablets get names when not spawned on the belt (#66524)
+
+* Automatic changelog generation for PR #66418 [ci skip]
+
+* Nullwave Vibrato now works as intended (fix and balance) (#66418)
+
+* Pens require gravity to write (#66310)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #66543 [ci skip]
+
+* Fix lionhunter ammo side path (#66543)
+
+* Automatic changelog generation for PR #66547 [ci skip]
+
+* Fix tram ordnance being unpowered (#66547)
+
+* Automatic changelog generation for PR #66546 [ci skip]
+
+* Fixes double light fixture on tramstation (#66546)
+
+* Automatic changelog generation for PR #66136 [ci skip]
+
+* Replaces the weed sprites, and removes the /goon folder. (#66136)
+
+* Automatic changelog generation for PR #66534 [ci skip]
+
+* Fixes pipes that no longer need to be there in a modular ruin (#66534)
+
+* genericizes modsuit parts more (#66520)
+
+* Automatic changelog generation for PR #66559 [ci skip]
+
+* Fix: change onInput to onEnter (#66559)
+
+* Automatic changelog generation for PR #65795 [ci skip]
+
+* Arconomy: The bigger balance PR (REVISED EDITION) (#65795)
+
+* Automatic changelog generation for PR #65884 [ci skip]
+
+* add halon formation to electrolyzer, remove normal one (#65884)
+
+* adds (and improves existing) documentation for weldingtool.dm (#66500)
+
+* Automatic changelog generation for PR #66498 [ci skip]
+
+* adds christmas tree spawner + christmas cracker documentation (#66498)
+
+* Adds a power consumption multiplier to help downstreams change their consumption easily  (#66476)
+
+* Remove data/ from /datum/asset/json url mapping (#66549)
+
+* Automatic changelog generation for PR #66222 [ci skip]
+
+* Continuous Progression - Supply's Door Access Helpers (#66222)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #66510 [ci skip]
+
+* Printable N-Spects (#66510)
+
+* Customer robots can now order ice cream. (#66073)
+
+* Automatic changelog generation for PR #66463 [ci skip]
+
+* Makes the third level of icebox count as station (#66463)
+
+* Automatic changelog generation for PR #66462 [ci skip]
+
+* IceBox Sec Revamp Pt. 2/3 - Corporate Press Release (#66462)
+
+* Automatic changelog generation for PR #66196 [ci skip]
+
+* Stabilized extracts work in modsuits (#66196)
+
+* Automatic changelog generation for PR #66276 [ci skip]
+
+* Prevent bullets from sometimes missing if blocked by another person diagonally (#66276)
+
+* Automatic changelog generation for PR #66249 [ci skip]
+
+* Fixes prescription glasses not clearing blurry vison (#66249)
+
+* Automatic changelog generation for PR #66512 [ci skip]
+
+* Fixes missing area in some of the crashed ship rocks. (#66512)
+
+* Automatic changelog generation for PR #66509 [ci skip]
+
+* Add more hud, gloves, and belts to tramstation (#66509)
+
+* Automatic changelog generation for PR #66511 [ci skip]
+
+* Icebox Brig usability fixes (#66511)
+
+* Automatic changelog generation for PR #66470 [ci skip]
+
+* adds pda paper scanning, and gives head job disks the tech web (#66470)
+
+* Automatic changelog generation for PR #66503 [ci skip]
+
+* Fixed Icebox's lower two z-levels not being included in the Map Compile action (#66503)
+
+* Automatic changelog generation for PR #66495 [ci skip]
+
+* fixes unintended merge behavior (#66495)
+
+* Automatic changelog generation for PR #66037 [ci skip]
+
+* Human Life Optimization: Citrus Flavored (#66037)
+
+* Put "Feature" in ABC order in gbp.toml (#66487)
+
+* Automatic changelog generation for PR #66493 [ci skip]
+
+* Prop atmos mask uses the correct worn sprite (#66493)
+
+* Automatic changelog generation for PR #66513 [ci skip]
+
+* Fixes nopower disabling RND servers permanently (#66513)
+
+* Automatic changelog generation for PR #66484 [ci skip]
+
+* Adds sealed_invisibility = hidejumpsuit to both nuke op mod suit and clown op mod suit (#66484)
+
+* Adds a discord bot command version of show-server-revision (#66338)
+
+* Automatic changelog generation for PR #66304 [ci skip]
+
+* Adds the Accounting Console to the game (HOP Job Content) (#66304)
+
+* Automatic changelog generation for PR #66494 [ci skip]
+
+* updateDialog and updateUsrDialog cleanup (#66494)
+
+* Automatic changelog generation for PR #66459 [ci skip]
+
+* removes headpat/tailpull signals (#66459)
+
+* Increase operations-per-run for github stale workflow (#66307)
+
+* Automatic changelog generation for PR #66475 [ci skip]
+
+* Fixes feedback on enabling / disabling glasses colors (#66475)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #66480 [ci skip]
+
+* eshield pixel (#66480)
+
+* Automatic changelog generation for PR #66218 [ci skip]
+
+* Adds a scope component, removes old zooming and adds sniper marksman ammo. (#66218)
+
+* Automatic changelog generation for PR #66068 [ci skip]
+
+* Makes lavaland air pressure always high enough for wings to work (#66068)
+
+* Automatic changelog generation for PR #66482 [ci skip]
+
+* Fixes the krokodil zombie transformation (#66482)
+
+* Automatic changelog generation for PR #66485 [ci skip]
+
+* Fix putting plasma cutter blowing you up if you have plasma equipped. (#66485)
+
+* Automatic changelog generation for PR #66490 [ci skip]
+
+* fixes ethereal feeding breaking APC charging (#66490)
+
+* Automatic changelog generation for PR #66508 [ci skip]
+
+* [NO GBP] the gateway's light is now an image instead of mutable appearance (#66508)
+
+* Automatic changelog generation for PR #66390 [ci skip]
+
+* rebalance sm delamination anomalies amount (#66390)
+
+* fixes problems with access helpers (#66456)
+
+* Updates Maps And Away Missions MD (#66455)
+
+* Automatic changelog generation for PR #66461 [ci skip]
+
+* Fix display ordering bug with spawn ruins debug verb (#66461)
+
+* Automatic changelog generation for PR #66458 [ci skip]
+
+* Removes a 'unlock failed' message from PDA uplink code (#66458)
+
+* Automatic changelog generation for PR #66453 [ci skip]
+
+* Make grinders consume the right amount of power (#66453)
+
+* Fixes reagents runtime (#66432)
+
+* Adds support for simple subtype repathing for UpdatePaths scripts (#66469)
+
+* removes a comment mentioning removing hulk (#66478)
+
+* Adds MC initialization stages. Earlier stages can fire while later ones init. Fixes tgui chat reconnection banner showing during init. (#66473)
+
+* Automatic changelog generation for PR #66411 [ci skip]
+
+* [MDB IGNORE] Removes ballast from thermomachines (#66411)
+
+* Automatic changelog generation for PR #66468 [ci skip]
+
+* Fixes Kilostation whiteship (#66468)
+
+* Automatic changelog generation for PR #66467 [ci skip]
+
+* Fixes safe location on bridge on Kilostation (#66467)
+
+* Automatic changelog generation for PR #66466 [ci skip]
+
+* [NO GBP] Fixes firelock overlap of posters on KiloStation (#66466)
+
+* Automatic changelog generation for PR #66464 [ci skip]
+
+* Adds an APC to the IceBox Mining Area on lowest level and seperates area (#66464)
+
+* the gateway room now has glass shutters, gateway lights up only when theres an active location  (#66429)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #66286 [ci skip]
+
+* replaces the old carrier sprite with the new tgmc one (#66286)
+
+* Automatic changelog generation for PR #66433 [ci skip]
+
+* Adds Icons to Crew Monitor Console (#66433)
+
+* Automatic changelog generation for PR #66248 [ci skip]
+
+* Redoes decal painter UI and adds tile sprayer (#66248)
+
+* Automatic changelog generation for PR #66450 [ci skip]
+
+* Removes an unneded istype in A* pathfinding (#66450)
+
+* Automatic changelog generation for PR #66452 [ci skip]
+
+* lowers sound of the police whistle (#66452)
+
+* Automatic changelog generation for PR #66349 [ci skip]
+
+* random item is no longer a trap (#66349)
+
+* Automatic changelog generation for PR #66373 [ci skip]
+
+* Bubblegum charge fix (#66373)
+
+* Automatic changelog generation for PR #66434 [ci skip]
+
+* Makes flashlight action button update when flashlight toggles (#66434)
+
+* Automatic changelog generation for PR #66391 [ci skip]
+
+* Fixes them (#66391)
+
+* Automatic changelog generation for PR #66395 [ci skip]
+
+* supermatter/Bump() (#66395)
+
+* Automatic changelog generation for PR #66412 [ci skip]
+
+* ae (#66412)
+
+* Automatic changelog generation for PR #66436 [ci skip]
+
+* Corrects crab pathway. Crab can be cooked again. (#66436)
+
+* Automatic changelog generation for PR #66451 [ci skip]
+
+* Mobs can now pathfind through railings (#66451)
+
+* Automatic changelog generation for PR #66441 [ci skip]
+
+* Fixes a copy+paste issue with surgery sounds (#66441)
+
+* Fixes weird wording in STANDARDS for critical tgui (#66447)
+
+* Automatic changelog generation for PR #66363 [ci skip]
+
+* Activating the Supermatter with a projectile now logs who did it and with what weapon. (#66363)
+
+* Automatic changelog generation for PR #66104 [ci skip]
+
+* Prevents abandoned crates deleting their content (#66104)
+
+* removes the Content Expansion tag, replaces Mechanic with Feature, and lowers its gbp cost from 10 to 6 (#66425)
+
+* Automatic changelog generation for PR #66398 [ci skip]
+
+* Cosmetic gas mask (#66398)
+
+* Automatic changelog generation for PR #66435 [ci skip]
+
+* Fixes monkey disposalling (#66435)
+
+* Automatic changelog generation for PR #66437 [ci skip]
+
+* Add tcomms relays to DJ station (#66437)
+
+* Automatic changelog generation for PR #66443 [ci skip]
+
+* fix (#66443)
+
+* Automatic changelog generation for PR #66214 [ci skip]
+
+* Fixes some improper balloon alerts, adds a grep to prevent future bad balloon alert calls (#66214)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #66419 [ci skip]
+
+* The Mastertaper (#66419)
+
+* Minor Oxy pass out code improvement  (#66333)
+
+* Automatic changelog generation for PR #66430 [ci skip]
+
+* Fixes the traitor elite nukie suit being id locked (#66430)
+
+* Automatic changelog generation for PR #66396 [ci skip]
+
+* Fixes beyblade reaction with convermol (#66396)
+
+* Automatic changelog generation for PR #66405 [ci skip]
+
+* [NO GBP] Remove leftover xray injectors that I didn't remove from research station (#66405)
+
+* Automatic changelog generation for PR #66427 [ci skip]
+
+* Fixes saline solution bottle sprite (#66427)
+
+* Automatic changelog generation for PR #66422 [ci skip]
+
+* Fixes the facing of urinals (#66422)
+
+* Automatic changelog generation for PR #66428 [ci skip]
+
+* fixes some inappropriate diagonal corners in hilberts (#66428)
+
+* Automatic changelog generation for PR #66325 [ci skip]
+
+* Makes the blood filter not suck so much (#66325)
+
+* Automatic changelog generation for PR #66382 [ci skip]
+
+* Fixes sausage processing runtiming (#66382)
+
+* Automatic changelog generation for PR #66417 [ci skip]
+
+* Medilathe can now print pill bottles (#66417)
+
+* Automatic changelog generation for PR #65890 [ci skip]
+
+* Allow Regal Rats to Pry Airlocks + See Further in Dark (#65890)
+
+* Automatic changelog generation for PR #66321 [ci skip]
+
+* Visualizes blushing on characters after using *blush or when they're drunk (#66321)
+
+* Automatic changelog generation for PR #66415 [ci skip]
+
+* Kills research scanner toggle, moves functionality to examine_more. Improves research scanner code and fixes a modsuit bug. (#66415)
+
+* Automatic changelog generation for PR #66198 [ci skip]
+
+* Remaps kilo's ordnance (#66198)
+
+* Automatic changelog generation for PR #66416 [ci skip]
+
+* Moves the medical laptop out of the kilostation psych locker (#66416)
+
+* Automatic changelog generation for PR #66018 [ci skip]
+
+* Surgery sound fix attempt 2 (#66018)
+
+* Automatic changelog generation for PR #66393 [ci skip]
+
+* increase roundstart power available to SM rooms (#66393)
+
+* Automatic changelog generation for PR #66378 [ci skip]
+
+* unit test for /obj/item/stack singular_name (#66378)
+
+* Automatic changelog generation for PR #66385 [ci skip]
+
+* fixes another error sprite (#66385)
+
+* Automatic changelog generation for PR #66409 [ci skip]
+
+* [NO GBP] Adds a docking_port to Firebase Balthazord (#66409)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #66384 [ci skip]
+
+* fixes that duplicate plasma window (#66384)
+
+* Automatic changelog generation for PR #66389 [ci skip]
+
+* Adds Scrubbers and Vents to Icebox Atmos (#66389)
+
+* Automatic changelog generation for PR #66125 [ci skip]
+
+* Cytology Cockroach Expansion Pack (#66125)
+
+* Fixes Area Overrides in Centcom.dm (Blame me?) (#66270)
+
+* Automatic changelog generation for PR #66323 [ci skip]
+
+* Fixes aux base launch message saying spans (#66323)
+
+* Documents symptoms.dm and downsizes symptom description comments (#66223)
+
+* Automatic changelog generation for PR #66210 [ci skip]
+
+* Removes canister tiers, now canisters have an option to turn on shielding for power consumption (#66210)
+
+* new pda sprites! (#66369)
+
+* Automatic changelog compile [ci skip]
+
+* AI Lawset DLC - Ten Commandments (#66134)
+
+* Automatic changelog generation for PR #66257 [ci skip]
+
+* Allows processable to require a table (#66257)
+
+* Properly adds the syndicate PDA theme (#66376)
+
+* Fixes The Lizard's Gas Posters Showing Up On-Station (#66328)
+
+* Automatic changelog generation for PR #66284 [ci skip]
+
+* swaps a greater than for a less than (#66284)
+
+* Automatic changelog generation for PR #66367 [ci skip]
+
+* adds pen in tablet flavor text + ctrl click (#66367)
+
+* Automatic changelog generation for PR #66308 [ci skip]
+
+* Mobs can no longer read in the dark (#66308)
+
+* Automatic changelog generation for PR #66331 [ci skip]
+
+* Converts drugginess to status effect, striking another var processed on life() (#66331)
+
+* Automatic changelog generation for PR #66365 [ci skip]
+
+* [MetaStation] Removes the stray prisoner camera console (#66365)
+
+* [gbp no-update]fix apc as anything runtiming (#66344)
+
+* F U C K (#66354)
+
+* Automatic changelog generation for PR #66362 [ci skip]
+
+* Auto-docs + code improvements + splits up status_effect.dm (#66362)
+
+* Automatic changelog generation for PR #65856 [ci skip]
+
+* Hypernob Trit consumption reduction with bz (#65856)
+
+* Automatic changelog generation for PR #66153 [ci skip]
+
+* Vim mecha changes (#66153)
+
+* Automatic changelog generation for PR #66039 [ci skip]
+
+* Fix: Plumbing machinery handling and chemical press dispensing (#66039)
+
+* Automatic changelog generation for PR #66355 [ci skip]
+
+* Syndiesthetics Part 1: Updating The Old! (#66355)
+
+* Fixes merge skew (#66397)
+
+* Automatic changelog generation for PR #66350 [ci skip]
+
+* Metastation Toxins Mix Chamber will now start with Airless Turfs (#66350)
+
+* Automatic changelog generation for PR #66343 [ci skip]
+
+* IceBox - Revenge of the Flipped Camera (#66343)
+
+* Automatic changelog generation for PR #66342 [ci skip]
+
+* Adjustments to IceBox departures and xeno (#66342)
+
+* removes 3 unused vars on bats (#66345)
+
+* Automatic changelog generation for PR #66123 [ci skip]
+
+* Super Thief Health Update: Disables Hoarder, Adds All Access Fan, Rarely Thief Hideouts in Maint  (#66123)
+
+* Automatic changelog generation for PR #65901 [ci skip]
+
+* Fixes Newscaster runtime when creating a new channel (#65901)
+
+* Automatic changelog generation for PR #66352 [ci skip]
+
+* Ghost alerts now resize to 32x32, if larger (#66352)
+
+* Mapping helpers are ignored by create and destroy (#66353)
+
+* Moves donuts, donks, and pancakes out of pastries.dm (#66226)
+
+* Automatic changelog generation for PR #65718 [ci skip]
+
+* Adds a new heretic path: Path of the Blades (#65718)
+
+* Automatic changelog generation for PR #66324 [ci skip]
+
+* Adds new sounds to the circuit sound synthesizer (#66324)
+
+* Automatic changelog generation for PR #66159 [ci skip]
+
+* [NO GBP] Fix airlock controller TGUI bugs (#66159)
+
+* Automatic changelog generation for PR #66339 [ci skip]
+
+* Nuke Ops Ordnance Lab usability fixes (#66339)
+
+* Automatic changelog generation for PR #66330 [ci skip]
+
+* makes cautery a lot quieter (#66330)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #66358 [ci skip]
+
+* [NO GBP] more tablet additions (#66358)
+
+* Automatic changelog generation for PR #66282 [ci skip]
+
+* Adds a missing APC to Kilostation's upload. (#66282)
+
+* Automatic changelog generation for PR #66288 [ci skip]
+
+* Fixes some really jank pixelshifting in the Kilo CMO Office (#66288)
+
+* Automatic changelog generation for PR #66320 [ci skip]
+
+* limits runtime station to 1 space ruin z level (#66320)
+
+* Automatic changelog generation for PR #66220 [ci skip]
+
+* Add button to relaunch the game alongside reconnect when you lose connection (#66220)
+
+* Automatic changelog generation for PR #66059 [ci skip]
+
+* Rebalanced Power consumption, increase for machines (#66059)
+
+* Automatic changelog generation for PR #66058 [ci skip]
+
+* Reworks Mech Extinguisher to be utility equipment, related balance changes. (#66058)
+
+* Automatic changelog generation for PR #66300 [ci skip]
+
+* Fixes gas tank from bluespace vendor being incompatible with suit storage  (#66300)
+
+* Automatic changelog generation for PR #66294 [ci skip]
+
+* fixes secbot patrol mode overriding bot hunting (#66294)
+
+* Automatic changelog generation for PR #65978 [ci skip]
+
+* Moves more chem machine eject beaker shortcuts to right click, allows silicons to use shortcut (#65978)
+
+* Automatic changelog generation for PR #66265 [ci skip]
+
+* Allergies no longer keep triggering while the subject is dead (#66265)
+
+* Automatic changelog generation for PR #66271 [ci skip]
+
+* Thermomachine upgrade fix (#66271)
+
+* Automatic changelog generation for PR #66302 [ci skip]
+
+* Fixes href exploits with the gas vendor (#66302)
+
+* Automatic changelog generation for PR #66316 [ci skip]
+
+* fixes tramstation robtics camera (#66316)
+
+* Automatic changelog generation for PR #66334 [ci skip]
+
+* Modular Tablets: Fix ringtone box (#66334)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #65755 [ci skip]
+
+* Modular Tablets: Converting PDAs to the NtOS System (#65755)
+
+* Automatic changelog generation for PR #66246 [ci skip]
+
+* Split library items into their own dm files (#66246)
+
+* Automatic changelog generation for PR #66259 [ci skip]
+
+* Fixes the spelling of colossal (#66259)
+
+* Automatic changelog generation for PR #66303 [ci skip]
+
+* Fix icebox perma camera (#66303)
+
+* buffs the traitor toolbox turret to actually be worth 11tc (#66255)
+
+* Automatic changelog generation for PR #66296 [ci skip]
+
+* Fix nearspace for meta (#66296)
+
+* Automatic changelog generation for PR #66175 [ci skip]
+
+* Circuit laserpointers (#66175)
+
+* Automatic changelog generation for PR #66299 [ci skip]
+
+* tgui-panel: Soft ping (#66299)
+
+* Automatic changelog generation for PR #66247 [ci skip]
+
+* [MDB IGNORE] makes ebows and kinetic accelerators share a parent (#66247)
+
+* Fix things breaking in tgui if the asset transport type is changed mid round (#66317)
+
+* Automatic changelog generation for PR #66064 [ci skip]
+
+* Remaps delta's ordnance (#66064)
+
+* Remaps tram's ordnance (#65857)
+
+* Automatic changelog generation for PR #66309 [ci skip]
+
+* Fix: rename suffix for tgui-polyfill to min.js (#66309)
+
+* Automatic changelog compile [ci skip]
+
+* fixes kilo its perfect now (#66269)
+
+* KiloStation Lattice Grounding - 'Ate Floating Things (#66237)
+
+* Automatic changelog generation for PR #66236 [ci skip]
+
+* MetaStation's Prison Monitor Corrective Readjustment (off windows) (#66236)
+
+* Automatic changelog generation for PR #66221 [ci skip]
+
+* Cut The Caution Crap! - Removing Overlapping Text on IceBox Decals (#66221)
+
+* Automatic changelog generation for PR #66056 [ci skip]
+
+* Adds departmental PDA painters to all command offices (#66056)
+
+* Automatic changelog generation for PR #66263 [ci skip]
+
+* falling on punji sticks now impales you (#66263)
+
+* Automatic changelog generation for PR #66266 [ci skip]
+
+* Fixes uplinks duplicating tc (#66266)
+
+* Automatic changelog generation for PR #66201 [ci skip]
+
+* Fixes foods triggering allergies when they really shouldn't and makes stuff made using the food processor inherit reagents (#66201)
+
+* Automatic changelog generation for PR #65959 [ci skip]
+
+* supermatter delamination now spawns anomalies across the station (#65959)
+
+* Automatic changelog generation for PR #66233 [ci skip]
+
+* Fixed secbots not patroling while in patrol mode (#66233)
+
+* Automatic changelog generation for PR #66232 [ci skip]
+
+* Fixing Manual sprite (#66232)
+
+* Automatic changelog generation for PR #66225 [ci skip]
+
+* Fixes collosal rib (#66225)
+
+* Automatic changelog generation for PR #66238 [ci skip]
+
+* Fixes "error" state in the slimeperson body change menu #66238
+
+* Automatic changelog generation for PR #66240 [ci skip]
+
+* Fixes grilled deep fried foods error sprite (#66240)
+
+* Automatic changelog generation for PR #66241 [ci skip]
+
+* actually actually fixes illegal tech (#66241)
+
+* Automatic changelog generation for PR #66242 [ci skip]
+
+* Statue wrench fix (#66242)
+
+* Automatic changelog generation for PR #66244 [ci skip]
+
+* Improve nightvision code (#66244)
+
+* makes alt cookies a var on species (#66245)
+
+* Automatic changelog generation for PR #66157 [ci skip]
+
+* Replaces cryoxadone with regenerative jelly in dark blue luminescent & burning extract effects (#66157)
+
+* Adds load testing macros (#66178)
+
+* Codeowners, the fourth change today (#66274)
+
+* Changes code owners (#66273)
+
+* Adds san7890 to (even more) codeowners (#66272)
+
+* Automatic changelog generation for PR #66150 [ci skip]
+
+* Add a button to dump residual gases (#66150)
+
+* Automatic changelog generation for PR #66077 [ci skip]
+
+* Add randomized lawsets to AI upload (#66077)
+
+* tgui: API improvements + docs (#65943)
+
+* Automatic changelog generation for PR #66149 [ci skip]
+
+* NukeOps Firebase Rework (#66149)
+
+* Automatic changelog generation for PR #65964 [ci skip]
+
+* all over again (#65964)
+
+* Automatic changelog compile [ci skip]
+
+* Updates The Derelict to some modern standards, also some turf edits (#66045)
+
+* Balance pull requests no longer charge you 8 GBP. (#66203)
+
+* I am (one of the) Maptainer(s) (#66267)
+
+* Automatic changelog generation for PR #66208 [ci skip]
+
+* [NO GBP] modsuits now retract if summoned through summon items or some other hijinx (#66208)
+
+* adds a helper for updating one piece of clothing depending on its slot (#66191)
+
+* Automatic changelog generation for PR #66190 [ci skip]
+
+* makes modsuit locks a bit more clear (#66190)
+
+* APC code deep cleaning (#66186)
+
+* Fixes AIize (Player panel Make AI button) killing the client of whoever it was used on (#66168)
+
+* Automatic changelog generation for PR #66167 [ci skip]
+
+* Fireproof holofans (#66167)
+
+* Automatic changelog generation for PR #66162 [ci skip]
+
+* shifts it literally 1 px (#66162)
+
+* Automatic changelog generation for PR #66154 [ci skip]
+
+* Fixes russian revolver (#66154)
+
+* Automatic changelog generation for PR #66135 [ci skip]
+
+* Turbine better sprites (#66135)
+
+* Automatic changelog generation for PR #66109 [ci skip]
+
+* bug status: ejected (#66109)
+
+* alium (#65955)
+
+* Automatic changelog generation for PR #65848 [ci skip]
+
+* Adds 3 new Polish foods (#65848)
+
+* Automatic changelog generation for PR #66212 [ci skip]
+
+* Makes engravings actually show up in maintenance. (probably) (#66212)
+
+* Implant Icon Resprites (#66213)
+
+* Automatic changelog generation for PR #66215 [ci skip]
+
+* Fully documents _sound_looping.dm and adds the variables it was missing to allow for full sound customizability (#66215)
+
+* Automatic changelog generation for PR #66217 [ci skip]
+
+* Update meat.dm (#66216)
+
+* New disposals junction sprites (#66217)
+
+* Automatic changelog generation for PR #66219 [ci skip]
+
+* Spicy donkpockets require 1 chili (#66219)
+
+* Automatic changelog generation for PR #66098 [ci skip]
+
+* Fixes Healium not updating health (#66098)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #66020 [ci skip]
+
+* Makes slapping people trigger gloves of the north star (#66020)
+
+* Automatic changelog generation for PR #66209 [ci skip]
+
+* Easter baskets can now hold easter eggs (#66209)
+
+* Automatic changelog generation for PR #66202 [ci skip]
+
+* Resprites soft caps (#66202)
+
+* Automatic changelog generation for PR #66172 [ci skip]
+
+* Better slime and slime core icons (#66172)
+
+* Automatic changelog generation for PR #66206 [ci skip]
+
+* the mining gas mask no longer protects against pepper spray (#66206)
+
+* Automatic changelog generation for PR #66211 [ci skip]
+
+* Removes Screen Oddities on KiloStation (#66211)
+
+* Automatic changelog generation for PR #66179 [ci skip]
+
+* Make silicons unable to access Kilostation execution chamber door buttons (#66179)
+
+* Automatic changelog generation for PR #66180 [ci skip]
+
+* Grounds Unruly Tramstation Lattices (Near to the Station) (#66180)
+
+* Automatic changelog generation for PR #66174 [ci skip]
+
+* Yet Another Excisive Newscaster Removal (#66174)
+
+* Automatic changelog generation for PR #66173 [ci skip]
+
+* Roller skate addition (#66173)
+
+* Automatic changelog generation for PR #66144 [ci skip]
+
+* Bedsheet Directional Rotational Bigly Large Fix (#66144)
+
+* Automatic changelog generation for PR #66145 [ci skip]
+
+* KiloStation's Commisary Wall Item Sanification (#66145)
+
+* Automatic changelog generation for PR #66146 [ci skip]
+
+* Add department posters to cargo delivery room (#66146)
+
+* Automatic changelog generation for PR #66121 [ci skip]
+
+* Holodeck Photobooth Floor Repainting (with Lacquer) (#66121)
+
+* Automatic changelog generation for PR #66113 [ci skip]
+
+* Pill Wall Fixes and Detailing (#66113)
+
+* Automatic changelog generation for PR #66028 [ci skip]
+
+* Pride Ruin Remap (#66028)
+
+* Automatic changelog generation for PR #66026 [ci skip]
+
+* Gluttony Ruin Update (#66026)
+
+* Automatic changelog generation for PR #66138 [ci skip]
+
+* [NO GBP] Fixes turbine heat leaking... again (#66138)
+
+* fire alarm spam (#66192)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #66195 [ci skip]
+
+* Bluespace Golems can no longer spam teleport (#66195)
+
+* Change injectors on research gateway, and remove the free magic books, remove 'unsalvageable' gateway maps (#66161)
+
+* Automatic changelog generation for PR #66163 [ci skip]
+
+* washing someone else's mouth out with soap no longer washes YOUR mouth out with soap instead (#66163)
+
+* Automatic changelog generation for PR #66099 [ci skip]
+
+* Fixes diggable turfs being diggable with any item (#66099)
+
+* Adds Descriptive Names to Sandy Turf Decals (#66110)
+
+* Fixes error bandana in botany wardrobe lockers (#66189)
+
+* Automatic changelog generation for PR #66188 [ci skip]
+
+* fixes access on the hilberts hotel vault door (#66188)
+
+* Automatic changelog generation for PR #66171 [ci skip]
+
+* Pastry base increased output (#66171)
+
+* Automatic changelog generation for PR #66176 [ci skip]
+
+* Allows wizard rod form to travel between z-levels (#66176)
+
+* Automatic changelog generation for PR #66182 [ci skip]
+
+* Gives pheromone receptors an icon (#66182)
+
+* Automatic changelog generation for PR #66183 [ci skip]
+
+* fixes the debug lift (#66183)
+
+* Automatic changelog generation for PR #66170 [ci skip]
+
+* MODsuit module update: clamp nerf, replacement of holster and pepper spray modules, some tweaks to suit starting modules (#66170)
+
+* Automatic changelog generation for PR #65392 [ci skip]
+
+* Freon Cold Fire (#65392)
+
+* Automatic changelog generation for PR #66047 [ci skip]
+
+* HARS victims now care for brain suicides (#66047)
+
+* Automatic changelog generation for PR #66184 [ci skip]
+
+* i want to sleep (#66184)
+
+* Automatic changelog generation for PR #66031 [ci skip]
+
+* Refactors speech impeding effects (drunken slurring / suttering) into status effects. Adds heretic slurring in addition to the existing cult slurring. Removes 4 vars from /living in return, which slightly optimizes Life() (wink) (#66031)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #65833 [ci skip]
+
+* makes grilles grill food, not drinks/condiments (#65833)
+
+* Allow Monkey used injector to generate CRISPR Charge (#65552)
+
+* Automatic changelog generation for PR #65985 [ci skip]
+
+* Fixes windows At Icebox Departures (and the stuff on said windows) (#65985)
+
+* Automatic changelog generation for PR #66169 [ci skip]
+
+* fixed spraytan not changing skin color of humans and nonhumans (#66169)
+
+* Automatic changelog generation for PR #66052 [ci skip]
+
+* Ling huds persist through bodies + non carbons can sting (#66052)
+
+* Automatic changelog generation for PR #66103 [ci skip]
+
+* Moves species readouts from examine to advanced health analyzer (#66103)
+
+* Updates CONTRIBUTING to new headcoder decision (#66147)
+
+* Automatic changelog generation for PR #66166 [ci skip]
+
+* ah yes, it tastes like /datum/reagent/water (#66166)
+
+* Automatic changelog generation for PR #66194 [ci skip]
+
+* Adds a new Round-End Sound to the game(#66194)
+
+* Automatic changelog generation for PR #66036 [ci skip]
+
+* mixers now have better indicators for sides (#66036)
+
+* Automatic changelog generation for PR #66038 [ci skip]
+
+* You can take out PDA/ID from trimmer with right click (#66038)
+
+* Automatic changelog generation for PR #65849 [ci skip]
+
+* improves the sprites (#65849)
+
+* Automatic changelog generation for PR #65963 [ci skip]
+
+* Made screentips appear on a higher layer than action buttons. (#65963)
+
+* Automatic changelog generation for PR #66148 [ci skip]
+
+* Gives traitor logging its own config flag (#66148)
+
+* Automatic changelog generation for PR #66082 [ci skip]
+
+* [Ready] Hilbert Research Facility remap feat. tram (#66082)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #65949 [ci skip]
+
+* Fixes supply pods not being displayed below its contents when opened. (#65949)
+
+* Automatic changelog generation for PR #66132 [ci skip]
+
+* Fixes ant(and possibly other chemical) dupe via janiborg powerwash mode (#66132)
+
+* Automatic changelog generation for PR #65973 [ci skip]
+
+* Fixes Area Slivers on MetaStation (#65973)
+
+* Automatic changelog generation for PR #66119 [ci skip]
+
+* Fixes a weird line in misc turf code which added two turf types (#66119)
+
+* Adds admin logging to supply orders' rare erroneous manifests mechanic (#66001)
+
+* Automatic changelog generation for PR #66011 [ci skip]
+
+* Fixes orbitting planted C4s (#66011)
+
+* Automatic changelog generation for PR #65551 [ci skip]
+
+* Refactor delivery parcels, add sort tag overlay (#65551)
+
+* Automatic changelog generation for PR #66126 [ci skip]
+
+* Fixes facial hair using regular hair colour (#66126)
+
+* Standardizes donuts and donks on all stations (#66063)
+
+* Automatic changelog generation for PR #66155 [ci skip]
+
+* Fixes cleaning foam strange object leaving behind an empty grenade casing (#66155)
+
+* Automatic changelog generation for PR #66141 [ci skip]
+
+* Fix moth's ability to eat mice infinitely (#66141)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #66158 [ci skip]
+
+* Adds Ukraine's Independence Day as a holiday. (#66158)
+
+* Automatic changelog generation for PR #66071 [ci skip]
+
+* Fixes a stray white pixel on the front facing left plasmaman leg (#66071)
+
+* Extremely minor CODEOWNERS tweak (#66041)
+
+* Security's Holding Cell, Another Cut In The Behemoth (#65982)
+
+* Fixes the bench error overlay when you're buckled (#66127)
+
+* Automatic changelog compile [ci skip]
+
+* Adds baseturf helpers to create and destroy ignore list (#65910)
+
+* It is no longer possible to end maint procedures on a mech if the parts panel is still open. (#66105)
+
+* pda painter (#66076)
+
+* Prevents infinite resonator explosions (#66122)
+
+* Automatic changelog generation for PR #66087 [ci skip]
+
+* Syndicate MODsuit resprite - sleek edition (#66087)
+
+* Automatic changelog generation for PR #66086 [ci skip]
+
+* [NO GBP]Fix thermal conductivity not setting (#66086)
+
+* Automatic changelog generation for PR #66088 [ci skip]
+
+* Adds nightmare vision goggles to maintenance (#66088)
+
+* Automatic changelog generation for PR #66050 [ci skip]
+
+* adds a unique species id unit test + cleans up some golem mischief (#66050)
+
+* Automatic changelog generation for PR #65891 [ci skip]
+
+* Adds a flag that lets mobs be colored with spraycans, and adds said flag to the hygienebot (#65891)
+
+* Automatic changelog generation for PR #66079 [ci skip]
+
+* [NO GBP] Fix girder construction balloon_alert runtimes (#66079)
+
+* Automatic changelog generation for PR #66093 [ci skip]
+
+* fix valves exploit (#66093)
+
+* Automatic changelog generation for PR #66095 [ci skip]
+
+* Makes brimdemons delete their beams in Destroy() (#66095)
+
+* Automatic changelog generation for PR #65490 [ci skip]
+
+* firelocks now automatically open once the alarms are cleared and fixed fire alarms not clearing (#65490)
+
+* Optimizes podhair shitcode (#66065)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #65826 [ci skip]
+
+* Zauker refactor (attempt 2) (#65826)
+
+* Automatic changelog generation for PR #64731 [ci skip]
+
+* Festival Sect is back in 2022! (#64731)
+
+* Automatic changelog generation for PR #65906 [ci skip]
+
+* Makes navigate verb use landmarks instead of navigation beacons (#65906)
+
+* Automatic changelog generation for PR #66094 [ci skip]
+
+* Give the Debug Glasses SM Madness Immunity (#66094)
+
+* Automatic changelog generation for PR #66057 [ci skip]
+
+* Lets monkeys wear glasses and headsets (#66057)
+
+* Automatic changelog generation for PR #66080 [ci skip]
+
+* Unearths Covered-Up Intercom on DeltaStation (#66080)
+
+* Automatic changelog generation for PR #66069 [ci skip]
+
+* Fixes some in-wall obj placement (#66069)
+
+* Automatic changelog generation for PR #65880 [ci skip]
+
+* Tunes Up The Syndicate Infiltrator (#65880)
+
+* Automatic changelog generation for PR #65935 [ci skip]
+
+* Replaces all "Space" warning posters with "Cold" and "Gas Mask" posters on IceBox (#65935)
+
+* Automatic changelog generation for PR #66043 [ci skip]
+
+* Make fire alarm lighting respect power status (#66043)
+
+* Automatic changelog generation for PR #66022 [ci skip]
+
+* Refactors drone PDA stuff into a Botkeeper thing (#66022)
+
+* Automatic changelog generation for PR #65953 [ci skip]
+
+* removes syndicate cartridge no one uses anyways (#65953)
+
+* Automatic changelog generation for PR #66035 [ci skip]
+
+* Refactors Newscaster cartridge to tablet app (#66035)
+
+* Automatic changelog generation for PR #66000 [ci skip]
+
+* [NO GBP] Resolves Golems not being allowed in the areas they created (#66000)
+
+* Automatic changelog generation for PR #65886 [ci skip]
+
+* [no GBP] Fixes my improper skateboard fix (#65886)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #65661 [ci skip]
+
+* balance SM dusting power increase by the object size (#65661)
+
+* Automatic changelog generation for PR #66067 [ci skip]
+
+* makes snow tiles not give infinite snow (#66067)
+
+* Fix spelling of hazard area status effect (#66040)
+
+* Automatic changelog generation for PR #65440 [ci skip]
+
+* Mansus grasp now applies cultslurring, Void path minor compensatory buff (#65440)
+
+* Automatic changelog generation for PR #66072 [ci skip]
+
+* SSUs no longer use power when not actually charging the cell (#66072)
+
+* Automatic changelog generation for PR #66032 [ci skip]
+
+* Re-adds Athletic shorts and Masks closet(s) to Deltastation's recreational room. (#66032)
+
+* Automatic changelog generation for PR #65846 [ci skip]
+
+* Fixes atmos on lower tram level (#65846)
+
+* Automatic changelog generation for PR #65991 [ci skip]
+
+* Block free golems from using shuttle consoles, other than to go home (#65991)
+
+* Automatic changelog generation for PR #65940 [ci skip]
+
+* Ports new evangelion jumpsuit sprites from bee, adds them to robotics vendor (#65940)
+
+* makes child subsystem definition defines use a dummy fire() (#66054)
+
+* Automatic changelog generation for PR #65586 [ci skip]
+
+* Turbine Rework (#65586)
+
+* Automatic changelog generation for PR #65757 [ci skip]
+
+* Fix movement turf changer element to check openspace (#65757)
+
+* Automatic changelog generation for PR #65939 [ci skip]
+
+* Adds (restores?) cigar inhands (#65939)
+
+* Automatic changelog generation for PR #65966 [ci skip]
+
+* Fix being unable to reload nukie missiles (#65966)
+
+* Minor medical mech equipment code improvements (#65968)
+
+* Automatic changelog generation for PR #65970 [ci skip]
+
+* Fixes mech armor (#65970)
+
+* Automatic changelog generation for PR #65979 [ci skip]
+
+* The screentip context no longer lies about what happens when you left click another carbon mob with combat mode on. (#65979)
+
+* Automatic changelog generation for PR #65980 [ci skip]
+
+* Replaces the accounting machine with all IDs having their own bank account by default. (#65980)
+
+* Automatic changelog generation for PR #66042 [ci skip]
+
+* Removes the crate in window in lavaland base (#66042)
+
+* Automatic changelog generation for PR #66046 [ci skip]
+
+* Fixes Sloth Ruin note storing its contents in the wrong place. (#66046)
+
+* Automatic changelog generation for PR #64124 [ci skip]
+
+* Refactor and improve antimagic to be more robust (#64124)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #65784 [ci skip]
+
+* Armour tags on clothing say when an item blocks pepperspray or facehuggers (#65784)
+
+* Automatic changelog generation for PR #65987 [ci skip]
+
+* Brings stationary tank pressure limit up to canister level (#65987)
+
+* Automatic changelog generation for PR #66003 [ci skip]
+
+* Removes over/underlays on special planes from statues. (#66003)
+
+* Automatic changelog generation for PR #66019 [ci skip]
+
+* Venus fly trap layering fix (#66019)
+
+* Automatic changelog generation for PR #66027 [ci skip]
+
+* stops pricetag from complaining about signals (#66027)
+
+* Automatic changelog generation for PR #66029 [ci skip]
+
+* you can no longer use spells while in rod form (#66029)
+
+* Automatic changelog generation for PR #65690 [ci skip]
+
+* Fixes petri dishes not changing sprites after being washed (#65690)
+
+* Automatic changelog generation for PR #65867 [ci skip]
+
+* Science Night Vision Goggles (#65867)
+
+* Automatic changelog generation for PR #65990 [ci skip]
+
+* Fixes some sprites breaking digitigrade legs when they shouldn't (#65990)
+
+* Automatic changelog generation for PR #65927 [ci skip]
+
+* [speedmerge] Repairs A Handful Of Issues With Icebox (#65927)
+
+* Automatic changelog generation for PR #65994 [ci skip]
+
+* Fixes Area Misdefinition on KiloStation Botany (#65994)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #66008 [ci skip]
+
+* kilo fix without the other PR (#66008)
+
+* Automatic changelog generation for PR #66024 [ci skip]
+
+* don't press my buttons (#66024)
+
+* Automatic changelog generation for PR #65992 [ci skip]
+
+* Fixes Newscaster Placement Across Three Stations (Click to find out more) (#65992)
+
+* Automatic changelog generation for PR #65996 [ci skip]
+
+* Fixes a few open spaces and a stray rock on Tramstation upper z-level. (#65996)
+
+* Automatic changelog generation for PR #66023 [ci skip]
+
+* Charliestation APC fix (#66023)
+
+* Automatic changelog generation for PR #66021 [ci skip]
+
+* funny poster (#66021)
+
+* Fixes a null override (#66013)
+
+* Automatic changelog generation for PR #66014 [ci skip]
+
+* Health sensor in chemical grenades fix (#66014)
+
+* JPS Improvements and fixes (#66015)
+
+* Automatic changelog generation for PR #66017 [ci skip]
+
+* Remove the span from logging (#66017)
+
+* Automatic changelog generation for PR #65781 [ci skip]
+
+* Crystallizer quality fix (#65781)
+
+* Automatic changelog generation for PR #65751 [ci skip]
+
+* Fix permanent invisibility from shadowcloak (#65751)
+
+* Automatic changelog generation for PR #65748 [ci skip]
+
+* grenade error message bugfix (#65748)
+
+* Automatic changelog generation for PR #65899 [ci skip]
+
+* Fixes Mapping Icons For Bodylimbs (Don't Get A Shock!) (#65899)
+
+* Automatic changelog generation for PR #65873 [ci skip]
+
+* Replace girder to_chat messages with balloon alerts (#65873)
+
+* Automatic changelog generation for PR #65950 [ci skip]
+
+* TramStation Medbay Fixes (#65950)
+
+* Automatic changelog generation for PR #65972 [ci skip]
+
+* Reinforced Wall Rebalance IceBoxStation (#65972)
+
+* Remove selectable var on mech equipment, again (#65969)
+
+* Automatic changelog generation for PR #65944 [ci skip]
+
+* Fix-Rev-Runtime (#65944)
+
+* Automatic changelog generation for PR #65951 [ci skip]
+
+* Removes Weird Tiling in Closed Turfs on the Ash Walker's Base  (#65951)
+
+* Automatic changelog generation for PR #65977 [ci skip]
+
+* Fixes Access Reqs on DeltaStation Security (#65977)
+
+* Automatic changelog generation for PR #65948 [ci skip]
+
+* [s] Removes the Gripper Gloves from the Lavaland Syndicate Base (#65948)
+
+* Automatic changelog generation for PR #65956 [ci skip]
+
+* Adds missing air alarm to Tram's cargo (#65956)
+
+* Automatic changelog generation for PR #65789 [ci skip]
+
+* Mapping in Bed Directional Rotated Variants [MDB IGNORE] (#65789)
+
+* Automatic changelog generation for PR #65957 [ci skip]
+
+* Fixes robocontrol on the 'puter (#65957)
+
+* Automatic changelog generation for PR #65942 [ci skip]
+
+* Refactors janitor cartridge to a tablet app (#65942)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #65783 [ci skip]
+
+* re-adds food processor upgrades (#65783)
+
+* Automatic changelog generation for PR #65923 [ci skip]
+
+* Fixes some Kapulimbs bugs (#65923)
+
+* Removes the clown borg lollipop snowflake (#65960)
+
+* Automatic changelog generation for PR #65976 [ci skip]
+
+* Fixes Disposal Loop on DeltaStation (#65976)
+
+* Automatic changelog generation for PR #65998 [ci skip]
+
+* Fixes interaction, properly fixes through window interaction too (#65998)
+
+* Automatic changelog generation for PR #65889 [ci skip]
+
+* Frogs can now be picked up. You can fit them in your pockets too! Or you can put them on your head if you want to. (#65889)
+
+* Automatic changelog generation for PR #65898 [ci skip]
+
+* Remove old investigate categories (#65898)
+
+* Automatic changelog generation for PR #65888 [ci skip]
+
+* Creates Linters for (bad) Commented Out Lines in Maps (#65888)
+
+* Automatic changelog generation for PR #65945 [ci skip]
+
+* Fixes dup issue with RCD (#65945)
+
+* Automatic changelog generation for PR #65926 [ci skip]
+
+* Frozen Treat Quality of Life adjustments.. (#65926)
+
+* Automatic changelog generation for PR #65814 [ci skip]
+
+* Mechs will now immediately cancel doafters instead of waiting until till the end to tell you you moved (#65814)
+
+* Automatic changelog generation for PR #65832 [ci skip]
+
+* fix machinery clickable from behind a directional window (#65832)
+
+* Removes unneeded sanitization (#65894)
+
+* Automatic changelog generation for PR #65908 [ci skip]
+
+* Fixes the Donut Box Icon for Mapping (#65908)
+
+* Automatic changelog generation for PR #65904 [ci skip]
+
+* Fixes cryocells not working properly. (#65904)
+
+* Automatic changelog generation for PR #65903 [ci skip]
+
+* [NO GBP] Buffs runtimestation's RTG (#65903)
+
+* Automatic changelog generation for PR #65915 [ci skip]
+
+* you can no longer stuff infinite ais in modsuits (#65915)
+
+* Automatic changelog generation for PR #65766 [ci skip]
+
+* Fix reinforced girders to only use plasteel for construction (#65766)
+
+* Fixes bots trying to path through dense corners. (#65930)
+
+* Automatic changelog generation for PR #65918 [ci skip]
+
+* Beds, Sofas, Slimes, And Jellypeople now provide a soft landing (#65918)
+
+* Automatic changelog generation for PR #65952 [ci skip]
+
+* Adds logs to crafting (#65952)
+
+* Automatic changelog compile [ci skip]
+
+* Lizard mobs can now be picked up. (#65911)
+
+* Automatic changelog generation for PR #65892 [ci skip]
+
+* Moves moffins to cat_moth from cat_pastry (#65892)
+
+* Automatic changelog generation for PR #65929 [ci skip]
+
+* Changes sulphuric acid to sulfuric acid (#65929)
+
+* Automatic changelog generation for PR #65905 [ci skip]
+
+* fixes capitalised debris (#65905)
+
+* Fixes beach turfs being improperly planetary. This was causing infinite diffs, and was the fault of (0e904f70328a460af310014891eaadb5968ec31a) (#65895)
+
+* Automatic changelog generation for PR #65917 [ci skip]
+
+* Makes paper logging include the text being written (#65917)
+
+* Moves damp rag out of the detective folder and into reagent_containers (#65934)
+
+* Automatic changelog generation for PR #65932 [ci skip]
+
+* fixes navigation ui for non human mobs (#65932)
+
+* Automatic changelog generation for PR #65688 [ci skip]
+
+* Adds two buttons to the admin traitor panel (#65688)
+
+* Automatic changelog generation for PR #65779 [ci skip]
+
+* [NO GBP] Fixes airlock cycle links not working (#65779)
+
+* Automatic changelog generation for PR #65854 [ci skip]
+
+* [NO GBP] Fixes breathedeep catridge not working (#65854)
+
+* MODSuit clothing icon files can be overridden by its skin (#65733)
+
+* Fix typos in "slight changes to admin messages" (#65914)
+
+* Automatic changelog generation for PR #65893 [ci skip]
+
+* meta - Separate cargo drone bay from maint area (#65893)
+
+* Automatic changelog generation for PR #65919 [ci skip]
+
+* Swaps Out Useless Lights on TramStation (#65919)
+
+* Automatic changelog generation for PR #65877 [ci skip]
+
+* General Changes to IceBox's Public Mining Storage and the AI Upload (#65877)
+
+* Automatic changelog generation for PR #65866 [ci skip]
+
+* Trimmeny Cricket: Exposing Gas Flow Meters in Atmospherics (#65866)
+
+* Automatic changelog generation for PR #65865 [ci skip]
+
+* [NO GBP] Minor IceBox Fixes (#65865)
+
+* Automatic changelog generation for PR #65878 [ci skip]
+
+* Icebox Detective Console Fix (#65878)
+
+* Automatic changelog generation for PR #65689 [ci skip]
+
+* TramStation's Cargo Area Division (Top-to-Bottom) (#65689)
+
+* Automatic changelog generation for PR #65912 [ci skip]
+
+* [NO GBP] Fix for incorrect shuttles appearing on Meta, Tram, and Runtime stations (#65912)
+
+* Automatic changelog generation for PR #65803 [ci skip]
+
+* Slaps some symbols on those medkits (#65803)
+
+* hopefully fixes unit test failures from things in the spatial grid not having their refs cleared from it (#65771)
+
+* Automatic changelog compile [ci skip]
+
+* standardizes default unfasten wrench (#65425)
+
+* Automatic changelog generation for PR #65704 [ci skip]
+
+* Refactors DNA scanner & adds new traitor final obj with it (#65704)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #65871 [ci skip]
+
+* Slight change to admin messages, ensuring people actually see and read them (take 2) (#65871)
+
+* Automatic changelog generation for PR #65868 [ci skip]
+
+* Fixes large persistent paintings being shown off the wall (#65868)
+
+* Automatic changelog generation for PR #65741 [ci skip]
+
+* [MDB IGNORE] Adds dead space navigation (#65741)
+
+* Automatic changelog generation for PR #65760 [ci skip]
+
+* Bandana GAGS: craftable, dyable and customizable + bandana neckerchief refractor (#65760)
+
+* Automatic changelog generation for PR #65870 [ci skip]
+
+* Fix typo in filename that cause build fail (#65870)
+
+* Automatic changelog generation for PR #65828 [ci skip]
+
+* Resprites the mass driver (#65828)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #65850 [ci skip]
+
+* Replace singulo.log and supermatter.log with engine.log (#65850)
+
+* Automatic changelog generation for PR #65887 [ci skip]
+
+* Please be some jank that magically fixes it (#65887)
+
+* Automatic changelog generation for PR #65676 [ci skip]
+
+* Add CO2 filtering for Cryo (#65676)
+
+* Automatic changelog generation for PR #65740 [ci skip]
+
+* Fixes bug involving random teleporting to toxins test area (#65740)
+
+* Automatic changelog generation for PR #65842 [ci skip]
+
+* fixes blast doors on level 2 icebox xenobio (#65842)
+
+* Automatic changelog generation for PR #65825 [ci skip]
+
+* Fixes Poster Positioning in IceBox Maintenance Shower Room (#65825)
+
+* Automatic changelog generation for PR #65840 [ci skip]
+
+* The regular HoS headset is no longer sound-protective (their bowman keeps it). (#65840)
+
+* Automatic changelog generation for PR #65523 [ci skip]
+
+* Kapulimbs (#65523)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #65829 [ci skip]
+
+* Fixes there being two ID Getter Components on the Circuit Imprinter (#65829)
+
+* Automatic changelog generation for PR #65820 [ci skip]
+
+* Cargo crate name consistency and grammar fixes (#65820)
+
+* Automatic changelog generation for PR #65821 [ci skip]
+
+* Fixes issue #65609 -- Can no longer interact with airlock wires after adding shielding (#65821)
+
+* Automatic changelog generation for PR #65816 [ci skip]
+
+* Fix mmis seeing wrong mech UI (#65816)
+
+* Automatic changelog generation for PR #65815 [ci skip]
+
+* Remove mecha_set_dir and use setDir instead (#65815)
+
+* Automatic changelog generation for PR #65750 [ci skip]
+
+* Fix shutters contextual screentips (#65750)
+
+* Automatic changelog generation for PR #65830 [ci skip]
+
+* Adds a new critter to TramStation (#65830)
+
+* Adds linking tickets in asay, referencing mob datums in asay, improves asay ref code (#65634)
+
+* Automatic changelog generation for PR #65844 [ci skip]
+
+* Maid costumes, the respritening (#65844)
+
+* Automatic changelog compile [ci skip]
+
+* fixes move to nullspace runtime in mob/abstract_move() (#65786)
+
+* Splits supermatter.dm into multiple files (#65805)
+
+* Automatic changelog generation for PR #65797 [ci skip]
+
+* Removes Floating Poster on MetaStation's Abandoned Bar (#65797)
+
+* Automatic changelog generation for PR #65772 [ci skip]
+
+* MetaStation Xenobiology Satellite Tweaks (#65772)
+
+* Automatic changelog generation for PR #65697 [ci skip]
+
+* Lowers the Kheiral Cuff price to be more reasonable with their changed function (#65697)
+
+* Automatic changelog generation for PR #65763 [ci skip]
+
+* Fixes That /One/ Tramstation Bin. You know the one. (#65763)
+
+* Automatic changelog generation for PR #65715 [ci skip]
+
+* revenant harvest now logs (for real this time!) (#65715)
+
+* Automatic changelog generation for PR #65806 [ci skip]
+
+* Fixes several incorrect spider menu descriptions and automatizes the process a little bit (#65806)
+
+* Automatic changelog generation for PR #65810 [ci skip]
+
+* Fix mech category overrides (#65810)
+
+* COMSIG_ATOM_CREATED -> COMSIG_ATOM_INITIALIZED_ON (#65809)
+
+* Automatic changelog generation for PR #65817 [ci skip]
+
+* Better mech ammo names and new ammo defines (#65817)
+
+* Automatic changelog generation for PR #65553 [ci skip]
+
+* Changes the values of the pen colour variable from color name to hexadecimal (#65553)
+
+* Removes some unused mob verbs + client vars (#65732)
+
+* Automatic changelog generation for PR #65736 [ci skip]
+
+* Consistent names and spelling. (#65736)
+
+* Automatic changelog generation for PR #65790 [ci skip]
+
+* Turns out brain damage is harmful who knew (#65790)
+
+* Automatic changelog generation for PR #65612 [ci skip]
+
+* Feex (#65612)
+
+* Moves the deep fried food holder to it's own file (#65734)
+
+* Automatic changelog generation for PR #65775 [ci skip]
+
+* You can now see plant health with the plant analyzer. (#65775)
+
+* Automatic changelog generation for PR #65804 [ci skip]
+
+* Adds pack checks to departmental order console (#65804)
+
+* Automatic changelog generation for PR #65703 [ci skip]
+
+* re-adds the assistant traitor toolbox (#65703)
+
+* Automatic changelog generation for PR #65837 [ci skip]
+
+* Fixes commented out line in IceBoxStation.dmm (!!!) (#65837)
+
+* Automatic changelog generation for PR #65311 [ci skip]
+
+* Give space dragon ability to make it's sprite small (#65311)
+
+* Automatic changelog generation for PR #65271 [ci skip]
+
+* Ingame Atmos Reaction Guide (#65271)
+
+* Automatic changelog generation for PR #65818 [ci skip]
+
+* abstract Mech air tank can no longer be removed (#65818)
+
+* Automatic changelog generation for PR #65819 [ci skip]
+
+* Humans no longer "enter" mechs twice (#65819)
+
+* Automatic changelog generation for PR #65295 [ci skip]
+
+* Moves help menu to end, fixes Hotkeys Help (#65295)
+
+* Buffs The Ecto-Sniffer Again (#65186)
+
+* Automatic changelog generation for PR #65180 [ci skip]
+
+* Action button refactor/rework: Enhanced Dragging (#65180)
+
+* Automatic changelog generation for PR #64878 [ci skip]
+
+* Stops machine frames and circuitboards referring to manipulators as micro-manipulators (#64878)
+
+* Automatic changelog generation for PR #65744 [ci skip]
+
+* Update mulebot.dm (#65744)
+
+* Minor mech_equipment/proc/detach code improvements (#65811)
+
+* Automatic changelog generation for PR #65799 [ci skip]
+
+* Trimming The Newscaster Fat - A Lot Of Mapping [MDB IGNORE] (#65799)
+
+* delete fivestar sprite (#65812)
+
+* Automatic changelog generation for PR #65765 [ci skip]
+
+* protector stands no longer remove all their overlays when leaving shield mode (#65765)
+
+* Automatic changelog generation for PR #65787 [ci skip]
+
+* Removes stray pixel in the CQC manual sprite (#65787)
+
+* Automatic changelog generation for PR #65729 [ci skip]
+
+* Pull tail screentip works properly (#65729)
+
+* Automatic changelog generation for PR #65642 [ci skip]
+
+* Extra-large painting canvases: 36x24 and 45x27 (#65642)
+
+* Automatic changelog generation for PR #65754 [ci skip]
+
+* Fixes slime core removal surgery (#65754)
+
+* Makes the beaker panel send assets to the user instead of null. (#65756)
+
+* Automatic changelog generation for PR #65793 [ci skip]
+
+* Better tomato logging (#65793)
+
+* Automatic changelog generation for PR #65782 [ci skip]
+
+* Adds missing descriptions to some open/misc turfs (#65782)
+
+* Automatic changelog generation for PR #65788 [ci skip]
+
+* Fixes conveyor runtime (#65788)
+
+* Automatic changelog generation for PR #65470 [ci skip]
+
+* thermomachine upgrades (#65470)
+
+* Automatic changelog generation for PR #65794 [ci skip]
+
+* The CentCom-ening Part 4: How I lost my Marbles in the Green (#65794)
+
+* add GBP: No Update label when title includes [no gbp] (#65739)
+
+* Automatic changelog generation for PR #65326 [ci skip]
+
+* [MDB IGNORE] TGUI library, plus polish (#65326)
+
+* Automatic changelog compile [ci skip]
+
+* Fish refactor. (#65785)
+
+* Fixes pathfinding not checking diagonal passability properly. (#65665)
+
+* Adds a very rare sussy firelock (#65677)
+
+* Automatic changelog generation for PR #65672 [ci skip]
+
+* [READY] Remap of Crashed Ship ruin (#65672)
+
+* Automatic changelog generation for PR #65621 [ci skip]
+
+* Makes Cyborg Lollipops Consistent (#65621)
+
+* Automatic changelog generation for PR #65625 [ci skip]
+
+* Pingbus changes and improvements (#65625)
+
+* Automatic changelog generation for PR #65768 [ci skip]
+
+* Fix jumpsuits to drop accessories when destroyed (#65768)
+
+* Automatic changelog generation for PR #65761 [ci skip]
+
+* Fix attack messages appearing when using tools on blast doors (#65761)
+
+* Automatic changelog generation for PR #65762 [ci skip]
+
+* Fix welders using fuel when clicking on tiles (#65762)
+
+* Automatic changelog generation for PR #65759 [ci skip]
+
+* Fix plants hurting user when using telekinesis (#65759)
+
+* Cleans up some varedit procs not using strings instead of the proper helper (#65769)
+
+* Automatic changelog generation for PR #65774 [ci skip]
+
+* Fixes 2 adjacent newscasters.(#65774)
+
+* Automatic changelog generation for PR #65591 [ci skip]
+
+* makes vent scrubbers only activate if a gas they filter is on their tile, again! alive edition (#65591)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #65694 [ci skip]
+
+* Replaces cooling vent pumps with passive vents (#65694)
+
+* Automatic changelog generation for PR #65735 [ci skip]
+
+* Fixes a poster in delta departures security checkpoint (#65735)
+
+* Automatic changelog generation for PR #65699 [ci skip]
+
+* [READY] Overhauls Security on IceBox (#65699)
+
+* Renames the `change_area` proc to be more accurate (#65758)
+
+* Automatic changelog generation for PR #65764 [ci skip]
+
+* drakes have normal move force when dead (#65764)
+
+* Automatic changelog generation for PR #65743 [ci skip]
+
+* Fixes broken static lighting (#65743)
+
+* Automatic changelog generation for PR #65753 [ci skip]
+
+* fixes modsuit painting (#65753)
+
+* Modifies the welding fuel tank sprites on april fools (#65433)
+
+* Automatic changelog generation for PR #65636 [ci skip]
+
+* IceBoxStation Camera Insanity - A Blanket Fix (#65636)
+
+* Automatic changelog generation for PR #65155 [ci skip]
+
+* "Actually on second thought and some testing these really aren't as significant as I thought they were" buffs to smoke and foam. (#65155)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #65545 [ci skip]
+
+* Turns the thunderdome into a map template (#65545)
+
+* Automatic changelog generation for PR #65721 [ci skip]
+
+* fixes zeta shuttle's brig for real this time (#65721)
+
+* Automatic changelog generation for PR #65705 [ci skip]
+
+* missing flooor (#65705)
+
+* Automatic changelog generation for PR #65595 [ci skip]
+
+* Replaces var-edited high capacity power cells with normal ones (#65595)
+
+* Automatic changelog generation for PR #65584 [ci skip]
+
+* Updates Kitchen Maints (#65584)
+
+* Automatic changelog generation for PR #65375 [ci skip]
+
+* Reworks & TGUIs mecha equipment (#65375)
+
+* Automatic changelog generation for PR #65725 [ci skip]
+
+* Bounds bounty board payout values to prevent negative values. (#65725)
+
+* Automatic changelog generation for PR #65679 [ci skip]
+
+* Renames some security accesses + misc (#65679)
+
+* Automatic changelog generation for PR #65714 [ci skip]
+
+* fixes duplicate charlie station APCs (#65714)
+
+* Automatic changelog generation for PR #65727 [ci skip]
+
+* deletes a duplicate airlock on tramstation (#65727)
+
+* Automatic changelog generation for PR #65720 [ci skip]
+
+* Hazardous Area Component | Free Golem Soft-Restriction (#65720)
+
+* Automatic changelog generation for PR #65371 [ci skip]
+
+* Adds mob bleeding overlays, tweaks some bleeding balance (#65371)
+
+* Changes how fingerprints are applied to objects through gloves. (#65674)
+
+* Automatic changelog generation for PR #65695 [ci skip]
+
+* fixes pod hair tgui bug (#65695)
+
+* Automatic changelog generation for PR #65415 [ci skip]
+
+* makes bots/gunpowder use boldnotice, makes boldnotice an info message (#65415)
+
+* Rosenol now forcesays noice (#65501)
+
+* Fixes paper sanitization. (#65752)
+
+* Automatic changelog generation for PR #65717 [ci skip]
+
+* throat hole + code clean (#65717)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #65700 [ci skip]
+
+* Adds stacks of 50 bamboo sheets (#65700)
+
+* Automatic changelog generation for PR #65698 [ci skip]
+
+* Fixes bartender drink throwing, makes smashing always spill (#65698)
+
+* Automatic changelog generation for PR #65737 [ci skip]
+
+* Update apc_control.dm (#65737)
+
+* Automatic changelog generation for PR #65685 [ci skip]
+
+* Makes the lavaland scrubber pipes hidden(#65685)
+
+* Automatic changelog generation for PR #65445 [ci skip]
+
+* MODsuit painting (#65445)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #65686 [ci skip]
+
+* TGUI & Tooltip browser windows now properly support DPI scaling (#65686)
+
+* Fixes remote deletion exploit (#65710)
+
+* Automatic changelog generation for PR #65349 [ci skip]
+
+* Almost halves airlock auto close delay (#65349)
+
+* Automatic changelog generation for PR #65617 [ci skip]
+
+* so runescape is a funny game with funny assets (#65617)
+
+* Automatic changelog generation for PR #65670 [ci skip]
+
+* Tritium fire radiation fix fix. (#65670)
+
+* Automatic changelog generation for PR #65655 [ci skip]
+
+* Mystery boxes no longer cut off each other's audio (#65655)
+
+* Automatic changelog generation for PR #65508 [ci skip]
+
+* Adds proper sound effects to attacks against flora (#65508)
+
+* Automatic changelog generation for PR #65038 [ci skip]
+
+* Arconomy Adjacent Content: Newscaster Refactor Omega (#65038)
+
+* Makes the heretic worm use the blood walk element (#65658)
+
+* makes pick_employer actually pick employer (#65639)
+
+* Automatic changelog generation for PR #65671 [ci skip]
+
+* Fixes the latejoin menu never closing (#65671)
+
+* Automatic changelog generation for PR #65667 [ci skip]
+
+* Adds check that random syndie item exists (#65667)
+
+* Automatic changelog generation for PR #65662 [ci skip]
+
+* Duped washing machine + decals GONE. (#65662)
+
+* Automatic changelog generation for PR #65659 [ci skip]
+
+* Fixes offering things to yourself (#65659)
+
+* Automatic changelog generation for PR #65651 [ci skip]
+
+* SimpleFixing KiloStation NearStation AreaPathing SecurityPrison (#65651)
+
+* Automatic changelog generation for PR #65641 [ci skip]
+
+* Blackbox is worth more as an objective to traitors by increasing the TC reward (#65641)
+
+* Automatic changelog generation for PR #65637 [ci skip]
+
+* Adds Command Encryption Keys to the Cargo Console (#65637)
+
+* Automatic changelog generation for PR #65633 [ci skip]
+
+* Adds wire to Ice's engineering console (#65633)
+
+* Rename traumas.dm to phobias.dm (#65632)
+
+* Automatic changelog generation for PR #65619 [ci skip]
+
+* begone lowpop disease (#65619)
+
+* Automatic changelog generation for PR #65675 [ci skip]
+
+* Switches the GasmixParser component reaction list to be block (#65675)
+
+* Automatic changelog generation for PR #65473 [ci skip]
+
+* Can secondary attack (right-click) and fire guns with TK (#65473)
+
+* Automatic changelog generation for PR #65466 [ci skip]
+
+* Fixes nonhuman head of departments showing up as their original species in security records (#65466)
+
+* Automatic changelog generation for PR #65615 [ci skip]
+
+* changes shuttles to use new access helpers rather than varedits (#65615)
+
+* Automatic changelog generation for PR #65496 [ci skip]
+
+* Fixes airlocks and windoors not being attackable with melee weapons (#65496)
+
+* Automatic changelog generation for PR #65594 [ci skip]
+
+* [MDB IGNORE] Cleans up the Active Turfs in SnowCabin.dm (#65594)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #65588 [ci skip]
+
+* DeltaStation's Recreation Area Rework,  (LUNG CANCER EDITION) (#65588)
+
+* Automatic changelog generation for PR #65581 [ci skip]
+
+* Airlock name mapping helper (#65581)
+
+* Automatic changelog generation for PR #65578 [ci skip]
+
+* Revives "Adds sound effects to surgeries" (#65578)
+
+* Automatic changelog generation for PR #65616 [ci skip]
+
+* BCI component expansion (#65616)
+
+* Automatic changelog generation for PR #65624 [ci skip]
+
+* Adds view sensor (#65624)
+
+* Automatic changelog generation for PR #65654 [ci skip]
+
+* Adds search to supply console (#65654)
+
+* Automatic changelog generation for PR #65613 [ci skip]
+
+* Makes the kiosk scanner wand bulky (#65613)
+
+* Uplink fixes (#65630)
+
+* Automatic changelog generation for PR #65645 [ci skip]
+
+* Fixes assistants going to medium priority when other job is selected (#65645)
+
+* Automatic changelog generation for PR #65622 [ci skip]
+
+* Prevents airlocks from requiring no access when the access wire is cut (#65622)
+
+* Automatic changelog generation for PR #65646 [ci skip]
+
+* Deletes the doubled firelock (#65646)
+
+* Automatic changelog generation for PR #65656 [ci skip]
+
+* [MDB IGNORE] Gives windoors directional variants (#65656)
+
+* Automatic changelog generation for PR #65529 [ci skip]
+
+* fix gas consumption (#65529)
+
+* Automatic changelog generation for PR #65623 [ci skip]
+
+* [NO GPB] Makes GPSes work again (#65623)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #65455 [ci skip]
+
+* Mapping Turf Decal: Opposing Corners (#65455)
+
+* Automatic changelog generation for PR #65628 [ci skip]
+
+* simplifies and fixes bot modes (#65628)
+
+* Automatic changelog generation for PR #65626 [ci skip]
+
+* Fixing a couple issues I've introduced with canvases. (#65626)
+
+* Automatic changelog generation for PR #65372 [ci skip]
+
+* Atmos Control Console Refactor (and syndiebase atmos tidyup) (#65372)
+
+* Automatic changelog generation for PR #65526 [ci skip]
+
+* Fixes naming consistency for Departmental Protolathe/Techfab boards (#65526)
+
+* Automatic changelog generation for PR #65629 [ci skip]
+
+* xray lasers now have 100 armor penetration (#65629)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #65423 [ci skip]
+
+* Electrolyzer reactions update (#65423)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #65610 [ci skip]
+
+* Removes Floating Poster on KiloStation Botany (#65610)
+
+* Automatic changelog generation for PR #65597 [ci skip]
+
+* Refactor mood events font colors, spans, and newlines (#65597)
+
+* Automatic changelog generation for PR #65600 [ci skip]
+
+* Removes Erratic Poster on KiloStation (#65600)
+
+* Automatic changelog generation for PR #65205 [ci skip]
+
+* [READY] Podperson hair (sprites by Shiets!)  (#65205)
+
+* Automatic changelog generation for PR #65487 [ci skip]
+
+* changes projectile's armor resistance flag to "armor_flag" (#65487)
+
+* Log filters better (#65539)
+
+* Automatic changelog generation for PR #65544 [ci skip]
+
+* Fixes being able to use revival surgery on blacklisted defib victims (#65544)
+
+* Automatic changelog generation for PR #65568 [ci skip]
+
+* Arriving Along The Eastern Front - KiloStation NearStation Fixes (#65568)
+
+* Automatic changelog generation for PR #65576 [ci skip]
+
+* IceBox Atmospherics Gas Storage De-Grilleing (Haircut Edition) (#65576)
+
+* Automatic changelog generation for PR #65582 [ci skip]
+
+* Adds optional automatic ceiling generation for map templates and gives bluespace shelters ceilings (#65582)
+
+* Automatic changelog generation for PR #65585 [ci skip]
+
+* Updates some of Old Stations areas and organizes them, also adds a few new ones too (#65585)
+
+* Automatic changelog generation for PR #65587 [ci skip]
+
+* Fixes tritium fire radiation. (#65587)
+
+* Automatic changelog generation for PR #65596 [ci skip]
+
+* Make shuttle engines actually purchasable with the BYOS kit (#65596)
+
+* Automatic changelog generation for PR #65598 [ci skip]
+
+* Blob mobs use astar/jps for automated movement pathing, no longer get blocked by blob tiles (#65598)
+
+* Automatic changelog generation for PR #65602 [ci skip]
+
+* Fixes blood-spread-only diseases always spreading upon direct exposure to blood. (#65602)
+
+* Automatic changelog generation for PR #65607 [ci skip]
+
+* Bugfix: Proximity sensor inside chemical grenades (#65607)
+
+* Automatic changelog generation for PR #65604 [ci skip]
+
+* BCI overlay fix (#65604)
+
+* Automatic changelog generation for PR #65491 [ci skip]
+
+* changes black and white undershirt to not look like v-necks when viewed from the side (#65491)
+
+* Automatic changelog generation for PR #65513 [ci skip]
+
+* Cryocell works with all gases now ; Cryox requires being KOd (#65513)
+
+* Automatic changelog generation for PR #65577 [ci skip]
+
+* Painting improvement: Added a palette component for spraycans and palette items. (#65577)
+
+* Automatic changelog generation for PR #65528 [ci skip]
+
+* Surgery step consistency (#65528)
+
+* Automatic changelog generation for PR #65557 [ci skip]
+
+* Prevents the recycler eating its own parts when dismantled (#65557)
+
+* Automatic changelog generation for PR #65567 [ci skip]
+
+* Flesh heretics summon objective now counts all summoned, alive or dead (#65567)
+
+* Mapping Access Helpers (#65580)
+
+* Automatic changelog generation for PR #65606 [ci skip]
+
+* Fixes the description for the mouse being incredibly rude, judgemental, and insulting towards mice, who are objectively adorable. (#65606)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #65590 [ci skip]
+
+* Fixes Active Turfs in Beach Biodome (#65590)
+
+* Bump pillow from 9.0.0 to 9.0.1 in /tools (#65579)
+
+* Automatic changelog generation for PR #65575 [ci skip]
+
+* Slime cookie stacking fixes (#65575)
+
+* Automatic changelog generation for PR #65550 [ci skip]
+
+* Fixes medical scrub being named "under" (#65550)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #65524 [ci skip]
+
+* Fix under airlock walls on Kilo (#65524)
+
+* Automatic changelog generation for PR #65574 [ci skip]
+
+* Fixes Double Locker Placement in MetaStation Cargo Maints (#65574)
+
+* Automatic changelog generation for PR #65525 [ci skip]
+
+* Adds Area Turf Sprites To CentCom Proper (and more!) (#65525)
+
+* Automatic changelog generation for PR #65543 [ci skip]
+
+* Fixes a runtime in build mode's KABOOM (#65543)
+
+* Automatic changelog generation for PR #65041 [ci skip]
+
+* improves meatspike code, makes it use default buckle (#65041)
+
+* Automatic changelog generation for PR #65573 [ci skip]
+
+* Fixes ruin cheese (#65573)
+
+* Automatic changelog generation for PR #65565 [ci skip]
+
+* Fixes Airlocks at DeltaStation Arrivals (#65565)
+
+* Automatic changelog generation for PR #65549 [ci skip]
+
+* Blast door. (#65549)
+
+* Automatic changelog generation for PR #65532 [ci skip]
+
+* Bye sand! (#65532)
+
+* Automatic changelog generation for PR #65511 [ci skip]
+
+* Kilo Chapel Fixes (And Tweaks) (#65511)
+
+* Automatic changelog generation for PR #65478 [ci skip]
+
+* Fixes Weird Lighting And Camera Mounting in MetaStation's AI Satellite (#65478)
+
+* Automatic changelog generation for PR #65559 [ci skip]
+
+* modsuit armor (#65559)
+
+* Automatic changelog generation for PR #65404 [ci skip]
+
+* Adds format (associative) list wiremod component (#65404)
+
+* Automatic changelog generation for PR #65566 [ci skip]
+
+* Gibbed / dusted / otherwise deleted heretic sacrifice targets will clear themselves from heretic target lists  (#65566)
+
+* Automatic changelog generation for PR #65389 [ci skip]
+
+* Allows Plasma Fixation to heal in any amount of plasma gas (#65389)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #65421 [ci skip]
+
+* Allows all accessories to toggle between under/above suit, Take 2 (#65421)
+
+* Automatic changelog generation for PR #65297 [ci skip]
+
+* better resonator (spreading) (#65297)
+
+* Automatic changelog generation for PR #65533 [ci skip]
+
+* Removes two stray lattices from CentCom.dmm (#65533)
+
+* Automatic changelog generation for PR #65481 [ci skip]
+
+* Improved the Art Gallery App and the AI Portrait Picker. Added a search function to them. (#65481)
+
+* Automatic changelog generation for PR #65441 [ci skip]
+
+* Allows you to offer an item to only one person with Shift+Ctrl+Click (#65441)
+
+* Automatic changelog generation for PR #65467 [ci skip]
+
+* Low/no power screen alert tooltips tell you where the recharging stations actually are (#65467)
+
+* Automatic changelog generation for PR #65538 [ci skip]
+
+* Update toolbox_righthand.dmi (#65538)
+
+* Automatic changelog generation for PR #65412 [ci skip]
+
+* Touch-ups on 2nd level BoxStation (#65412)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #65521 [ci skip]
+
+* Removes bits of floaty rock from KiloStation (#65521)
+
+* Automatic changelog generation for PR #65510 [ci skip]
+
+* Makes solars on TramStation functional (#65510)
+
+* Automatic changelog generation for PR #65416 [ci skip]
+
+* modsuit storage empties when being removed from the suit (#65416)
+
+* Automatic changelog generation for PR #65407 [ci skip]
+
+* medkit tweaks (#65407)
+
+* Automatic changelog generation for PR #65248 [ci skip]
+
+* Introduces 3 new permanant banner rolls for fish!  (#65248)
+
+* Moves thief policy from hardcoded to get_policy. (#65522)
+
+* Automatic changelog generation for PR #65520 [ci skip]
+
+* Fixes Double Chair in IceBox Departures (#65520)
+
+* Automatic changelog generation for PR #65519 [ci skip]
+
+* Fixes Posters in Lower Chapel Maintenace (#65519)
+
+* Automatic changelog generation for PR #65506 [ci skip]
+
+* Fixes TramStation's Ordnance APC (#65506)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #65093 [ci skip]
+
+* Fix departmental order consoles not being able to order gas canisters (#65093)
+
+* Automatic changelog generation for PR #65486 [ci skip]
+
+* Soulscythes are now immune to mining planet storms (#65486)
+
+* Automatic changelog generation for PR #65474 [ci skip]
+
+* Adds an Area Turf Sprite for the Diner (#65474)
+
+* Automatic changelog generation for PR #65240 [ci skip]
+
+* Allows more than two assemblies to be connected together (#65240)
+
+* Automatic changelog generation for PR #65512 [ci skip]
+
+* Fix - Removes ORM from golem ship (#65512)
+
+* Brings DNA Console behaviour server-side to prevent href exploitation. (#65507)
+
+* Automatic changelog generation for PR #65366 [ci skip]
+
+* Refactors Lich Phylactery to be a component, makes it actually work (#65366)
+
+* Automatic changelog generation for PR #65378 [ci skip]
+
+* Fixes non tgui inputs. (#65378)
+
+* Automatic changelog generation for PR #65418 [ci skip]
+
+* shy component now has variables for being shy around keyless and clientless bodies (#65418)
+
+* Automatic changelog generation for PR #65439 [ci skip]
+
+* makes decomposing take all asteroid floor into account (#65439)
+
+* Automatic changelog generation for PR #65443 [ci skip]
+
+* Adds a cooldown to the deliver_first crates deny sound (#65443)
+
+* Automatic changelog generation for PR #65505 [ci skip]
+
+* Fixes unarmed telekinesis breaking chameleon. (#65505)
+
+* Automatic changelog generation for PR #65494 [ci skip]
+
+* checks if airlock type actually exists (#65494)
+
+* Automatic changelog generation for PR #65517 [ci skip]
+
+* fixes random ass removed turfs and adds a bar air alarm (#65517)
+
+* Automatic changelog generation for PR #65480 [ci skip]
+
+* De-areas a section of KiloStation Fore Maintenance (#65480)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #65476 [ci skip]
+
+* Fixes the Floating Camera in DeltaStation Bomb Test Site (#65476)
+
+* Automatic changelog generation for PR #65493 [ci skip]
+
+* Adds an APC to Security's Medical Section (#65493)
+
+* Automatic changelog generation for PR #65477 [ci skip]
+
+* Two KiloStation Chapel Fixes (#65477)
+
+* Automatic changelog generation for PR #65475 [ci skip]
+
+* Rearranges the viewing area of DeltaStation's Surgery Theatre (#65475)
+
+* Automatic changelog generation for PR #65492 [ci skip]
+
+* replaces the punching bag sprite, removing fitness.dmi (#65492)
+
+* Automatic changelog generation for PR #65489 [ci skip]
+
+* Resprites the police baton (#65489)
+
+* Automatic changelog generation for PR #65462 [ci skip]
+
+* fixes pride pin reskinning (#65462)
+
+* Automatic changelog generation for PR #65504 [ci skip]
+
+* [MDB IGNORE] Moves non floor turfs off /floor. You can put lattices on lavaland edition (#65504)
+
+* Automatic changelog generation for PR #65381 [ci skip]
+
+* Adds Cargo Lobby Area Turfing (Lobby it Up!) (#65381)
+
+* Automatic changelog generation for PR #65449 [ci skip]
+
+* Simplifies Law Logging (#65449)
+
+* Automatic changelog generation for PR #65460 [ci skip]
+
+* fixes SFX_SHATTER being used in place of explosions (#65460)
+
+* Automatic changelog generation for PR #65459 [ci skip]
+
+* Adds Area Turf Sprites for Certain Centcom Z-Level Areas (#65459)
+
+* Automatic changelog generation for PR #65456 [ci skip]
+
+* Fixes "Off" Area Turf Definitions on the Syndicate Nukie Base (#65456)
+
+* Automatic changelog compile [ci skip]
+
+* Fixes a critical issue in dna console sanitization. Fucking headmins (#65498)
+
+* Automatic changelog generation for PR #65267 [ci skip]
+
+* A Mapper's Delight: Directional Poster Spawners (var edits are dead!) [MDB IGNORE] (#65267)
+
+* Automatic changelog generation for PR #65457 [ci skip]
+
+* Centcomm Admin Prison's Indestructible Floors (#65457)
+
+* Automatic changelog generation for PR #65468 [ci skip]
+
+* BEGONE FIRELOCK. (#65468)
+
+* Automatic changelog generation for PR #65464 [ci skip]
+
+* removes lean from the game (#65464)
+
+* Automatic changelog generation for PR #65233 [ci skip]
+
+* Updates Title Screen Instructions (#65233)
+
+* Automatic changelog generation for PR #65362 [ci skip]
+
+* makes podpeople call parent (#65362)
+
+* Automatic changelog generation for PR #65384 [ci skip]
+
+* Improves dog AI resilience (#65384)
+
+* Automatic changelog generation for PR #65429 [ci skip]
+
+* Quality of Life fix for Security: Anyone who has access to the cells and the gulag shuttle can now use the gulag teleporter (#65429)
+
+* Automatic changelog generation for PR #65413 [ci skip]
+
+* Makes armsky/pingsky not pAI controllable (#65413)
+
+* Removes Dynamic Hair Suffixes (#65209)
+
+* Automatic changelog generation for PR #65383 [ci skip]
+
+* Adds tooltips to /tg/c keywords. Adds support for chat embedded tgui components (#65383)
+
+* Automatic changelog generation for PR #65394 [ci skip]
+
+* Re-sanitizes atmos reaction result list. (#65394)
+
+* Automatic changelog generation for PR #65461 [ci skip]
+
+* Fixes water vapor and cleans up some req defines. (#65461)
+
+* Automatic changelog generation for PR #65253 [ci skip]
+
+* Adds the Kheiral Cuffs to the game, a life-saving wrist device (#65253)
+
+* Fixes issue with holographic paystands not dissipating in certain cases (#65246)
+
+* Automatic changelog generation for PR #65300 [ci skip]
+
+* Hand labeler paper roll and toner cartridge can be printed at autolathe and protolathes now (#65300)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #65289 [ci skip]
+
+* Standardizing Toxins Gas Storage Amounts (#65289)
+
+* Automatic changelog generation for PR #65390 [ci skip]
+
+* fixes double the (#65390)
+
+* Automatic changelog generation for PR #65307 [ci skip]
+
+* Fire door screentip fixes and additions (#65307)
+
+* Automatic changelog generation for PR #65420 [ci skip]
+
+* Small improvements to scipapers (#65420)
+
+* Automatic changelog generation for PR #65431 [ci skip]
+
+* Updates `init_gaslist_cache` to match current code standards (#65431)
+
+* Automatic changelog generation for PR #65251 [ci skip]
+
+* Lets gooses actually retaliate (#65251)
+
+* Automatic changelog generation for PR #65400 [ci skip]
+
+* Belt sprites for the syndie screwdriver and alien tools (#65400)
+
+* Automatic changelog generation for PR #65419 [ci skip]
+
+* Fixes the bug (#65419)
+
+* Automatic changelog generation for PR #65422 [ci skip]
+
+* Fixes all cheese counting as cheese wedges for recipes (#65422)
+
+* Automatic changelog generation for PR #65437 [ci skip]
+
+* And this kids is why you don't just spawn in clowntears to test quint sec. (#65437)
+
+* Automatic changelog generation for PR #65427 [ci skip]
+
+* Update MetaStation.dmm (#65427)
+
+* Automatic changelog generation for PR #65432 [ci skip]
+
+* Removes a forgotten devil proc in photocopier code (#65432)
+
+* Automatic changelog generation for PR #65435 [ci skip]
+
+* Fixes Weird Turf Decal On Wall in KiloStation (#65435)
+
+* Automatic changelog generation for PR #65438 [ci skip]
+
+* Makes splashed blood infective like bled blood. (#65438)
+
+* Automatic changelog generation for PR #65403 [ci skip]
+
+* Fixes, refactors airlock plating (#65403)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #65417 [ci skip]
+
+* adds a roundend threat log, showing player threat edits (#65417)
+
+* Automatic changelog generation for PR #65388 [ci skip]
+
+* double firelock fix (#65388)
+
+* Automatic changelog generation for PR #65410 [ci skip]
+
+* fixes psychology office (#65410)
+
+* Automatic changelog generation for PR #65405 [ci skip]
+
+* remove wall (#65405)
+
+* Automatic changelog generation for PR #65409 [ci skip]
+
+* Decomposition now has mold first, then ants, instead of both. (#65409)
+
+* Automatic changelog generation for PR #65402 [ci skip]
+
+* modsuit nominal sound no longer plays when youre deaf (#65402)
+
+* Fixes persistent painting patron name not being loaded (#65411)
+
+* Automatic changelog generation for PR #65408 [ci skip]
+
+* fixes wallmounts (#65408)
+
+* Automatic changelog generation for PR #65290 [ci skip]
+
+* Four Corners, Red Rover: An Exploration in Decal Trends [MDB IGNORE] (#65290)
+
+* Automatic changelog generation for PR #65252 [ci skip]
+
+* Improve ornament, barricade, grille, and girder random spawners (#65252)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #65287 [ci skip]
+
+* You can no longer survive nuke by being inside lockers, however, you are guaranteed to survive it while inside a fridge. (#65287)
+
+* Automatic changelog generation for PR #64921 [ci skip]
+
+* mech equipment fix/cleanup (#64921)
+
+* Automatic changelog generation for PR #65230 [ci skip]
+
+* [MDB IGNORE] 3/4th medkit sprites + firstaid > medkit (#65230)
+
+* Automatic changelog generation for PR #65367 [ci skip]
+
+* Liches can't use Soul Tap (again) (#65367)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #65277 [ci skip]
+
+* Allows multitools to change the speed of linked conveyor belts by clicking on a placed conveyor switch. (#65277)
+
+* Automatic changelog generation for PR #65247 [ci skip]
+
+* Makes clusterbuster segments actually initialize and prime (#65247)
+
+* Automatic changelog generation for PR #65380 [ci skip]
+
+* Correction of Misdescription of DeltaStation Atmospherics Areas (#65380)
+
+* Automatic changelog generation for PR #65379 [ci skip]
+
+* Fixes succumb cancel not working. (#65379)
+
+* Automatic changelog generation for PR #65370 [ci skip]
+
+* Adds a new Mapping Icon for Light Emitter Effect Placement (#65370)
+
+* Automatic changelog generation for PR #65249 [ci skip]
+
+* Fixes RCD not being able to be put in containers by click (#65249)
+
+* Automatic changelog generation for PR #65265 [ci skip]
+
+* Kilo Chapel Revamp (Pubby Style) (#65265)
+
+* Automatic changelog generation for PR #65360 [ci skip]
+
+* makes vibebots pAI controllable (#65360)
+
+* Automatic changelog generation for PR #65357 [ci skip]
+
+* [No GBP] Makes adding additional modular bookstates easier for downstreams (#65357)
+
+* Automatic changelog generation for PR #65353 [ci skip]
+
+* Fixes Abandoned Crates exploding on right click + Code improvements. (#65353)
+
+* Automatic changelog generation for PR #65333 [ci skip]
+
+* makes the pride pin visible over outer clothing (#65333)
+
+* Automatic changelog generation for PR #65344 [ci skip]
+
+* Cyborgs can no longer hand mine snow turfs with non-mining modules (#65344)
+
+* Automatic changelog generation for PR #65343 [ci skip]
+
+* Fixes non rustable turfs from being rusted (#65343)
+
+* Automatic changelog generation for PR #65303 [ci skip]
+
+* Getting shocked helps against heart attacks (#65303)
+
+* Automatic changelog generation for PR #65298 [ci skip]
+
+* Tablet update icon fix (#65298)
+
+* Automatic changelog generation for PR #65368 [ci skip]
+
+* Fixes Bar Stool Placement in Nuclear Operative Base (#65368)
+
+* Automatic changelog generation for PR #65369 [ci skip]
+
+* Declutters DeltaStation's Telecommunications Walls (#65369)
+
+* Automatic changelog generation for PR #65374 [ci skip]
+
+* Enables public access to escape pod on KiloStation (#65374)
+
+* Automatic changelog generation for PR #65373 [ci skip]
+
+* Add cable to engineering console on Delta station bridge (#65373)
+
+* Automatic changelog generation for PR #65305 [ci skip]
+
+* Becoming the patron of a painting now lets you select a different, persistent appearance for the frame it's in. (#65305)
+
+* Automatic changelog generation for PR #65120 [ci skip]
+
+* reduce pluox produced by the SM (#65120)
+
+* Automatic changelog generation for PR #65363 [ci skip]
+
+* high frequency blade now works on vehicles + can customize slash color (#65363)
+
+* Automatic changelog generation for PR #65325 [ci skip]
+
+* Fixes Chili sin carne (#65325)
+
+* Automatic changelog generation for PR #65352 [ci skip]
+
+* Changes the default ghost lighting, makes it a preference (#65352)
+
+* Automatic changelog generation for PR #65338 [ci skip]
+
+* Bump click component for bump mining (#65338)
+
+* Automatic changelog generation for PR #65385 [ci skip]
+
+* Fixes hud objects being hidden by blindness (#65385)
+
+* Automatic changelog generation for PR #65259 [ci skip]
+
+* e (#65259)
+
+* Automatic changelog generation for PR #65341 [ci skip]
+
+* book resprite (#65341)
+
+* Automatic changelog generation for PR #65356 [ci skip]
+
+* Fixes Glass booze bottles and molotovs not splashing their contents when broken via throwing (#65356)
+
+* Automatic changelog generation for PR #65358 [ci skip]
+
+* Restores the Persistent Scars preference (#65358)
+
+* Automatic changelog generation for PR #65217 [ci skip]
+
+* Adds a colorblind accessability testing tool (#65217)
+
+* Automatic changelog generation for PR #65359 [ci skip]
+
+* Door Ownership For DeltaStation Ordnance Storage (#65359)
+
+* Automatic changelog generation for PR #65319 [ci skip]
+
+* adds an APC to the upper dorm area on Tramstation (#65319)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #65324 [ci skip]
+
+* Fixes Broken Texture Edge Case Oddity (Rock Meet Skull Edition) (#65324)
+
+* Fix broken documentation links (#65376)
+
+* Converts SFX keys into DEFINES (#65146)
+
+* Automatic changelog generation for PR #65309 [ci skip]
+
+* Fixes possible charge issues in the future (#65309)
+
+* Automatic changelog generation for PR #65335 [ci skip]
+
+* New weight machine sprites and names (#65335)
+
+* Automatic changelog generation for PR #65339 [ci skip]
+
+* Adds "Suspected" to available sec record tags (#65339)
+
+* Automatic changelog generation for PR #65221 [ci skip]
+
+* Screentips for anomaly neutralizer / null rod (and other effect removers) (#65221)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #65322 [ci skip]
+
+* Adds an Altar of the Gods to Tramstation Chapel (#65322)
+
+* Automatic changelog generation for PR #65313 [ci skip]
+
+* Fixes ollieing onto empty space tiles making you float forever (#65313)
+
+* Automatic changelog generation for PR #65351 [ci skip]
+
+* Adds the Pensive Emote to Chat (#65351)
+
+* Automatic changelog generation for PR #65314 [ci skip]
+
+* fixes mod plating being called armor in some places (#65314)
+
+* Automatic changelog generation for PR #65306 [ci skip]
+
+* Machinery attack_paw() gives feedback for no damage attacks (#65306)
+
+* Automatic changelog generation for PR #65350 [ci skip]
+
+* Fixes broken posts in the icebox underground (#65350)
+
+* Adds Pickle-Coding to atmospherics and power CODEOWNERS. (#65219)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #65284 [ci skip]
+
+* De-hardcodes the decomposition examine proc, and makes the decompose time editable (#65284)
+
+* Automatic changelog generation for PR #65327 [ci skip]
+
+* abstract movement now checks for cordon turfs + cordons have NOJAUNT (#65327)
+
+* Prevents harddels when maps are loaded after SSatoms init (#65299)
+
+* Automatic changelog generation for PR #65332 [ci skip]
+
+* Nations now has the ONLY_RULESET flag (#65332)
+
+* Automatic changelog generation for PR #65315 [ci skip]
+
+* Debug modsuits now are insulated (#65315)
+
+* Automatic changelog generation for PR #65196 [ci skip]
+
+* Vibebot code improvement + QoL (#65196)
+
+* A bit of gas reaction cleanup. (#64045)
+
+* Automatic changelog generation for PR #64870 [ci skip]
+
+* More Area Turf Sprites for Atmossians (#64870)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #65130 [ci skip]
+
+* The Crash Atmospherics Diet (Pump some Weights!) (#65130)
+
+* Automatic changelog generation for PR #65261 [ci skip]
+
+* Some Mining Station Area Redefines (#65261)
+
+* Automatic changelog generation for PR #65079 [ci skip]
+
+* Buffs the Silverscale pirates (and their species slightly), and tweaks their shuttle (#65079)
+
+* Automatic changelog generation for PR #65280 [ci skip]
+
+* DeltaStation Science Shearing (Take a break, bozo!) (#65280)
+
+* Automatic changelog generation for PR #65239 [ci skip]
+
+* KILOSTATION: Remaps almost all of the center "core" area (service hall included)  (#65239)
+
+* Automatic changelog generation for PR #64428 [ci skip]
+
+* Tool act superpack 2 (#64428)
+
+* Automatic changelog generation for PR #64818 [ci skip]
+
+* Janitorial cart improvements (#64818)
+
+* Automatic changelog generation for PR #65304 [ci skip]
+
+* Fixes bot trails being invisible, other cleanup (#65304)
+
+* Automatic changelog generation for PR #65191 [ci skip]
+
+* Makes plumbing IV drips rotatable with alt-click, removes alt-clicking IV drips to max out transfer rate (#65191)
+
+* Automatic changelog generation for PR #65158 [ci skip]
+
+* Atmos volume pumps and meters are now compatible with circuits (#65158)
+
+* #64812 typo fixes (#65227)
+
+* Automatic changelog compile [ci skip]
+
+* BRING BACK STICKY BANS WRONG REPO WRONG REPO WRONG REPO WRONG REPO
+
+* Disable sticky bans cuz lag [NEED TO PUT THIS IN EVENT BASE]
+
+* Automatic changelog generation for PR #65260 [ci skip]
+
+* Fixes Power on IceBoxStation's Bar Atrium Area (#65260)
+
+* Automatic changelog generation for PR #65188 [ci skip]
+
+* Tramstation Dorm Rework (#65188)
+
+* Automatic changelog generation for PR #65301 [ci skip]
+
+* Icebox/Meta Med Button Fix (#65301)
+
+* Automatic changelog generation for PR #64890 [ci skip]
+
+* Can use BSRPED to add components to machine frames from afar (#64890)
+
+* Automatic changelog generation for PR #65184 [ci skip]
+
+* fixes an oversight with heretic influence generation (#65184)
+
+* Automatic changelog generation for PR #65225 [ci skip]
+
+* Fit Viewport cleanup (#65225)
+
+* Automatic changelog generation for PR #65212 [ci skip]
+
+* No, we don't want radiation getting released in large pipenets fuck you fuckr uyu! (#65212)
+
+* Automatic changelog generation for PR #65283 [ci skip]
+
+* Asheis get blowgun usage (#65283)
+
+* Automatic changelog generation for PR #65278 [ci skip]
+
+* Makes discoordinated a status effect (#65278)
+
+* Automatic changelog generation for PR #65286 [ci skip]
+
+* changed poll button to a bar chart (#65286)
+
+* Automatic changelog generation for PR #65008 [ci skip]
+
+* Fixes the inputs for the linear and exponential sustain options of the song editor. (#65008)
+
+* Automatic changelog generation for PR #65207 [ci skip]
+
+* Improves spelling for Wheelys' procs to take into account its subtypes (#65207)
+
+* Fixes some style issues in atmos code  (#65250)
+
+* Automatic changelog generation for PR #65194 [ci skip]
+
+* Fixes Mapping-Visuals of Cult Engraved Floor (#65194)
+
+* Automatic changelog generation for PR #65035 [ci skip]
+
+* The Science Hub app for research is now available for science employees in addition to heads of staff. (#65035)
+
+* Automatic changelog generation for PR #65169 [ci skip]
+
+* Fixes being able to insert hand emote items (kisses, slappers, etc) into storage (#65169)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #65269 [ci skip]
+
+* RCD windoor fixes (#65269)
+
+* Automatic changelog generation for PR #64985 [ci skip]
+
+* Adds USB port to Fire Alarms (#64985)
+
+* Automatic changelog generation for PR #65256 [ci skip]
+
+* Adds some more options for female outfit cropping (#65256)
+
+* Automatic changelog generation for PR #65279 [ci skip]
+
+* Area Fixes for DeltaStation Space Hut (#65279)
+
+* Automatic changelog generation for PR #65241 [ci skip]
+
+* [COOL BUG READ FOR MORE INFO] Fix vaccines not working in chem masters by giving Fungal TB's vaccine (and others) a name + Add unit test for duplicate chem names + Rename fake beer + Ratio (#65241)
+
+* Automatic changelog generation for PR #65242 [ci skip]
+
+* Lesbian & Intersex Pins, and General Resprite (#65242)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #65274 [ci skip]
+
+* Slight Jackboot Resprite  (#65274)
+
+* Automatic changelog generation for PR #65268 [ci skip]
+
+* Lets cayenne use the nuke (#65268)
+
+* Automatic changelog generation for PR #65042 [ci skip]
+
+* Fixes bugs with batons with no cells (#65042)
+
+* Automatic changelog generation for PR #65272 [ci skip]
+
+* player playtime improvements (#65272)
+
+* Automatic changelog generation for PR #65262 [ci skip]
+
+* Adds some electrified grilles to the IceBox Labor Camp (#65262)
+
+* Automatic changelog generation for PR #65245 [ci skip]
+
+* Lower thieves cost from 6 to 4, disable midround thieves (#65245)
+
+* Automatic changelog generation for PR #65254 [ci skip]
+
+* Fixes clown dagger icon (#65254)
+
+* Automatic changelog generation for PR #65167 [ci skip]
+
+* New solar panel and tracker sprites (#65167)
+
+* Automatic changelog generation for PR #65223 [ci skip]
+
+* Overhauls heretic rituals slightly for better user feedback (and to help locate a bug) (#65223)
+
+* Automatic changelog generation for PR #65125 [ci skip]
+
+* Sentient elites falling in chasms will no longer spam chests. + code improv. (#65125)
+
+* Automatic changelog generation for PR #65257 [ci skip]
+
+* Spelling fix on doorjack charge count (#65257)
+
+* Automatic changelog generation for PR #65264 [ci skip]
+
+* Resprites Generic Jumpsuits to 3.0 Style (#65264)
+
+* Automatic changelog generation for PR #64826 [ci skip]
+
+* Removes some boilerplate code from basic AI (#64826)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #65080 [ci skip]
+
+* Restores old monkey knockdowns (monkey nerf) (#65080)
+
+* Automatic changelog generation for PR #65236 [ci skip]
+
+* Medical Revamp: Resprites and Jumpsuit/Under Changes (#65236)
+
+* Automatic changelog generation for PR #62284 [ci skip]
+
+* Ordnance Content Update: Scientific Papers (#62284)
+
+* Automatic changelog generation for PR #65215 [ci skip]
+
+* Podpeople inherit their blood chemical from the most abundant chemical trait in their seeds (#65215)
+
+* Fixes spammy monkey runtime. (#65232)
+
+* Automatic changelog generation for PR #65099 [ci skip]
+
+* Actually make notes on airlocks animate when the airlock opens (#65099)
+
+* Automatic changelog generation for PR #64952 [ci skip]
+
+* Adds a new Area Turf Sprite for Tech Storage. (#64952)
+
+* Automatic changelog generation for PR #65234 [ci skip]
+
+* Removes the `environment_type` var from mineral turfs (#65234)
+
+* Automatic changelog generation for PR #65238 [ci skip]
+
+* Fixes a spelling mistake in thief_flavor.json (#65238)
+
+* Fix shuttles without engines runtiming `hyperspace_sound` (#65216)
+
+* Automatic changelog generation for PR #65151 [ci skip]
+
+* Makes reagent copying also copy temperature. (#65151)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #65237 [ci skip]
+
+* Fixes an Oversight in Air Alarm Sprites for Mappers (#65237)
+
+* Automatic changelog generation for PR #65218 [ci skip]
+
+* Fixes Space Pathing in DeltaStation's Abandoned Gambling Den (#65218)
+
+* Automatic changelog generation for PR #65220 [ci skip]
+
+* Adds Some Lattices to KiloStation Atmospherics (#65220)
+
+* Automatic changelog generation for PR #65111 [ci skip]
+
+* TGUIs airlock controllers (ie incinerator access consoles) (#65111)
+
+* Automatic changelog generation for PR #65054 [ci skip]
+
+* Brings back button vertical alignment prop (#65054)
+
+* Automatic changelog generation for PR #65214 [ci skip]
+
+* Fixes a minor code styling issue with atmos. (#65214)
+
+* Automatic changelog generation for PR #65195 [ci skip]
+
+* Makes deadchat control inputs bypass automute. (#65195)
+
+* Automatic changelog generation for PR #65077 [ci skip]
+
+* Dehardcodes SSmapping (#65077)
+
+* Automatic changelog generation for PR #65102 [ci skip]
+
+* Fixes pathing mistakes for a few food things (#65102)
+
+* Automatic changelog generation for PR #65182 [ci skip]
+
+* Fix Icebox Genturf/AT (#65182)
+
+* Minor refactor for /obj/projectile/proc/select_target (#65018)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #65183 [ci skip]
+
+* Fix Kilostation Z-Traits (#65183)
+
+* Automatic changelog generation for PR #64862 [ci skip]
+
+* Prevents instant summons from recalling anchored objects (#64862)
+
+* Automatic changelog generation for PR #65229 [ci skip]
+
+* Restores AI controller for wisdom cow (#65229)
+
+* Automatic changelog generation for PR #64786 [ci skip]
+
+* Makes Ants glow, puts a minimum on ant screaming and shoe permeability, and other ant-related things. (#64786)
+
+* Automatic changelog generation for PR #65211 [ci skip]
+
+* Resprites the Warden Outfits (And Misc. Security Stuff) (#65211)
+
+* Makes lock access on tablet researching a var (#65121)
+
+* Automatic changelog generation for PR #65193 [ci skip]
+
+* mod clamp can carry wrapped crates + mod activation not affected by do after slowdowns + radial icons highlight on extended pieces (#65193)
+
+* [update tgs:DMAPI] Fix git commit detection, fix runtimes when starting tgs on a fresh repo reclone (#65177)
+
+* Automatic changelog generation for PR #64839 [ci skip]
+
+* New in-wall engine sprites (#64839)
+
+* Automatic changelog generation for PR #64752 [ci skip]
+
+* Robotic Basic and Simple mobs now take damage from EMPs (#64752)
+
+* Automatic changelog generation for PR #64744 [ci skip]
+
+* Slight improvements to manual mining (#64744)
+
+* Automatic changelog generation for PR #64915 [ci skip]
+
+* Space drifting fixes and cleanup (#64915)
+
+* Automatic changelog generation for PR #65201 [ci skip]
+
+* lobstrosities charge now (#65201)
+
+* Add rules for named arguments (#65027)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #64988 [ci skip]
+
+* The Chapel Redivisioning (#64988)
+
+* Automatic changelog generation for PR #65199 [ci skip]
+
+* Resprites the fireaxe inhands, 3/4th-ifies the fire axe cabinet (#65199)
+
+* Automatic changelog generation for PR #64997 [ci skip]
+
+* Fixes unwise else case in Spellbook UI, causing runtimes (#64997)
+
+* Automatic changelog generation for PR #64922 [ci skip]
+
+* Mecha cleanup P5: Savanna ability refactor (#64922)
+
+* Automatic changelog generation for PR #65185 [ci skip]
+
+* fixes thieves not being able to complete the guns objective (#65185)
+
+* Automatic changelog generation for PR #65025 [ci skip]
+
+* Adds AI voice changer module (#65025)
+
+* Automatic changelog generation for PR #65190 [ci skip]
+
+* Resprites The Detective, Blueshift and Constable Outfits (#65190)
+
+* Automatic changelog generation for PR #64968 [ci skip]
+
+* Going stealth mode now drops your orbiters, and blocks people from orbiting you.  (#64968)
+
+* Automatic changelog generation for PR #65166 [ci skip]
+
+* Fixes checking if the client is a turf (#65166)
+
+* Automatic changelog generation for PR #65143 [ci skip]
+
+* Fixes accounting's alert being cut in half (#65143)
+
+* Removes a repeated entry of hilberts hotel from the blacklisted_cargo_types list (#65171)
+
+* Automatic changelog generation for PR #64812 [ci skip]
+
+* Introduction of mocktails and milkshake expansion. (#64812)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #65178 [ci skip]
+
+* Adds a seperate pick proc to work on lists (#65178)
+
+* Automatic changelog generation for PR #65165 [ci skip]
+
+* Moth Cheese Consistency (#65165)
+
+* Automatic changelog generation for PR #64981 [ci skip]
+
+* Adds helianthus, a hallucinogenic absinthe cocktail. (#64981)
+
+* remove reinforcement more (#65147)
+
+* Automatic changelog generation for PR #65140 [ci skip]
+
+* De-hardcodes the species preference pages, deleting the species pages and generating them in constant data on the DM side instead (#65140)
+
+* Automatic changelog generation for PR #65163 [ci skip]
+
+* progressive traitor description (#65163)
+
+* Automatic changelog generation for PR #65170 [ci skip]
+
+* reset poly's death streak upon surviving (#65170)
+
+* Automatic changelog generation for PR #65154 [ci skip]
+
+* Adds linking datums in asay (#65154)
+
+* Add null check for status display circuit (#65164)
+
+* Automatic changelog generation for PR #65092 [ci skip]
+
+* Monitoring Centcom and CTF frequencies is now illegal. (#65092)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #64970 [ci skip]
+
+* Refactors and fixes summon events/guns/magic (#64970)
+
+* Removes lattices from our walls (#65150)
+
+* Automatic changelog generation for PR #64995 [ci skip]
+
+* A Grand Operating Surgeon Steps Forth to Perform To An Aft Crowd in regards to Theatre (#64995)
+
+* Automatic changelog generation for PR #65162 [ci skip]
+
+* Removes The Firelocks From Kilo's External Airlocks (#65162)
+
+* Automatic changelog generation for PR #65156 [ci skip]
+
+* Moves Floor Light in MetaStation Atmospherics (#65156)
+
+* Automatic changelog generation for PR #65148 [ci skip]
+
+* Fixes icebox warden's lockdown not working (#65148)
+
+* Automatic changelog generation for PR #65141 [ci skip]
+
+* Fixes Deltastation AI pathfinding (#65141)
+
+* Automatic changelog generation for PR #65153 [ci skip]
+
+* Adds Missing NearStation Definition near DeltaStation Atmospherics (#65153)
+
+* Automatic changelog generation for PR #65138 [ci skip]
+
+* Fixes Blank Space Area Turf Definition in DeltaStation Science (#65138)
+
+* Automatic changelog generation for PR #65161 [ci skip]
+
+* Resprites the Chief Medical Officer (#65161)
+
+* Automatic changelog generation for PR #65071 [ci skip]
+
+* Fixes tabs on pAI candidate menu (#65071)
+
+* Automatic changelog generation for PR #65139 [ci skip]
+
+* Handful of Glass Floor Spellchecks (#65139)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #64978 [ci skip]
+
+* Updates all storage bag icons (#64978)
+
+* Automatic changelog generation for PR #64905 [ci skip]
+
+* Buffs Heretic's Raw Prophet slightly, and gives it a funny lil attack animation  (#64905)
+
+* Automatic changelog generation for PR #65145 [ci skip]
+
+* Show "important" messages in created chat tabs (#5501) (#65145)
+
+* Automatic changelog generation for PR #65142 [ci skip]
+
+* Monkeys can no longer spread heart attacks (#65142)
+
+* Automatic changelog generation for PR #65084 [ci skip]
+
+* Vampires cannot become bats(Spellcheck) (#65084)
+
+* makes most alerts, defines (#65086)
+
+* Automatic changelog generation for PR #65133 [ci skip]
+
+* Fixes some code style issues for more free GBP (#65133)
+
+* Automatic changelog generation for PR #65095 [ci skip]
+
+* replaces the o with an actual o sound (#65095)
+
+* Automatic changelog generation for PR #65135 [ci skip]
+
+* Fix opening an air alarm panel turning off overlay (#65135)
+
+* Automatic changelog generation for PR #65127 [ci skip]
+
+* Adds USB port to status display (#65127)
+
+* Automatic changelog generation for PR #65057 [ci skip]
+
+* Adds proper item stack support to heretic transmutation + gives some generally better feedback for certain failed transmutations (#65057)
+
+* Automatic changelog generation for PR #65132 [ci skip]
+
+* Implements some missing SDQL 2 wrappers. (#65132)
+
+* Automatic changelog generation for PR #65137 [ci skip]
+
+* Improved logging for pointing, bodythrows, and date rollovers (#65137)
+
+* Replace `.` code standards with new standards favoring readability. I've shifted the Overton window. (#64940)
+
+* Automatic changelog generation for PR #65081 [ci skip]
+
+* De-Souls Cardboard Cutouts (#65081)
+
+* Automatic changelog generation for PR #65104 [ci skip]
+
+* Space Dragon text changes (#65104)
+
+* Automatic changelog generation for PR #65075 [ci skip]
+
+* Proper-ish fix (#65075)
+
+* Automatic changelog generation for PR #65114 [ci skip]
+
+* Changes rounding on cell power percentage (#65114)
+
+* Automatic changelog generation for PR #65129 [ci skip]
+
+* Bicycle integrity fixes (#65129)
+
+* Automatic changelog generation for PR #65015 [ci skip]
+
+* TramStation's Double-Decker Science Bus Differentiation (#65015)
+
+* Yet Another MetaStation Maintenance Repathing (Fore AND Port) (#64951)
+
+* Fixes lavaland survival pod ruin decals (#65123)
+
+* Automatic changelog generation for PR #65126 [ci skip]
+
+* Fixes Deltastation Transfer Center extra APC (#65126)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #65117 [ci skip]
+
+* Fix Metastation hydroponics shutter access (#65117)
+
+* Automatic changelog generation for PR #65087 [ci skip]
+
+* Makes snow walls consistent with other walls (#65087)
+
+* Automatic changelog generation for PR #65101 [ci skip]
+
+* Fixes "breath" spelling error for Claustrophobia quirk (#65101)
+
+* Automatic changelog generation for PR #64975 [ci skip]
+
+* Gravitum fixes and tweaks (#64975)
+
+* Automatic changelog generation for PR #65068 [ci skip]
+
+* Fixes some sprite issues with the adjusted cargo tech jumpsuit and jumpskirt (#65068)
+
+* Automatic changelog generation for PR #65069 [ci skip]
+
+* Fixes disk 'smartfridge' having the wrong light mask (#65069)
+
+* Automatic changelog generation for PR #65078 [ci skip]
+
+* Fix incorrect wording in atmos UI (#65078)
+
+* Automatic changelog generation for PR #65106 [ci skip]
+
+* Set the plane for floor lights. (#65106)
+
+* Automatic changelog generation for PR #65006 [ci skip]
+
+* Changes way frostoil reagent interacts with atmospherics. (#65006)
+
+* Automatic changelog generation for PR #65107 [ci skip]
+
+* Thieves can no longer scale and take more than 6 threat, increases number of thieves ran by 2 (#65107)
+
+* Automatic changelog generation for PR #65065 [ci skip]
+
+* Deletes useless/wrong info about esniffer's desc (#65065)
+
+* 3/4ths-ifies the Suit Storage Units (#65098)
+
+* Silicon airlock hotkey screen tips  (#64991)
+
+* Automatic changelog generation for PR #65016 [ci skip]
+
+* Makes the Russian fugitive hunters less bad (also gives them a pet bear) (#65016)
+
+* Automatic changelog generation for PR #64939 [ci skip]
+
+* Change hydroponics tray and chem dispenser AltClick behavior to be used by RMB  (#64939)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #64933 [ci skip]
+
+* Ordnance Site of Launch Area Turfing (Obtusity AND Deblobbening Combo Deal) (#64933)
+
+* Automatic changelog generation for PR #65082 [ci skip]
+
+* IceBox Radstorm Fix + QOL (#65082)
+
+* Automatic changelog generation for PR #65100 [ci skip]
+
+* Fixes ratfish harddels, minor code improvements to moisture traps (#65100)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #65017 [ci skip]
+
+* Increases the amount of gen_turfs near the labor camp on IceBoxStation (#65017)
+
+* tram fixes pt. infinite (#65044)
+
+* Automatic changelog generation for PR #65063 [ci skip]
+
+* Fixes being able to create walls out of sheets that arent linked to a material (#65063)
+
+* Automatic changelog generation for PR #65064 [ci skip]
+
+* Resets holy water deconvert timer when transferred to a new mob (#65064)
+
+* Automatic changelog generation for PR #65050 [ci skip]
+
+* Fixes pandemic bluescreen (#65050)
+
+* Automatic changelog generation for PR #65062 [ci skip]
+
+* Fixes radio gloves being uncraftable (#65062)
+
+* Automatic changelog generation for PR #65058 [ci skip]
+
+* fixes two log errors (#65058)
+
+* Automatic changelog generation for PR #65061 [ci skip]
+
+* Fixes beam rifle explosion  (#65061)
+
+* Automatic changelog generation for PR #64920 [ci skip]
+
+* mech_bay.dm cleanup (#64920)
+
+* Automatic changelog generation for PR #64919 [ci skip]
+
+* rEFACTOR MECHA PUNCH (#64919)
+
+* Adds plating sidings that match the new tiles (#65019)
+
+* Automatic changelog generation for PR #64947 [ci skip]
+
+* Fix distortion effect cutting (#64947)
+
+* Automatic changelog generation for PR #64965 [ci skip]
+
+* Lets blobs mine (#64965)
+
+* Automatic changelog generation for PR #65056 [ci skip]
+
+* adds a 'theirs' pronoun (#65056)
+
+* Hardens painting saving against inconsistent state (#65024)
+
+* Automatic changelog generation for PR #65033 [ci skip]
+
+* Replacing power cells with RPED takes their charge into account (#65033)
+
+* Automatic changelog generation for PR #65039 [ci skip]
+
+* Fixes a bug with the eldritch medallion (#65039)
+
+* Automatic changelog generation for PR #65040 [ci skip]
+
+* Makes non-dense mobs not knock monkeys over (#65040)
+
+* The mc now detects if its priority budget gets out of sync with reality and soft resets. (#64498)
+
+* Automatic changelog generation for PR #64834 [ci skip]
+
+* Fixes ody sleeper patient loc bugs (#64834)
+
+* Automatic changelog generation for PR #64888 [ci skip]
+
+* Adds Ratfish to moisture traps. (#64888)
+
+* Automatic changelog generation for PR #64989 [ci skip]
+
+* Makes prisoners' heads a little warmer. (#64989)
+
+* Automatic changelog generation for PR #65051 [ci skip]
+
+* Fixes ghosts orbit animations not being reliable for the no floating trait (#65051)
+
+* Automatic changelog compile [ci skip]
+
+* Fix status displays hard-del'ing (#65026)
+
+* Automatic changelog generation for PR #64900 [ci skip]
+
+* Resprites power cells, fixes and cleans up power cells and power cell derivatives (#64900)
+
+* Automatic changelog generation for PR #65014 [ci skip]
+
+* Fixes Area Turf Definition of The Courtroom on IceBoxStation (#65014)
+
+* Fix chainlink fence doors having incorrect icon/density (#64882)
+
+* Automatic changelog generation for PR #65023 [ci skip]
+
+* Resprites The HoS Greatcoat (#65023)
+
+* Automatic changelog compile [ci skip]
+
+* Make the repeated messages spam filter give a clearer warning (#65029)
+
+* edits the recent ruling from headcoders (#64977)
+
+* Automatic changelog generation for PR #64948 [ci skip]
+
+* Space dragon resprite. (#64948)
+
+* Automatic changelog generation for PR #65000 [ci skip]
+
+* adds allowed suit storage items to every modsuit theme (#65000)
+
+* Automatic changelog generation for PR #64909 [ci skip]
+
+* Fixes heretic target assignment, also adds a debug verb to help debug objectives and similar (#64909)
+
+* Automatic changelog generation for PR #65002 [ci skip]
+
+* fixes arm implants breaking the drop key (#65002)
+
+* Automatic changelog generation for PR #65005 [ci skip]
+
+* fixes setting bound width/height to 0 breaking smooth movement for everyone (#65005)
+
+* Automatic changelog generation for PR #64929 [ci skip]
+
+* Fixes the void Ritual of Knowledge + unit tests main path lengths  (#64929)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #64994 [ci skip]
+
+* Changes asay ping sound (#64994)
+
+* Automatic changelog generation for PR #64716 [ci skip]
+
+* Adds Moth Fashion (#64716)
+
+* Automatic changelog generation for PR #64969 [ci skip]
+
+* removes paramed cargo/aux base/engine/EVA access, adds mining access instead (#64969)
+
+* Automatic changelog generation for PR #64973 [ci skip]
+
+* The CRAB-17 is now indestructible, but it's waaaaaay easier to swipe your ID card (#64973)
+
+* Automatic changelog generation for PR #64984 [ci skip]
+
+* Fixes IceBoxStation's Secure Tech Storage (#64984)
+
+* Automatic changelog generation for PR #64953 [ci skip]
+
+* The Science Lobby; Or, How I Learned To Embrace Congruence. (#64953)
+
+* Automatic changelog generation for PR #64874 [ci skip]
+
+* Malf AIs and Combat-Upgraded AIs can now use the borg console to detonate borgs (again). (#64874)
+
+* Adds bitflag defs for flags_inv (#64993)
+
+* facehugger slight code improvement + logs facehuggers (#64976)
+
+* Automatic changelog generation for PR #64982 [ci skip]
+
+* Makes air alarm and keycard authenticator emissive (#64982)
+
+* greentext code improvement (#64941)
+
+* add 49 titanium sheets to the BYOS (#64990)
+
+* Move most mecha actions to their respective mech files (#64918)
+
+* Automatic changelog generation for PR #64986 [ci skip]
+
+* Fixes Weird Area Definition on DeltaStation (#64986)
+
+* Automatic changelog generation for PR #64983 [ci skip]
+
+* Fixes windoor access to Delta Station's ORM (#64983)
+
+* Automatic changelog generation for PR #64928 [ci skip]
+
+* Fixed progression traitor uplinks suddenly changing owners (#64928)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #64848 [ci skip]
+
+* Science Breakroom Area Turf Spriting (#64848)
+
+* Automatic changelog generation for PR #64765 [ci skip]
+
+* Gives the Saints Suit Cold Protection (#64765)
+
+* Automatic changelog generation for PR #64960 [ci skip]
+
+* Sign Language in space & cuffs fix (#64960)
+
+* Automatic changelog generation for PR #64974 [ci skip]
+
+* Icebox surgery room requires surgery access (#64974)
+
+* Automatic changelog generation for PR #64979 [ci skip]
+
+* Fix cigarettes icons not updating properly (#64979)
+
+* Automatic changelog generation for PR #64954 [ci skip]
+
+* Adds some contextual screentips to botany related things (#64954)
+
+* Automatic changelog generation for PR #64895 [ci skip]
+
+* Fix BYOND-related runtime in SDQL2 _new wrapper (#64895)
+
+* Automatic changelog generation for PR #64881 [ci skip]
+
+* Replaces the Brimdemon laser sound. (#64881)
+
+* Automatic changelog generation for PR #64858 [ci skip]
+
+* backlit newscaster, status display, request console. status display refactor to newer overlay system (#64858)
+
+* replaces uses_integrity with just setting a very high integrity (#64873)
+
+* Automatic changelog generation for PR #64949 [ci skip]
+
+* Makes extinguisher sprays look nicer (#64949)
+
+* Automatic changelog generation for PR #64962 [ci skip]
+
+* Fixes Orion Trail reloading static data (#64962)
+
+* Automatic changelog generation for PR #64971 [ci skip]
+
+* Adds a modsuit to Kilo medbay (#64971)
+
+* tramstation surgery requires surgery access (#64972)
+
+* Automatic changelog generation for PR #64783 [ci skip]
+
+* Fixes an issue with station pets and the multiple_lives component (#64783)
+
+* Automatic changelog generation for PR #64964 [ci skip]
+
+* Puts the kinetic crusher's projectile firing on rmb (#64964)
+
+* Automatic changelog generation for PR #64966 [ci skip]
+
+* Fixes clownborg soap (#64966)
+
+* Automatic changelog generation for PR #64959 [ci skip]
+
+* meta atmos apc + kilo bar apc (#64959)
+
+* Automatic changelog generation for PR #64957 [ci skip]
+
+* Fixes Area Definitions on KiloStation Engineering (#64957)
+
+* Automatic changelog generation for PR #64946 [ci skip]
+
+* Fixes IceBox Station Surface Ruin Snow (#64946)
+
+* Automatic changelog generation for PR #64937 [ci skip]
+
+* Add wizoff and tarot card deck to wizard ship (#64937)
+
+* Automatic changelog generation for PR #64908 [ci skip]
+
+* Fixes the AI Upload Chamber's Surrounding on KiloStation (#64908)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #64889 [ci skip]
+
+* Adds colored stripes to departmental protolathes/techfabs (#64889)
+
+* Automatic changelog generation for PR #64864 [ci skip]
+
+* Refactors anomanly neutralizer to use the effect remover component (#64864)
+
+* fixes silhouette (#64855)
+
+* Automatic changelog generation for PR #64885 [ci skip]
+
+* fixes resizing (#64885)
+
+* Automatic changelog generation for PR #64790 [ci skip]
+
+* Variety of Area Turf Sprite Fixes (#64790)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #64854 [ci skip]
+
+* Fixes gunpowder and teslium explosion scaling. (#64854)
+
+* Automatic changelog generation for PR #64856 [ci skip]
+
+* Changes Loader Mod core text to include "non-airtight" (#64856)
+
+* Automatic changelog generation for PR #64934 [ci skip]
+
+* Pepper spray module for sec modsuits, Atmos resin module and nukie pyro bundle flamethrower made into module (#64934)
+
+* Automatic changelog generation for PR #64926 [ci skip]
+
+* Mobs on CentCom will not be selected as valentines. (#64926)
+
+* Automatic changelog generation for PR #64932 [ci skip]
+
+* admin completion counts for heretic objectives (#64932)
+
+* Automatic changelog generation for PR #64916 [ci skip]
+
+* De-souls RCD Radials (#64916)
+
+* Automatic changelog generation for PR #64831 [ci skip]
+
+* the sprites (#64831)
+
+* Automatic changelog generation for PR #64851 [ci skip]
+
+* The Distinction of Security Medical (#64851)
+
+* Automatic changelog generation for PR #64906 [ci skip]
+
+* Fixes Active Turfs on The Lizard's Gas (#64906)
+
+* Automatic changelog generation for PR #64847 [ci skip]
+
+* Chapel Office Splittening - KiloStation (#64847)
+
+* Automatic changelog generation for PR #64843 [ci skip]
+
+* Fixing APC areas on icebox (#64843)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #64502 [ci skip]
+
+* Contextual screentips -- Screentips now show you what items/objects can do (#64502)
+
+* Automatic changelog generation for PR #64861 [ci skip]
+
+* Fixes some light presets being brighter than intended (#64861)
+
+* Automatic changelog generation for PR #64891 [ci skip]
+
+* Fixing ghost bobbing (for real this time) (#64891)
+
+* Automatic changelog generation for PR #64704 [ci skip]
+
+* Add's food processor function to spider eggs and carp filet. Yaki imo recipe change (#64704)
+
+* Logs changeling power purchases/readapts (#64904)
+
+* Makes master compile (fuck) (merge skew moment)  (#64930)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #64748 [ci skip]
+
+* Changes what appears for urgent ahelps to supportmins. (#64748)
+
+* Deltastation Medbay Deblobbening Differentiation (#64869)
+
+* Automatic changelog generation for PR #64898 [ci skip]
+
+* Add ordnance monitoring computer to kilostation ordnance (#64898)
+
+* Automatic changelog generation for PR #64845 [ci skip]
+
+* Kilostation Engineering Repathing (another one) (#64845)
+
+* Automatic changelog generation for PR #64709 [ci skip]
+
+* Firefighter tank can now be equipped in the suit storage slot of atmos modsuits. (#64709)
+
+* Automatic changelog generation for PR #64817 [ci skip]
+
+* Tramstation Nu-Medbay (again) (#64817)
+
+* Automatic changelog generation for PR #64896 [ci skip]
+
+* Puts RND consoles back into RND roundstart (#64896)
+
+* Automatic changelog generation for PR #64803 [ci skip]
+
+* Fixes janiborg soap (#64803)
+
+* Automatic changelog generation for PR #64893 [ci skip]
+
+* Make canisters display their maximum temperature on examine (#64893)
+
+* Log who sets the target of a BSA (#64867)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #64866 [ci skip]
+
+* The Purge Of Non-Auto APCs (#64866)
+
+* Automatic changelog generation for PR #64857 [ci skip]
+
+* Fixes modsuit charging and sphere transformation in 0 gravity (#64857)
+
+* Automatic changelog generation for PR #64836 [ci skip]
+
+* Refactors slimelink and mansus link to be a component to cut down on hard-dels / code copy+paste (#64836)
+
+* Automatic changelog generation for PR #64822 [ci skip]
+
+* Fixes air mixer on delta station atmos (#64822)
+
+* Automatic changelog generation for PR #64738 [ci skip]
+
+* Fixes Nearstation Turfing on Kilostation (A/P Maints Edition) (#64738)
+
+* Adds Ruinless Cave Generation to IceBoxStation (#64671)
+
+* Fix: LogAhelp invalid integer - use ticket ID (#64875)
+
+* Automatic changelog generation for PR #64863 [ci skip]
+
+* Resprites Jackboots and Black Gloves (#64863)
+
+* Automatic changelog compile [ci skip]
+
+* Adds a syndicate sechud icon state (#64860)
+
+* Automatic changelog generation for PR #64675 [ci skip]
+
+* Kudzu nerfs, Venus human trap changes (#64675)
+
+* Automatic changelog generation for PR #64859 [ci skip]
+
+* Makes locker staff decaying closets dump contents before qdel (#64859)
+
+* Automatic changelog generation for PR #64564 [ci skip]
+
+* Improves proccall admin circuit component. Adds the option to not resolve weakrefs for set variables and proccall admin circuit components. (#64564)
+
+* Automatic changelog generation for PR #64825 [ci skip]
+
+* Slight refactor to simple animal movement + movement allowed variable (#64825)
+
+* Automatic changelog generation for PR #64852 [ci skip]
+
+* Starts valentines on the 13th (#64852)
+
+* Automatic changelog generation for PR #64850 [ci skip]
+
+* Polar Bear transformation converts health upon transformation. (#64850)
+
+* Automatic changelog generation for PR #64849 [ci skip]
+
+* Makes ants no longer cause ants to gather (#64849)
+
+* Automatic changelog generation for PR #64842 [ci skip]
+
+* Fixes the missing capitalization in Zealot's Blindfold description (#64842)
+
+* Automatic changelog generation for PR #64846 [ci skip]
+
+* Fixes heartless species being unable to be heretics (#64846)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #64827 [ci skip]
+
+* Fixes runtime errors that occur when mindless mobs examine heirlooms, + code improvements (#64827)
+
+* Automatic changelog generation for PR #64366 [ci skip]
+
+* Refactor: make SSrunechat to be subsystem of SStimer (#64366)
+
+* de-hardcodes restaurant bot icon (#64802)
+
+* Automatic changelog generation for PR #64801 [ci skip]
+
+* Adjust balloon alerts for the rotate component (#64801)
+
+* Automatic changelog generation for PR #64808 [ci skip]
+
+* Fixes blast doors showing a balloon alert when you crowbar them open while unpowered (#64808)
+
+* Fixed some explanations (#64708)
+
+* Makes holopays and their associated IDs a direct ref (#64767)
+
+* Fixes issues found by new switch lints (#64766)
+
+* Automatic changelog generation for PR #64771 [ci skip]
+
+* Removes a pointless initial() call from chameleon changing (#64771)
+
+* Automatic changelog generation for PR #64773 [ci skip]
+
+* Clamps pressure value when using a USB to modify gas pump (#64773)
+
+* Automatic changelog generation for PR #64791 [ci skip]
+
+* fixes minor spelling mistake on genpop instrucitons (Also makes them a fluff paper) (#64791)
+
+* Automatic changelog generation for PR #64785 [ci skip]
+
+* Fixes bug where people could teach themselves dronespeak (#64785)
+
+* Automatic changelog generation for PR #64784 [ci skip]
+
+* Makes SSTimer actually recover (#64784)
+
+* Automatic changelog generation for PR #64779 [ci skip]
+
+* Fixes Hauntium runtiming to hell (get it) due to real fake weakrefs (#64779)
+
+* Automatic changelog generation for PR #64800 [ci skip]
+
+* prevents finger guns from being used with something in your hand (#64800)
+
+* Automatic changelog generation for PR #64816 [ci skip]
+
+* Fixes species uplinks (#64816)
+
+* Automatic changelog generation for PR #64813 [ci skip]
+
+* Gives Omega soap 800 uses instead of 301 (#64813)
+
+* Automatic changelog generation for PR #64820 [ci skip]
+
+* Adds a trigger version of the variable setter component (#64820)
+
+* Automatic changelog generation for PR #64819 [ci skip]
+
+* Fixed active objectives suddenly failing because of maximum progression interfering (#64819)
+
+* Automatic changelog generation for PR #64821 [ci skip]
+
+* Fixes an issue with tags for mobs not properly being handled correctly and adds logging to admin circuits (#64821)
+
+* Automatic changelog generation for PR #64823 [ci skip]
+
+* fixes the chaplain's sparring soulstone description (#64823)
+
+* Automatic changelog generation for PR #64830 [ci skip]
+
+* bad touch doesn't trigger on dead people (#64830)
+
+* Automatic changelog generation for PR #64838 [ci skip]
+
+* Honkbots now cuff you (fixes honkbots' infinite loop) (#64838)
+
+* Automatic changelog generation for PR #64828 [ci skip]
+
+* Make status displays scroll long messages smoothly. (#64828)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #64749 [ci skip]
+
+* Fixes bug allowing you to hide in containers to bypass Tramstation's perma gate (#64749)
+
+* Automatic changelog generation for PR #64684 [ci skip]
+
+* Gives Account Registration Device unique sprite and fixes its issues   (#64684)
+
+* Automatic changelog generation for PR #64705 [ci skip]
+
+* Adds logic to hopefully prevent/yell about init breaking (#64705)
+
+* Automatic changelog generation for PR #64841 [ci skip]
+
+* Adds new food tag and felinid taste preference modification. (#64841)
+
+* Automatic changelog generation for PR #64658 [ci skip]
+
+* BIDDLE HERETICS: Heretic revamp! (Shadow Realm, UI Overhaul, Refactoring, and Murderhoboing Tweaks)  (#64658)
+
+* Automatic changelog generation for PR #64797 [ci skip]
+
+* Makes midround antagonists not spawn if the shuttle is past the point of no return (#64797)
+
+* Automatic changelog generation for PR #64796 [ci skip]
+
+* Fire breath can be used without the ability to speak (+ code improvement) (#64796)
+
+* Automatic changelog generation for PR #64792 [ci skip]
+
+* Fix minor spelling error in omega soap crafting guide paper (#64792)
+
+* Automatic changelog generation for PR #64793 [ci skip]
+
+* Gives wardens their sechud icon back (#64793)
+
+* Automatic changelog generation for PR #64795 [ci skip]
+
+* Makes people unable to hear in space (#64795)
+
+* Automatic changelog generation for PR #64772 [ci skip]
+
+* Fixes external airlocks on metastation atmospherics (#64772)
+
+* Automatic changelog generation for PR #64788 [ci skip]
+
+* Yet Another Nearstation Fix (Deltastation Edition) (#64788)
+
+* Automatic changelog generation for PR #64789 [ci skip]
+
+* Adjusts Ice Box Station Engineering Transit Tube Area (#64789)
+
+* Automatic changelog generation for PR #64787 [ci skip]
+
+* The Engineering Break Room Division (#64787)
+
+* Automatic changelog generation for PR #64781 [ci skip]
+
+* Updates Area Pathing for Kilostation Maintenance (#64781)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #64734 [ci skip]
+
+* Fix random job assignments occasionally assigning to roles that were already filled (#64734)
+
+* Automatic changelog generation for PR #64776 [ci skip]
+
+* gun (#64776)
+
+* Gives me Dynamic codeowners (#64799)
+
+* Automatic changelog generation for PR #63903 [ci skip]
+
+* Fixes layering issues brought by the FoV PR. (#63903)
+
+* Automatic changelog generation for PR #63899 [ci skip]
+
+* Da clownana update! Clownana rework, global hOnKeRbLaSt & monkey synergy. (#63899)
+
+* Automatic changelog generation for PR #64764 [ci skip]
+
+* Should fix shuttles leaving without sections(#64764)
+
+* Automatic changelog generation for PR #64761 [ci skip]
+
+* Fixes "Bar Lounge" area not applying to extrovert (#64761)
+
+* Automatic changelog generation for PR #64207 [ci skip]
+
+* Reimplements food exports. (#64207)
+
+* Automatic changelog generation for PR #64763 [ci skip]
+
+* Fixes bug with headsets unsetting channels after moving them (#64763)
+
+* Automatic changelog generation for PR #64733 [ci skip]
+
+* Adds "Ethical Principles" to the pirate ship naming pool for rogues (#64733)
+
+* Automatic changelog generation for PR #64755 [ci skip]
+
+* Adds missing Deltastation Cargo Sec Locker (#64755)
+
+* Automatic changelog generation for PR #64757 [ci skip]
+
+* Changes how tgui handles static data (#64757)
+
+* Automatic changelog generation for PR #64713 [ci skip]
+
+* Fixes a weird description on the kiosk wand scanner(#64713)
+
+* Automatic changelog generation for PR #64695 [ci skip]
+
+* Corrects gravitational anomaly crate name (#64695)
+
+* Automatic changelog generation for PR #64794 [ci skip]
+
+* Fixes invisible rubbershot bullets (#64794)
+
+* Automatic changelog generation for PR #64587 [ci skip]
+
+* Add message to indicate infinite pizza (#64587)
+
+* Automatic changelog generation for PR #64758 [ci skip]
+
+* Removes reference to removed starfury SM (#64758)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #64754 [ci skip]
+
+* Add logging to cult rune inscribing (OFFICIAL) (SHE'S BACK) (#64754)
+
+* Automatic changelog generation for PR #64750 [ci skip]
+
+* Blocks you from picking module when locked (#64750)
+
+* Automatic changelog generation for PR #64745 [ci skip]
+
+* fixes two toxins mentions (#64745)
+
+* Automatic changelog generation for PR #64608 [ci skip]
+
+* Changes how robotics control console works (#64608)
+
+* Automatic changelog generation for PR #64562 [ci skip]
+
+* Adds a sprite for rubbershot and the rubbershot box (#64562)
+
+* Automatic changelog generation for PR #64724 [ci skip]
+
+* Wrench interactions with closets migrated to wrench_act_secondary (#64724)
+
+* Automatic changelog generation for PR #64628 [ci skip]
+
+* Updates Area Turf Sprites for Telecommunications Storage (#64628)
+
+* Automatic changelog generation for PR #64650 [ci skip]
+
+* Syndieship turrets target non-nukie cyborgs (#64650)
+
+* Automatic changelog generation for PR #64269 [ci skip]
+
+* Skateboard content expansion pack (#64269)
+
+* Automatic changelog generation for PR #64740 [ci skip]
+
+* Restores some lost gas mask sprites (#64740)
+
+* Updates DeltaStation Marketing Den Area Turf Icon (#64617)
+
+* Automatic changelog generation for PR #64696 [ci skip]
+
+* Actually fixes illegal tech. (#64696)
+
+* Automatic changelog generation for PR #64735 [ci skip]
+
+* Fixes a potential "fail to setup jobs" state due to disappearing clients (#64735)
+
+* Automatic changelog generation for PR #64699 [ci skip]
+
+* Fixes heretic's ash mark (#64699)
+
+* Fixes ashwalker lung runtimes on runtimestation (#64707)
+
+* Automatic changelog generation for PR #64711 [ci skip]
+
+* Makes wired rods bulky, and fixes an exploit allowing players to bypass crafting times on spears and cattleprods. (#64711)
+
+* Automatic changelog generation for PR #64725 [ci skip]
+
+* Making medbots through the crafting menu now accounts for medkit and health analyser type (#64725)
+
+* Automatic changelog generation for PR #64693 [ci skip]
+
+* Hooch no longer heals assistants. (#64693)
+
+* Automatic changelog generation for PR #64670 [ci skip]
+
+* Adds an intercom interference malf ai module (#64670)
+
+* Automatic changelog generation for PR #64701 [ci skip]
+
+* Fixes obsessed hug objective (#64701)
+
+* Automatic changelog generation for PR #64717 [ci skip]
+
+* Fix bottlers runtiming every second if input turf is empty (#64717)
+
+* Automatic changelog generation for PR #64718 [ci skip]
+
+* Control Points now generate 1 point rather than 0.5 (#64718)
+
+* Fixes grenades being unable to be reset  (#64730)
+
+* Automatic changelog generation for PR #64722 [ci skip]
+
+* Patches an exploit with holopays  (#64722)
+
+* Adjusts the UI development standards to properly clarify not to tgui up critical stuff. (#64726)
+
+* Automatic changelog generation for PR #64622 [ci skip]
+
+* The "Loungening": Crew Facilities Edition  (#64622)
+
+* Automatic changelog generation for PR #64746 [ci skip]
+
+* Fixes hud layering issues (#64746)
+
+* Automatic changelog generation for PR #64702 [ci skip]
+
+* Makes The Tramstation Aux Base Use The Correct Aux Base Construction Console (#64702)
+
+* Automatic changelog generation for PR #64623 [ci skip]
+
+* Atmospherics Gas Storage (#64623)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #64676 [ci skip]
+
+* [GBP No Update] Minor Batch Of Lavaland Syndicate Fixes (#64676)
+
+* Automatic changelog generation for PR #64720 [ci skip]
+
+* Fixes Transit Tube Section Area Definition (#64720)
+
+* Automatic changelog generation for PR #64719 [ci skip]
+
+* Fixes Intercom Placement in MetaStation Security Engineering Outpost (#64719)
+
+* Automatic changelog generation for PR #64680 [ci skip]
+
+* Fixes a camera on TramStation (#64680)
+
+* Automatic changelog generation for PR #64672 [ci skip]
+
+* Fixes Nearstation Area Definition on DeltaStation (#64672)
+
+* Automatic changelog generation for PR #64280 [ci skip]
+
+* Ballistic to Energy: Autorifles for Thermal Pistols; Adds .38 Crate to Cargo (#64280)
+
+* Automatic changelog generation for PR #64567 [ci skip]
+
+* Change default render relay plane to game relay (#64567)
+
+* Automatic changelog generation for PR #64698 [ci skip]
+
+* Tgui input hotfix (#64698)
+
+* Automatic changelog generation for PR #64639 [ci skip]
+
+* Adds locked icons, fixes several other icons, and a few other QoL tweaks to Suit Storage Units (#64639)
+
+* Adds an option to generate typecaches as zebras. (#63710)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #64688 [ci skip]
+
+* Mining MODsuit Rework (#64688)
+
+* Automatic changelog generation for PR #64721 [ci skip]
+
+* Makes the observe button not require tgui. Please stop making the observe button require tgui. (#64721)
+
+* Automatic changelog generation for PR #64694 [ci skip]
+
+* fixes blast door exploits (#64694)
+
+* Automatic changelog generation for PR #64503 [ci skip]
+
+* Fixes progression scaling and other various problems with progression traitors. (#64503)
+
+* Automatic changelog generation for PR #64579 [ci skip]
+
+* Add new surgery tgui (#64579)
+
+* Automatic changelog generation for PR #64669 [ci skip]
+
+* moves blast doors and shutters to a layer above windows and doors and changes shutters cost and build time (#64669)
+
+* Automatic changelog generation for PR #64683 [ci skip]
+
+* Fixes projectiles logging/displaying messages twice (#64683)
+
+* Fixes harddels in pinned module code, cleans up a musty pattern that I want to die (#64674)
+
+* Cleans Job lists (hardcoded and not) (#64596)
+
+* Automatic changelog generation for PR #64545 [ci skip]
+
+* Fixes the song editor UI on pianos/space minimoogs. (#64545)
+
+* Automatic changelog generation for PR #64641 [ci skip]
+
+* Blacklists all non-basic radios from the Radio Glove crafting recipe (#64641)
+
+* Automatic changelog generation for PR #64626 [ci skip]
+
+* Disease and blob camera mobs can move vertically while a location or host hasn't been chosen yet. Revenants can also freely move vertically. (#64626)
+
+* Automatic changelog generation for PR #64633 [ci skip]
+
+* Fixes active turfs with icebox mining station (#64633)
+
+* adds myself to code owner of bad parts of the game (#64712)
+
+* Automatic changelog generation for PR #64643 [ci skip]
+
+* [s] Makes used grenades slightly more obvious. Also prevents DOSing admins. (#64643)
+
+* Automatic changelog generation for PR #64542 [ci skip]
+
+* Fixes mapped in closed firelocks to actually start closed (#64542)
+
+* Automatic changelog generation for PR #64648 [ci skip]
+
+* xeno egg now updates its icon properly when burst (#64648)
+
+* Automatic changelog generation for PR #64441 [ci skip]
+
+* Rotation component refactor and improvements (#64441)
+
+* Automatic changelog generation for PR #64625 [ci skip]
+
+* More items hurt you now if you walk on them barefoot (#64625)
+
+* Automatic changelog generation for PR #64668 [ci skip]
+
+* elite nukie suit improvements (#64668)
+
+* Improves ethereal APC sucking code (#64638)
+
+* Automatic changelog generation for PR #64678 [ci skip]
+
+* Ports & GAGS-ifies gas canisters from Yogstation (#64678)
+
+* Automatic changelog compile [ci skip]
+
+* Replace title1.ogg with original module version (higher quality) (#64491)
+
+* Automatic changelog generation for PR #64331 [ci skip]
+
+* Tgui input refresh (#64331)
+
+* Automatic changelog generation for PR #64666 [ci skip]
+
+* Adds an extra signaler check to compare frequencies with the incoming signal (#64666)
+
+* Automatic changelog generation for PR #64654 [ci skip]
+
+* fixes mod core recipes (#64654)
+
+* Automatic changelog generation for PR #64649 [ci skip]
+
+* fixes printing unresearched mech stuff and design disks (#64649)
+
+* Automatic changelog generation for PR #64660 [ci skip]
+
+* Refactors Reverse Bear Traps (#64660)
+
+* Automatic changelog generation for PR #64574 [ci skip]
+
+* Fixes some rodform gibbing bugs (#64574)
+
+* Automatic changelog generation for PR #64636 [ci skip]
+
+* Peaceful Waypoint/Core Territory are now not completely reliable indicators of antag status (#64636)
+
+* Put a comment explaining the client parent_type line (#64629)
+
+* Automatic changelog generation for PR #64647 [ci skip]
+
+* makes nooartium update your sight (#64647)
+
+* Automatic changelog generation for PR #64646 [ci skip]
+
+* brings back greenshifts (#64646)
+
+* Automatic changelog generation for PR #64493 [ci skip]
+
+* Adds Shuttle Ceilings on Multi-z Maps (#64493)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #64635 [ci skip]
+
+* Fixes Snow on IceBox Station (#64635)
+
+* Automatic changelog generation for PR #64634 [ci skip]
+
+* Removes stray light bulbs near icebox gulag # (#64634)
+
+* Automatic changelog generation for PR #64652 [ci skip]
+
+* literally fixes the law office (#64652)
+
+* Automatic changelog generation for PR #64499 [ci skip]
+
+* TramStation QoL Fixes (#64499)
+
+* Automatic changelog generation for PR #64541 [ci skip]
+
+* Adds basic list manipulation and fixes some performance issues with lists in integrated circuits (#64541)
+
+* Always disable combo HUD on disassociate (#64662)
+
+* Automatic changelog generation for PR #64447 [ci skip]
+
+* insert items from trash bags to autolathes (#64447)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #64610 [ci skip]
+
+* Changes the default role preference (#64610)
+
+* Removes a clock cult changelog (#64637)
+
+* Automatic changelog generation for PR #64408 [ci skip]
+
+* Adds a config toggle for granting admin server profile access (#64408)
+
+* Automatic changelog generation for PR #64642 [ci skip]
+
+* fixes not being able to resist out of aggro grabs (#64642)
+
+* Automatic changelog generation for PR #64624 [ci skip]
+
+* Updates the icon of the Legion achievement and adds another for the "Look Out, Sir!" one. (#64624)
+
+* Moves adjacent air into the main atmos subsystem (#64559)
+
+* Automatic changelog generation for PR #64620 [ci skip]
+
+* Remove the beakers requirement for making component printers and module duplicators (#64620)
+
+* Automatic changelog generation for PR #64594 [ci skip]
+
+* Fixes frying objects that store other objects (#64594)
+
+* Automatic changelog generation for PR #64418 [ci skip]
+
+* Adds moveloop bucketing, uses queues for the singulo rather then sleeps (#64418)
+
+* Automatic changelog generation for PR #64324 [ci skip]
+
+* Splits the Fire Alarm sound into four files (#64324)
+
+* Automatic changelog generation for PR #64619 [ci skip]
+
+* Fixes being able to vote for maps which are outside their configured population range (#64619)
+
+* Automatic changelog generation for PR #64606 [ci skip]
+
+* Add undelivered departmental order crates and syndicate bombs to the cannot be delivered message. (#64606)
+
+* Add compile option for profiling mapload atom inits (#64593)
+
+* Automatic changelog generation for PR #64547 [ci skip]
+
+* fixed ethereals being unable to charge from APCs (#64547)
+
+* Automatic changelog generation for PR #64565 [ci skip]
+
+* Adds burial garments to the religious supply crate (#64565)
+
+* Automatic changelog generation for PR #64580 [ci skip]
+
+* Clicking cancel on the carp rift will no longer summon you as a carp (#64580)
+
+* Automatic changelog generation for PR #64612 [ci skip]
+
+* Fixes disposal self deletion (#64612)
+
+* Automatic changelog generation for PR #64614 [ci skip]
+
+* Adds dead bodies to the Tramstation and Kilostation morgues. (#64614)
+
+* Automatic changelog generation for PR #64588 [ci skip]
+
+* Adds a GPS to "The Lizard's Gas" ruin (#64588)
+
+* Automatic changelog generation for PR #64613 [ci skip]
+
+* Fixes some door access requirements on kilostation. (#64613)
+
+* Automatic changelog generation for PR #64609 [ci skip]
+
+* Minor Icebox Map fixes (#64609)
+
+* Automatic changelog generation for PR #64615 [ci skip]
+
+* Fixes some genturf in icebox laundry room (#64615)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #64630 [ci skip]
+
+* Silence maps (#64630)
+
+* Automatic changelog generation for PR #64611 [ci skip]
+
+* Nerfs field gen repel stun (#64611)
+
+* Automatic changelog generation for PR #64535 [ci skip]
+
+* Redoes how merger datums store directions to neighboring members (#64535)
+
+* Automatic changelog generation for PR #64605 [ci skip]
+
+* Makes BEPIS not give tech for free anymore (#64605)
+
+* Automatic changelog generation for PR #64592 [ci skip]
+
+* Brimdemons (#64592)
+
+* Automatic changelog generation for PR #64604 [ci skip]
+
+* Update effects_foam.dm (#64604)
+
+* Adds Ryll-Ryll to CODEOWNERS for wounds + some medical (#64577)
+
+* Automatic changelog generation for PR #64599 [ci skip]
+
+* Fixes a bunch map log runtimes, adds CI to catch some more potential map issues (#64599)
+
+* Automatic changelog generation for PR #64061 [ci skip]
+
+* Adds the mystery box (#64061)
+
+* Adds direct support for weakrefs to vv (#64521)
+
+* Automatic changelog generation for PR #64538 [ci skip]
+
+* Improve trash spawner (#64538)
+
+* Automatic changelog generation for PR #64586 [ci skip]
+
+* Fix stickyban SS runtiming on initialize (#64586)
+
+* Automatic changelog generation for PR #64581 [ci skip]
+
+* Update eyes.dmi (#64581)
+
+* Automatic changelog generation for PR #64402 [ci skip]
+
+* Fixes holocall broadcasting player speech (#64402)
+
+* Automatic changelog generation for PR #64469 [ci skip]
+
+* Fixes a wizard rod form hard-del + cleans up code (#64469)
+
+* Automatic changelog generation for PR #64437 [ci skip]
+
+* Grand Maintenance Area Turfing (No More Secondary Edition) (#64437)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #64445 [ci skip]
+
+* The Grand Security Area Dehomogenization (Locker Room) (#64445)
+
+* Automatic changelog generation for PR #64584 [ci skip]
+
+* Fixes robotics lab disposals on tramstation (#64584)
+
+* Automatic changelog generation for PR #64583 [ci skip]
+
+* Fixes missing air supply pipe in delta turbine room (#64583)
+
+* Automatic changelog generation for PR #64561 [ci skip]
+
+* Makes Ice Box mining station lower levels less prone to atmos issues (#64561)
+
+* Automatic changelog generation for PR #64578 [ci skip]
+
+* Update IceBoxStation Wall Decals (#64578)
+
+* Subsystems now track their avg and last tick allocations (#64448)
+
+* Automatic changelog generation for PR #64552 [ci skip]
+
+* Fixes the span of cult deconversion text, and removes a duplicate definition (#64552)
+
+* Automatic changelog generation for PR #64443 [ci skip]
+
+* Refactors and fixes sound_player (#64443)
+
+* Automatic changelog generation for PR #64482 [ci skip]
+
+* Fixing a number of issues with burial mounds and abandoned crates. (#64482)
+
+* Automatic changelog generation for PR #64455 [ci skip]
+
+* Fixes drones not being able to insert items into machine frames (#64455)
+
+* Automatic changelog generation for PR #64487 [ci skip]
+
+* Fixes exodrones erroneously reporting "travelling back to station" in the status panel of their console UI. (#64487)
+
+* Automatic changelog generation for PR #64296 [ci skip]
+
+* Tramstation Modular Maintenance Pass 1 (#64296)
+
+* Automatic changelog generation for PR #64473 [ci skip]
+
+* Fixes freezer/heater and thermomachine inconsistency. (#64473)
+
+* Automatic changelog generation for PR #64548 [ci skip]
+
+* allows charging from lights to loop (#64548)
+
+* Automatic changelog generation for PR #64554 [ci skip]
+
+* Renamed areas rename fire alarm panels too (#64554)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #64558 [ci skip]
+
+* Fixes kilo's whiteship not spawning (#64558)
+
+* Automatic changelog generation for PR #64451 [ci skip]
+
+* Set default client FPS preference to 100 (#64451)
+
+* Automatic changelog generation for PR #64550 [ci skip]
+
+* Moves the icebox hotsprings to be underground only (#64550)
+
+* Automatic changelog generation for PR #64525 [ci skip]
+
+* Adjusts Sleeper's Directional Variants in Medbay Mapping (and more) (#64525)
+
+* Automatic changelog generation for PR #64264 [ci skip]
+
+* Turns the gas analyzer's environment scanning into a component. (#64264)
+
+* Automatic changelog generation for PR #64555 [ci skip]
+
+* Gives lower Ice Box public mining an air alarm, vent and scrubber (#64555)
+
+* Automatic changelog generation for PR #64566 [ci skip]
+
+* how did i not see these TWO fucking tiles (#64566)
+
+* Automatic changelog generation for PR #64553 [ci skip]
+
+* Walls built on metal foam instead of girders revert to metal foam when decon'd (#64553)
+
+* Automatic changelog generation for PR #64132 [ci skip]
+
+* Rebalances some things about progression traitors and adds some uplink items. (#64132)
+
+* Automatic changelog generation for PR #63889 [ci skip]
+
+* Refactors pay stands + custom vendors (#63889)
+
+* Automatic changelog generation for PR #63780 [ci skip]
+
+* Stops silicons from opening circuit airlocks by bumping them open (#63780)
+
+* Automatic changelog generation for PR #64477 [ci skip]
+
+* xeno weed changes (#64477)
+
+* Automatic changelog generation for PR #64533 [ci skip]
+
+* IceBoxStation Execution Room Fixes (#64533)
+
+* Automatic changelog generation for PR #64539 [ci skip]
+
+* Fix new areas over starlight areas not having lighting objects (#64539)
+
+* Automatic changelog generation for PR #64518 [ci skip]
+
+* Fixes #64489 (#64518)
+
+* Automatic changelog generation for PR #63771 [ci skip]
+
+* Refactor incapacitated optional arguments (#63771)
+
+* Automatic changelog generation for PR #64460 [ci skip]
+
+* Re-adds species uplink items (and some minor fixes) (#64460)
+
+* Dont init speech controller (#64537)
+
+* Automatic changelog generation for PR #64271 [ci skip]
+
+* Black Market code, Revisited. (#64271)
+
+* de-hardcodes job icons (#64193)
+
+* Automatic changelog compile [ci skip]
+
+* Fixes a default warning in reference sanity. (#64560)
+
+* Automatic changelog generation for PR #64544 [ci skip]
+
+* toy talking is an audible message instead of a visible message (i blind pr) (#64544)
+
+* Automatic changelog generation for PR #64368 [ci skip]
+
+* Add config entries for PR_ANNOUNCEMENTS_PER_ROUND and STATION_GOAL_BUDGET (#64368)
+
+* Removes useless status effect path defines. (#64490)
+
+* Automatic changelog generation for PR #64528 [ci skip]
+
+* Actually inserts the implant when using an autosurgeon on someone else (#64528)
+
+* Ensures that COMSIG_PARENT_QDELETING is sent before client Destroy. (#64536)
+
+* Fixes marking abductor agents or cows for recall. (#64519)
+
+* Adds time of creation to traitor objective log data (#64486)
+
+* Removes useless defines for mutation paths (#64512)
+
+* Automatic changelog generation for PR #64526 [ci skip]
+
+* Tweak CIMS to ignore Syndicate Owned crystal. (#64526)
+
+* Automatic changelog generation for PR #64386 [ci skip]
+
+* Metalfoam structures can now be used as girders to finish building walls. (#64386)
+
+* [DNM] return null in get_item_for_held_index, and not FALSE (#64494)
+
+* Automatic changelog generation for PR #63859 [ci skip]
+
+* Octuples non-penetrator sniper range (#63859)
+
+* Automatic changelog generation for PR #64501 [ci skip]
+
+* Fixes notice text resulting from someone batoning a cyborg (#64501)
+
+* Automatic changelog generation for PR #64311 [ci skip]
+
+* output direction change for mech fabs (#64311)
+
+* Automatic changelog generation for PR #64520 [ci skip]
+
+* Fixes the Illegal tech node being unobtainable (#64520)
+
+* Added a readme for traitor balancing (#64506)
+
+* Automatic changelog generation for PR #64504 [ci skip]
+
+* Edits the description of the Pirate Dutchman's mast (#64504)
+
+* Fixes a few runtimes with armor, spatial grids, and notes (#64514)
+
+* Automatic changelog generation for PR #64083 [ci skip]
+
+* Bounty Hunters as ERTs + Flame Id (#64083)
+
+* Automatic changelog generation for PR #64492 [ci skip]
+
+* Adds blue shoes to the MediDrobe. #64492
+
+* Automatic changelog compile [ci skip]
+
+* Change NodeJS on Windows to 64-bit, downgrade to v14.16.1 (#64513)
+
+* Automatic changelog generation for PR #64507 [ci skip]
+
+* Fix runechat height-offset only reading your own offset value (#64507)
+
+* Automatic changelog generation for PR #64471 [ci skip]
+
+* Updates the adjusted HOS jumpsuit/skirt to be in line with the resprite  (#64471)
+
+* Automatic changelog generation for PR #64444 [ci skip]
+
+* when the kitchen is abandoned: (#64444)
+
+* Automatic changelog generation for PR #64472 [ci skip]
+
+* Fixes balloon alerts sourced on turfs (heavy rain edition)  (#64472)
+
+* Automatic changelog generation for PR #64429 [ci skip]
+
+* Fix camera nets (#64429)
+
+* Automatic changelog generation for PR #64497 [ci skip]
+
+* Minor Nearstation Space on MetaStation Fix (#64497)
+
+* Automatic changelog generation for PR #64413 [ci skip]
+
+* Re-organizes the files in the root of the icons/ folder into it's substituents #6441
+
+* Automatic changelog generation for PR #64424 [ci skip]
+
+* Fixes description for "The Last Ash Drake" #64424
+
+* Fix the mc getting completely fucked in the brain due to background ticker subsystems (#64500)
+
+* Automatic changelog generation for PR #64481 [ci skip]
+
+* Fixes paper bluescreening. Truly the digital future we all imagined. (#64481)
+
+* Automatic changelog generation for PR #64465 [ci skip]
+
+* Adds proper external airlocks to Public Mining Storage on Ice Box (#64465)
+
+* You will always be remembered (#64480)
+
+* Automatic changelog generation for PR #64421 [ci skip]
+
+* Bluespace bodybags with dwarves can be folded and put into backpack (#64421)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #64419 [ci skip]
+
+* Fixes Thermite overlay not deleting properly + thermite component (#64419)
+
+* Automatic changelog generation for PR #64474 [ci skip]
+
+* Fix player controlled beepskys cuffing people (#64474)
+
+* Always use vendored NodeJS on Windows (#64461)
+
+* Automatic changelog generation for PR #64488 [ci skip]
+
+* Fixes incorrect apc offset warnings (#64488)
+
+* Automatic changelog generation for PR #64359 [ci skip]
+
+* Loader Class MODsuit (#64359)
+
+* Optimized steal item searcher to not search through the entire game world. (#64354)
+
+* Automatic changelog generation for PR #64233 [ci skip]
+
+* Purified shades get converted to shades if they get converted & related fixes (#64233)
+
+* Automatic changelog generation for PR #64048 [ci skip]
+
+* statues now have the monster jaunting ability. (#64048)
+
+* Automatic changelog generation for PR #64141 [ci skip]
+
+* Ash drake shapeshifting now converts health, fixes 60567 (#64141)
+
+* Automatic changelog generation for PR #64318 [ci skip]
+
+* Fixes loading C-4/X-4 into grenade launcher and duplicating (#64318)
+
+* Automatic changelog generation for PR #64452 [ci skip]
+
+* Fixes spiders spawned from eggs not having a number (#64452)
+
+* Automatic changelog generation for PR #64351 [ci skip]
+
+* Actually fixes strange mob delays: BEEPSKY IS TOO FAST edition (#64351)
+
+* Autowiki - Generate wiki pages through code (#64417)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #64430 [ci skip]
+
+* Logs tool usage (#64430)
+
+* Automatic changelog generation for PR #64436 [ci skip]
+
+* Changes mail bag sprite & lets you put them on cargo coats (#64436)
+
+* Automatic changelog generation for PR #64440 [ci skip]
+
+* Autosurgeons can now be used on other people (#64440)
+
+* Automatic changelog generation for PR #64446 [ci skip]
+
+* make the safe use balloon alerts (#64446)
+
+* Automatic changelog generation for PR #64423 [ci skip]
+
+* New pill sprites! (#64423)
+
+* Automatic changelog generation for PR #64433 [ci skip]
+
+* Mime Resprites, AKA Mime Desouling (#64433)
+
+* Automatic changelog generation for PR #64174 [ci skip]
+
+* Desouls the legion (#64174)
+
+* Turns blood walking into an element (#64162)
+
+* Automatic changelog generation for PR #64343 [ci skip]
+
+* SWAT suit no longer has space-proofing, less slowdown and retains temp resist, cargo cost lowered to 1400 (#64343)
+
+* Automatic changelog generation for PR #64427 [ci skip]
+
+* Fixes active turfs in the DJ space ruin (#64427)
+
+* Automatic changelog generation for PR #64425 [ci skip]
+
+* Adds Fire Alarm Panel to IceBox Telecommunications (#64425)
+
+* Automatic changelog generation for PR #64422 [ci skip]
+
+* Fixes Camera in Ice Box Station Locker Room (#64422)
+
+* Automatic changelog generation for PR #64414 [ci skip]
+
+* Fixes weird wall area turf definition in the Incinerator Room on TramStation (#64414)
+
+* Automatic changelog generation for PR #64415 [ci skip]
+
+* Fixes Area Definitions in Kilo Security (#64415)
+
+* Automatic changelog generation for PR #64412 [ci skip]
+
+* Labor Camp Area Definition Changes (#64412)
+
+* Automatic changelog generation for PR #64378 [ci skip]
+
+* Adds a moat of lava to IceBox's Labor Camp Chasms (#64378)
+
+* Automatic changelog generation for PR #64304 [ci skip]
+
+* The Lizard's Gas (Station) Update (#64304)
+
+* Bump marked to version 4.0.10 (#64227)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #63750 [ci skip]
+
+* lowers kilo's bombcap (#63750)
+
+* Automatic changelog generation for PR #64435 [ci skip]
+
+* fix for airlocks being unhackable (#64435)
+
+* Automatic changelog generation for PR #64416 [ci skip]
+
+* Removes the fucking 20 second stunlock rng from tourettes because it's fucking stupid and I just had the most agonizing thirty fucking minutes of my goddamn life, holy shit (#64416)
+
+* Automatic changelog generation for PR #64085 [ci skip]
+
+* Converts telecommunications server monitor to tgui (#64085)
+
+* Automatic changelog generation for PR #64173 [ci skip]
+
+* Separatist Antag UI (#64173)
+
+* Automatic changelog generation for PR #64336 [ci skip]
+
+* Cleans up thief midround ruleset, adds a few more conditions (#64336)
+
+* Automatic changelog generation for PR #64405 [ci skip]
+
+* fix blood barrage animation (#64405)
+
+* Automatic changelog generation for PR #64357 [ci skip]
+
+* Kilo uses regular newscasters (#64357)
+
+* Automatic changelog generation for PR #64391 [ci skip]
+
+* DeltaStation Den Differentiation (#64391)
+
+* Automatic changelog generation for PR #64392 [ci skip]
+
+* Radstorm Shelter Area Turfs (#64392)
+
+* Makes destination tagger use collections functions (#64383)
+
+* Automatic changelog generation for PR #64407 [ci skip]
+
+* Bluespace gas vendors no longer deletes the gases it doesn't send to the tank. (#64407)
+
+* Automatic changelog generation for PR #64376 [ci skip]
+
+* Fixes removing attachments from guns (#64376)
+
+* Automatic changelog generation for PR #64344 [ci skip]
+
+* Adds admin logging to antagonist comms console hacks (#64344)
+
+* Removes an unused var on Armour (#64370)
+
+* Automatic changelog generation for PR #64389 [ci skip]
+
+* Monkeys can pop balloons with darts. (#64389)
+
+* Improve pr config documentation. (#64390)
+
+* Automatic changelog generation for PR #64397 [ci skip]
+
+* Adds ACCESS_SERVICE to list of service accesses (#64397)
+
+* Automatic changelog generation for PR #64394 [ci skip]
+
+* fixes mc tab fast refresh pref being invalid in prefs menu (#64394)
+
+* Automatic changelog generation for PR #64399 [ci skip]
+
+* Fixes HoP being unable to be midround thief (#64399)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #64189 [ci skip]
+
+* APOTHEOSIS! now forces you standing when you're in the death animation as a plasma skeleton. (#64189)
+
+* Automatic changelog generation for PR #63755 [ci skip]
+
+* MODsuit Action Circuit Component (+ MODsuit circuit module fixes) (#63755)
+
+* remove incorrect radiation comment (#64369)
+
+* Automatic changelog generation for PR #64355 [ci skip]
+
+* Adds better examine text to catwalk plating (#64355)
+
+* Automatic changelog generation for PR #64374 [ci skip]
+
+* Change the old method to DisplayTimeText (#64374)
+
+* Automatic changelog generation for PR #64382 [ci skip]
+
+* Mannitol is now sweet (#64382)
+
+* Automatic changelog generation for PR #64238 [ci skip]
+
+* Boritos: Now with different flavors and available at vendors + Ready Donkmeal Trash Sprite uplift (#64238)
+
+* Automatic changelog generation for PR #64363 [ci skip]
+
+* adds a vine spawning animation (#64363)
+
+* Automatic changelog generation for PR #64379 [ci skip]
+
+* Vending Machine no gravity fix (#64379)
+
+* Automatic changelog generation for PR #64375 [ci skip]
+
+* Make more use of <tool>_act (#64375)
+
+* Automatic changelog generation for PR #64373 [ci skip]
+
+* Further improvements to toolbox sprites (#64373)
+
+* Automatic changelog generation for PR #64377 [ci skip]
+
+* Some Command Resprites (#64377)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #64361 [ci skip]
+
+* Remove DJ Station Active Turf (#64361)
+
+* Automatic changelog generation for PR #64346 [ci skip]
+
+* prevents smuggler satchels from spawning where they shouldn't (#64346)
+
+* Automatic changelog generation for PR #64293 [ci skip]
+
+* Adds some more moth wings & antennae (#64293)
+
+* Adds items that boots and clown shoes can hold.(#64056)
+
+* Automatic changelog generation for PR #64277 [ci skip]
+
+* Gamer quirk (#64277)
+
+* Automatic changelog generation for PR #63693 [ci skip]
+
+* Bot code improvement - Honkbots (#63693)
+
+* Automatic changelog generation for PR #64356 [ci skip]
+
+* Fixing malf AI: episode 3
+
+* Fixes bamboo spear not using ComponentInitialize
+
+* Automatic changelog generation for PR #64352 [ci skip]
+
+* Changes APC's/air alarm's lock/unlock hotkey from alt+click to right click (#64352)
+
+* Automatic changelog generation for PR #64131 [ci skip]
+
+* Reworks janitor cyborg cleaning, focus on the slipping (#64131)
+
+* Automatic changelog generation for PR #64342 [ci skip]
+
+* Updates botany tips (#64342)
+
+* Replaces all single letter variables in alcohol_reagents.dm (#64215)
+
+* Automatic changelog generation for PR #64223 [ci skip]
+
+* CMO turtlenecks arrive (#64223)
+
+* Automatic changelog generation for PR #64276 [ci skip]
+
+* Semkis and Pistachios! Come get your snacks + Snack Items Name Fixes (#64276)
+
+* Automatic changelog generation for PR #64313 [ci skip]
+
+* Makes destination tagger UI use alphabetical order (#64313)
+
+* Automatic changelog generation for PR #64314 [ci skip]
+
+* Fixes + expands vending machine returned purchases (#64314)
+
+* Automatic changelog generation for PR #64323 [ci skip]
+
+* Security Uniform Resprites (#64323)
+
+* Automatic changelog generation for PR #64240 [ci skip]
+
+* Fixes ablative trench coat removing an existing sechud (#64240)
+
+* Automatic changelog generation for PR #64175 [ci skip]
+
+* The Rabbit Separatist Movement from Easter (BNUYY EDITION) (#64175)
+
+* Automatic changelog compile [ci skip]
+
+* Automatic changelog generation for PR #64164 [ci skip]
+
+* Makes a projectile shield element for colossus, and makes living bullet_act call parent (#64164)
+
+* Documents economy and bank account variables. (#64217)
+
+* Automatic changelog generation for PR #63879 [ci skip]
+
+* Remove code/__DEFINES/misc.dm (#63879)
+
+* Automatic changelog generation for PR #64065 [ci skip]
+
+* tgui filing cabinets (#64065)
+
+* Adds an error for compiling with broken BYOND versions. (#64364)
+
+* Automatic changelog generation for PR #64322 [ci skip]
+
+* Fix: Avoid runechat scheduling too far events into short queue (#64322)
+
+* Automatic changelog generation for PR #64182 [ci skip]
+
+* Syndie Lavaland Base - Modular Room Expansion (#64182)
+
+* Automatic changelog generation for PR #64325 [ci skip]
+
+* Remaps Tram gulag dock to make it function correctly (#64325)
+
+* Automatic changelog generation for PR #64328 [ci skip]
+
+* trunks dbz (#64328)
+
+* Automatic changelog generation for PR #64317 [ci skip]
+
+* nerf da crowbar (#64317)
+
+* Automatic changelog generation for PR #64292 [ci skip]
+
+* Delta Engi - Fixes 1 door's access (You're engineers just hack it jeez god) (#64292)
+
+* Automatic changelog generation for PR #64092 [ci skip]
+
+* Readds missing skeleton wing sprite (#64092)
+
